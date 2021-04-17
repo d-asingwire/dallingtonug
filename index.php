@@ -69,7 +69,7 @@
 
       <div class="container">
         <br>
-        <h4>Dallington Asingwire</h4>
+        <h4>Dallington Asingwiresss</h4>
         <hr>
         <h5>Introduction</h5>
         <p>Dallington Asingwire is a fourth year software engineering student at Makerere University who is passionate about technology,computer programming and creating innovative software products.
