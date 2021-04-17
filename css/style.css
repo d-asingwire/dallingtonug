@@ -1,0 +1,97 @@
+
+      body{
+        background: #f4f4f4;
+        
+      }
+      .nunito{
+        font-family: 'Nunito' !important;
+      }
+      .warning{
+        background: #B5EAAA !important;
+      }
+      #dall2018{
+        font-size: 14px;
+        text-align: center;
+        font-weight: bold;
+      }
+      .footer{
+        background: #343a40;
+        
+        text-align: center;
+        color: #f4f4f4;
+      }
+      .footer a{
+        color: #f1f1f1;
+        text-decoration: none;
+      }
+      .footer a:hover{
+        color: green;
+        text-decoration: none;
+      }
+    
+      #copyright{
+        color: #f1f1f1;
+        text-align: center;
+        margin-top: 110px;
+        font-size: 12px;
+      }
+      .table_headers{
+        color: green;
+      }
+     
+      .jumbotron{
+      background-image: url("img/try.png");
+      background-repeat: no-repeat;
+      background-size: cover;
+      z-index: -2;
+      opacity: 0.8;
+      display: block;    
+      }
+      #learnmore{
+        margin-top: 45px;
+        font-size: 15px;
+        margin-left: 13px;
+         background: #343a40;
+              color: #f4f4f4;
+      }
+      #dall{ 
+        font-weight: italic; 
+         font-family:Times New Roman;
+         font-size: 25px;
+         text-shadow: 3px;
+         color: black;
+         opacity: 100;
+      }
+      #dallington2018{
+        height:360px !important; 
+      }
+      #connect{
+      color: #6CC417;
+      font-family:sans-serif !important;
+      font-size: 16px;
+      }
+    
+     .card > img {
+         height: 300px;
+      }
+      .navbar-nav > li{
+         padding-left: 20px;
+         padding-right: 20px;
+      }
+      .co-image{
+        width: 1050px;
+        height: 750px;
+        opacity: 0.9;
+      }
+
+  
+footer > .container > span {
+     font-size: 15px;
+     text-indent: 5em;
+
+}
+h5,h4{
+  font-weight: bold;
+}
+   
+     
