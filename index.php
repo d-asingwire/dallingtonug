@@ -11,115 +11,13 @@
   <link rel="icon" href="img/2021m1.ico">
   <title>Dallington</title>
 
- <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
-  <link rel="stylesheet" type="text/css" href="css/nunito.css">
-  <link rel="stylesheet" href="https://github.com/DallingtonAsin/mywebsite/blob/070c7a2077115016e154bc02b988703a3d7f4b78/css/style.css">
-  <!-- Latest compiled and minified CSS -->
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+  <script src="vendors/jquery/dist/jquery.min.js"></script>
+  <script src="vendors/bootstrap/dist/js/bootstrap.min.js"></script>
 
-  <link rel="stylesheet" type="text/css" href="vendors/fontawesome/css/all.min.css">
-  
-  <style>
-     body{
-        background: #f4f4f4;
-        
-      }
-      .nunito{
-        font-family: 'Nunito' !important;
-      }
-      .warning{
-        background: #B5EAAA !important;
-      }
-      #dall2018{
-        font-size: 14px;
-        text-align: center;
-        font-weight: bold;
-      }
-      .footer{
-        background: #343a40;
-        
-        text-align: center;
-        color: #f4f4f4;
-      }
-      .footer a{
-        color: #f1f1f1;
-        text-decoration: none;
-      }
-      .footer a:hover{
-        color: green;
-        text-decoration: none;
-      }
-    
-      #copyright{
-        color: #f1f1f1;
-        text-align: center;
-        margin-top: 110px;
-        font-size: 12px;
-      }
-      .table_headers{
-        color: green;
-      }
-     
-      .jumbotron{
-      background-image: url("img/try.png");
-      background-repeat: no-repeat;
-      background-size: cover;
-      z-index: -2;
-      opacity: 0.8;
-      display: block;    
-      }
-      #learnmore{
-        margin-top: 45px;
-        font-size: 15px;
-        margin-left: 13px;
-         background: #343a40;
-              color: #f4f4f4;
-      }
-      #dall{ 
-        font-weight: italic; 
-         font-family:Times New Roman;
-         font-size: 25px;
-         text-shadow: 3px;
-         color: black;
-         opacity: 100;
-      }
-      #dallington2018{
-        height:360px !important; 
-      }
-      #connect{
-      color: #6CC417;
-      font-family:sans-serif !important;
-      font-size: 16px;
-      }
-    
-     .card > img {
-         height: 300px;
-      }
-      .navbar-nav > li{
-         padding-left: 20px;
-         padding-right: 20px;
-      }
-      .co-image{
-        width: 1050px;
-        height: 750px;
-        opacity: 0.9;
-      }
-
-  
-footer > .container > span {
-     font-size: 15px;
-     text-indent: 5em;
-
-}
-h5,h4{
-  font-weight: bold;
-}
-    
-    
-  </style>
+  <link rel="stylesheet" href="vendors/bootstrap/dist/css/bootstrap.min.css"/>
+  <link rel="stylesheet" type="text/css" href="css/nunito.css"/>
+  <link rel="stylesheet" href="css/style.css"/>
+  <link rel="stylesheet" type="text/css" href="vendors/fontawesome/css/all.min.css"/>
 
 </head>
 <body>
@@ -129,7 +27,7 @@ h5,h4{
       <span class="navbar-toggler-icon"></span>
     </button>
 
-    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+    <div class="collapse navbar-collapse lead" id="navbarsExampleDefault">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a class="nav-link" href="#Home">Home <span class="sr-only">(current)</span></a>
@@ -175,7 +73,9 @@ h5,h4{
         <h4>Dallington Asingwire</h4>
         <hr>
         <h5>Introduction</h5>
-        <p>Dallington Asingwire is a graduate with First Class Honours of CGPA <span class="text-info">4.53</span> in B.Sc Software Engineering, Makerere University. He is passionate about technology, computer programming and creating innovative software products.
+        <p>Dallington Asingwire is a software engineer who graduated with First Class Honours
+          <span class="text-info">(4.53 on a scale of 5)</span> in BSc. Software Engineering,
+           Makerere University Kampala, Uganda. He is passionate about technology, computer programming and creating innovative software products.
           He has worked on various <a class="text-dark" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
         <hr>
@@ -196,7 +96,7 @@ h5,h4{
               to influence the community through designing and implementing innovative technologies.
             </p>
 
-            <p>Dallington's first sale of his one of software systems was <span class="text-primary">$492</span> and this drastically boosted his confidence to visualize the magic of empowering and impressing upon the mind, the right input.<br><span class="text-info">Mark Zuckerburg</span> graduation speech at <a href="http://www.havard.com">Havard University</a>, 2017 inspired Dallington to understand the need for every human life to have a sense of purpose rather than progress and so he has that degree of desire, willingness and enthusiasm to have a positive impact on many human lives in this world. <br><span id="Education"></span>
+            <p>Dallington's first sale of his one of software systems was <span class="text-primary">$492</span> and this drastically boosted his confidence to visualize the magic of empowering and impressing upon the mind, the right input.<br><span class="text-info">Mark Zuckerburg</span> graduation speech at <a href="http://www.havard.com">Havard University</a>, 2017 inspired Dallington to understand the need for every human life to have a sense of purpose rather than progress and so he has that degree of desire, willingness and enthusiasm to have a positive impact on many human lives in this world. <br>
 
               <p>
                 Dallington looks forward to establishing a Tech company that will engage many young Ugandans to attain skills and knowledge whose use will hinge on changing the world through technology to be a better place to live for every human life.
@@ -210,12 +110,12 @@ h5,h4{
 
             </span> 
           </div>
-          <div class="col-md-3">
-            <div class="card" style="width: 18rem;">
-              <img src="https://media-exp1.licdn.com/dms/image/C4D03AQGKReVRCZPa5g/profile-displayphoto-shrink_200_200/0/1623934863125?e=1634774400&v=beta&t=PwUezGtqFsmcBx2_eWsgV1U-7ng9sXiOGYufU5GZkww"
-              <div class="card-body">
-                <h5 class="card-text" id="dall2018">
-                Dallington Asingwire in 2020</h5>
+          <div class="col-md-3 justify-content-center">
+            <div class="card" style="width: 22rem; height: 22rem">
+              <img src="/img/dallington.jpg"/>
+              <div class="card-body" id="Education">
+                <h5 class="card-text mb-2" id="dall2018">
+                Dallington Asingwire in 2021</h5>
               </div>
             </div>
           </div>
@@ -471,21 +371,118 @@ h5,h4{
   <div class="container">
     <br>
     <h5 id="Experience">Work Experience</h5>
-    <span>Dallington is currently working at <span class="text-info"><a href="https://www.africaone.com/">Africa One</a></span> as a full stack software developer, NextJs, ReactJs, CakePHP and MongoDB.</span><br><br>
+    <span>Dallington is currently working at <span class="text-info">
+      <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> as a full stack software developer, NextJs, ReactJs, CakePHP and MongoDB.</span><br><br>
     
-    <span>He worked at <span class="text-info"><a href="https://www.pegasustechnologies.co.ug/">Pegasus Technologies</a></span> as a software developer, specifically coding in C# programming language</span><br><br>
+    <span>He worked at <span class="text-info">
+      <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> as a software developer, specifically coding in C# programming language</span><br><br>
     
     
-    <span>Dallington worked as an intern at <span class="text-info"><a href="https://www.bou.or.ug/">Bank of Uganda</a></span> in the department of <span class="text-info"> IT Operations (ITO)</span> for the period of one month from 1st July to 31st July 2019.He was recommended by the central bank after his successful training.</span><br><br>
-    <span id="Services">Dallington worked as an intern at <span class="text-info"><a href="https://www.mak.ac.ug/">Makerere University</a></span> in the Department of  <span class="text-info">ICT Support Services (DISS)</span>
+    <span>Dallington worked as an intern at <span class="text-info">
+      <a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a></span> in the department of <span class="text-info"> IT Operations (ITO)</span> for the period of one month from 1st July to 31st July 2019.He was recommended by the central bank after his successful training.</span><br><br>
+    <span>Dallington worked as an intern at <span class="text-info">
+      <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a></span> in the Department of  <span class="text-info">ICT Support Services (DISS)</span>
   for the period of one month from 5th June to 28th June 2019 where he participated in hardware and sofware maintenance and windows server administration.</span><br><br>
-  <span>Dallington happened to have got an opportunity of teaching physics,chemistry,Mathematics in his S.6 vacation in two schools that is St.johns SS Nyabwina and Sheema Girls School,both found in Sheema district. He was credited for his tremedous contribution by both the students and staff of the two institutions in his four-month short<span id="Hobbies"></span> vacation after which he had to go and continue with his studies at Makerere University way back in 2016</span>
+  <span>Dallington taught Physics, Chemistry, Mathematics and ICT in his S.6 vacation in two schools that is St.johns SS Nyabwina and Sheema Girls School,both found in Sheema district. He was credited for his tremedous contribution by both the students and staff of the two institutions in his four-month short<span id="Hobbies"></span> vacation after which he had to go and continue with his studies at Makerere University way back in 2016</span>
   <hr>  
 </div>
   
-    
-  <div class="container">
-    <br>
+
+
+<div class="container">
+  <br>
+  <h5>Hobbies</h5>
+  <ol>
+   <li>Computer programming</li>
+   <li>Reading</li>
+   <li>Researching</li>
+   <li>Teaching others what i know</li>
+   <li id="Contact">Keeping up with computer technology and current affairs</li>
+   <li>Sports (Football, Golf)</li>
+ </ol>
+
+ <hr>  
+</div>
+
+
+<div class="container">
+  <br>
+  <h5 id="Contact">Contact</h5>
+  <div class="table-responsive">
+    <table class="table table-striped">
+      <tr>
+        <td>Telephone</td>
+        <td>+256700477421 <span class="text-info">( official )</span></td>
+      </tr>
+      <tr>
+        <td>Email</td>
+        <td>codesolutionug@gmail.com</td>
+      </tr>
+    </table>
+  </div>
+  <hr>  
+</div>
+
+
+
+<div class="container" id="projects">
+ <h5>Software Projects</h5>
+ Dallington has worked on or developed the following software projects/products
+ <ul>
+  <h6><u>Commercial apps</u></h6>
+
+     <li><a href="http://posv2.parkproug.com" target="_blank">
+  Point of Sale</a><span class="text-dark">; Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.
+  </span></li>
+  
+    <li><a href="https://office.parkproug.com/" target="_blank">
+  Office Solution</a><span class="text-dark">; used by staff to record attendance, add deprtments, staff admin to record expenses, view reports 
+  </span></li>
+  
+    <li><a href="https://dashboard.parkproug.com/" target="_blank">
+  Parksmart</a><span class="text-dark">; system to manage parking for a prioprietor who owns parking.
+  </span></li>
+  
+    <li><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">
+ UTLAgent</a>; C# ASP.NET program that enables a Telecom(UTL) Agent to register a customer whose registration details are sent via email, deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers, view customer's account balance, view a ledger of transactions, check if customer is registered and view list of activity logs done within the system.<span class="text-dark">;
+  </span></li>
+  
+    <li><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">
+  UTLAgent API</a>; C# ASP.NET application programming interface (API) that receives requests from UTLAgent web portal to enable a Telecom(UTL) agent to register a customer whose registration details are sent via email, deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers, view customer's account balance, view a ledger of transactions, check if customer is registered and view list of activity logs done within the system.<span class="text-dark">; 
+  </span></li>
+  
+    <li><a href="http://grento.parkproug.com/" target="_blank">
+ Apartment/Hostel management system</a><span class="text-dark">; used to manage rooms, record payments and generate reports in an apartments/hostel.
+  </span></li>
+  
+
+  <li><a href="http://hms.parkproug.com" target="_blank">
+  Hotel management system</a><span class="text-dark">; used by bar and restaurant owners to record transactions and view reports.
+  </span></li>
+  
+
+    <li><a href="http://exam.parkproug.com/" target="_blank">
+  School management system</a><span class="text-dark">; used to manage students, teachers in a school.
+  </span></li>
+  
+  <li><a href="https://github.com/DallingtonAsin/CommercialBanksSystem.git" target="_blank">
+   Sacco Management System,</a><span class="text-dark">; used by saccos to manage financial transactions</span></li>
+   
+       <li><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">
+  Parkpro</a><span class="text-dark">; mobile app for drivers to locate affordable and near parking areas 
+  </span></li>
+  
+    <li id="Services" ><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank">online examination system,</a><span class="text-dark">system that allows a student to attempt questions and get marked automatically after attempting questions.</span></li>
+    <h6><u>Non-commercial apps</u></h6>
+     <li><a href="https://github.com/DallingtonAsin/C-Sharp-Essentials.git" target="_blank">Essentials of C# Programming</a></li>
+    <li><a href="">simple unit converter</a></li>
+    <li><a href="">calculator</a></li>
+  </ul>
+  
+  
+  <hr/>
+    <div class="container">
+
     <h5>Services</h5>
     <div>
       <h6>Mobile App Development</h6>
@@ -521,88 +518,23 @@ h5,h4{
       <li>If you wish, I can bill by hours. I am flexible and we can work it out as per your choice.</li>
     </ul>
     </div>
-    
-    
-
   </div>
 
-<div class="container">
-  <br>
-  <h5 >Hobbies</h5>
-  <ol>
-   <li>Computer programming</li>
-   <li>Reading</li>
-   <li>Researching</li>
-   <li id="Contact">Keeping up with computer technology and current affairs</li>
-   <li>Sports (Football, Golf)</li>
- </ol>
-
- <hr>  
-</div>
-
-
-<div class="container">
-  <br>
-  <h5 id="Contact">Contact</h5>
-  <div class="table-responsive">
-    <table class="table table-striped">
-      <tr>
-        <td>Telephone</td>
-        <td>+256700477421 <span class="text-info">( official )</span></td>
-      </tr>
-      <tr>
-        <td>Email</td>
-        <td>codesolutionug@gmail.com</td>
-      </tr>
-    </table>
-  </div>
-  <hr>  
-</div>
-
-
-
-<div class="container" id="projects">
- <h5>Software Projects</h5>
- Dallington has worked on or developed the following software projects/products
- <ul>
-  <h6><u>Commercial apps</u></h6>
-
-     <li><a href="https://collectionug.com/">
-  Point of Sale: with/without barcode functionality,</a><span class="text-dark"> 
-  Laravel</span></li>
-
-  <li><a href="https://github.com/DallingtonAsin/grento.git">
-  Tenant management system,</a><span class="text-dark"> 
-  Laravel</span></li>
-  
-    <li><a href="https://github.com/DallingtonAsin/school-management-system.git">
-  School management system,</a><span class="text-dark"> 
-  Laravel</span></li>
-  
-  <li><a href="https://github.com/DallingtonAsin/CommercialBanksSystem.git">
-   Sacco Management System,</a><span class="text-dark"> Laravel</span></li>
-  
-    <li><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git">online examination system,</a><span class="text-dark">PHP</span></li>
-    <h6><u>Non-commercial apps</u></h6>
-    <li><a href="">simple unit converter</a></li>
-    <li><a href="">calculator</a></li>
-  </ul>
-
 
   
-  <ul>
-     <h6><u>Projects under progress</u></h6>
-    <li>
-      <a href="https://github.com/DallingtonAsin/Roomd.git">RoomD, <span class="text-dark"> 
-  React Native</span></a>
-    </li>
-  </ul>
+  <!--<ul>-->
+  <!--   <h6><u>Projects under progress</u></h6>-->
+  <!--  <li>-->
+  <!--    <a href="https://github.com/DallingtonAsin/Roomd.git">RoomD, <span class="text-dark"> -->
+  <!--React Native</span></a>-->
+  <!--  </li>-->
+  <!--</ul>-->
 
   <hr>
   <h6>Strategic Vision</h6>
   <ul>
-   <li>Dallington has a Tech startup called <span><a href="https://codesolutionug.xyz/roomd/">Code Solution Tech</a></span> whose aim
-    is to reduce unemployment in Uganda through empowering youth by engaging them in technological revolution activities. The startup brings together innovative minds which work collaboratively to provide solutions to different 
+   <li>Dallington dreams of ever setting up a Tech startup that will aim at reducing unemployment in Uganda through empowering youth by engaging them in technological revolution activities. 
+   The startup will focus to bring together innovative minds that will work collaboratively to provide solutions to different 
     problems in the world of health, education, agriculture, business, and other fields.
   </li>
 </ul>
@@ -611,48 +543,47 @@ h5,h4{
 
 
 
-<div class="container" id="quotes">
+<div class="container quotes" id="quotes">
     <hr>
   <!-- Example row of columns -->
   <h5>Favorite Quotes</h5><br>
   <div class="row">
-
     <div class="col-md-4">
-      <b>Martin Lurther King</b>
-      <div class="card" style="width: 18rem;">
+      <!-- <b>Martin Lurther King</b> -->
+      <div class="card">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <p class="card-text">
             "We must develop and maintain the capacity to forgive.He who is devoid of the power to forgive is devoid of the power to love." Martin Luther King
           </p>
-          <center><a class="btn btn-secondary" href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button">Read more</a></center>
+         <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button" target="_blank">Read more</a>
         </div>
       </div>
     </div>
 
     <div class="col-md-4">
-      <b>Albert Einstein</b>
-      <div class="card" style="width: 18rem;">
+      <!-- <b>Albert Einstein</b> -->
+      <div class="card">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <p class="card-text">
             "Everybody is a genius.But if you judge a fish by its ability to climb a tree,it will live its whole life believing that it is stupid." Albert Einstein
           </p>
-          <center><a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button">Read more</a></center>
+         <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button" target="_blank">Read more</a>
         </div>
       </div>
     </div>
 
     <div class="col-md-4">
-      <b>Galileo Galilei</b>
-      <div class="card" style="width: 18rem;">
+      <!-- <b>Galileo Galilei</b> -->
+      <div class="card">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg" class="card-img-top" alt="...">
         <div class="card-body">
           <p class="card-text">
            "I do not feel obliged to believe that the same God who has endowed us with sense, reason,
            and intellect has intended us to forgo their use." Galileo
          </p>
-         <center><a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei" role="button">Read more</a></center>
+        <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei" role="button" target="_blank">Read more</a>
        </div>
      </div>
    </div>
@@ -678,13 +609,13 @@ h5,h4{
       <p>Keep in touch with Dallington on social media</p>
     </span>
     <span class="pl-3">
-      <a href="https://www.facebook.com/dallington.asingwire" ><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/facebook-128.png"  width="35px" height="40px">Facebook</a>
+      <a href="https://www.facebook.com/dallington.asingwire" ><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/facebook-128.png"  width="35px" height="40px" target="_blank">Facebook</a>
     </span>
     <span class="pl-1">
-     <a href="https://www.instagram.com/dallingtonug/"><img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png"  width="35px" height="40px">Instagram</a>
+     <a href="https://www.instagram.com/dallingtonug/"><img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png"  width="35px" height="40px" target="_blank">Instagram</a>
    </span>
    <span class="pl-1">
-     <a href="https://twitter.com/dallingtonug"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"  width="35px" height="40px">Twitter</a>
+     <a href="https://twitter.com/dallingtonasin"><img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"  width="35px" height="40px" target="_blank">Twitter</a>
    </span>
 
    <p class="nunito" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>

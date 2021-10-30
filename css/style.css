@@ -1,5 +1,5 @@
 
-      body{
+    body{
         background: #f4f4f4;
         
       }
@@ -70,13 +70,19 @@
       font-family:sans-serif !important;
       font-size: 16px;
       }
+
+      .card {
+          margin: 0 0 20px!important;
+      }
     
      .card > img {
-         height: 300px;
+         height: auto;
+         /* width: auto; */
       }
       .navbar-nav > li{
-         padding-left: 20px;
-         padding-right: 20px;
+         padding-left: 15px;
+         padding-right: 15px;
+         font-size: 19px;
       }
       .co-image{
         width: 1050px;
@@ -93,5 +99,15 @@ footer > .container > span {
 h5,h4{
   font-weight: bold;
 }
+
+
    
+
+@media (min-width:320px)  {  .card { width: 100%  }  .card > img { height: 350px;}/* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px)  {  .card { width: 100%  } .card > img { height: 350px;}/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px)  { .card { width: 100%   } .card > img { height: 350px;}/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px)  { .card { width: 100%   } .card > img { height: 350px;}/* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { .card { width: 100%   } .card > img { height: 350px;}/* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { .card { width: 100%   } .card > img { height: 350px;}/* hi-res laptops and desktops */ }
+
      
