@@ -9,7 +9,7 @@
   <meta name="author" content="Dallington Asingwire">
   <meta name="generator" content="Jekyll v3.8.5">
   <link rel="icon" href="img/2021m1.ico">
-  <title>Dallington</title>
+  <title>Engineer Dallington's website</title>
 
   <script src="vendors/jquery/dist/jquery.min.js"></script>
   <script src="vendors/bootstrap/dist/js/bootstrap.min.js"></script>
@@ -18,6 +18,8 @@
   <link rel="stylesheet" type="text/css" href="css/nunito.css"/>
   <link rel="stylesheet" href="css/style.css"/>
   <link rel="stylesheet" type="text/css" href="vendors/fontawesome/css/all.min.css"/>
+  <link rel="shortcut icon" type="image/x-icon" href="img/dallington.ico" />
+
 
 </head>
 <body>
@@ -73,8 +75,8 @@
         <h4>Dallington Asingwire</h4>
         <hr>
         <h5>Introduction</h5>
-        <p>Dallington Asingwire is a software engineer who graduated with First Class Honours
-          <span class="text-info">(4.53 on a scale of 5)</span> in BSc. Software Engineering,
+        <p>Dallington Asingwire is a software engineer who graduated with First Class Honours (
+          <span class="text-info">4.53 <span class="text-dark">on a scale of</span> 5</span>) in BSc. Software Engineering,
            Makerere University Kampala, Uganda. He is passionate about technology, computer programming and creating innovative software products.
           He has worked on various <a class="text-dark" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
