@@ -112,13 +112,19 @@
 
             </span> 
           </div>
-          <div class="col-md-3 justify-content-center">
-            <div class="card" style="width: 22rem; height: 22rem">
+          <div class="col-md-4">
+            <div class="card">
               <img src="/img/dallington.jpg"/>
-              <div class="card-body justify-content-center" id="Education">
-                <h5 class="card-text mb-2" id="dall2018">
-                Dallington Asingwire in 2021</h5>
-                <a href="docs/resume.pdf" download="Resume" class="btn bg-white text-dark border border-secondary resume-btn">Download Resume <i class="fa fa-download"></i></a>
+              <div class="card-body bio-conten align-items-center justify-content-center">
+              <div class="d-flex justify-content-center">
+              <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2021</h5>
+              </div>
+              <div class="d-flex justify-content-center">
+              <a href="docs/resume.pdf" download="Resume" class="btn btn-sm bg-white text-dark border border-secondary">
+                   Download Resume <i class="fa fa-download"></i></a>
+              </div>
+                
+                
               </div>
             </div>
           </div>
