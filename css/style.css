@@ -28,6 +28,10 @@
         color: green;
         text-decoration: none;
       }
+
+      .resume-btn{
+        margin: 0 auto;
+      }
     
       #copyright{
         color: #f1f1f1;
