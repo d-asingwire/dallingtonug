@@ -633,7 +633,7 @@
      <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"  width="35px" height="40px">Twitter</a>
    </span>
 
-   <p class="nunito" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
+   <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
  </div>
 
 </footer>
