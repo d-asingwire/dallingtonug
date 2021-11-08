@@ -122,12 +122,10 @@
               <div class="d-flex justify-content-center">
               <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2021</h5>
               </div>
-              <div class="d-flex justify-content-center">
+              <div class="d-flex justify-content-center" id="Education">
               <a href="docs/resume.pdf" download="Resume" class="btn btn-sm bg-white text-dark border border-secondary">
                    Download Resume <i class="fa fa-download"></i></a>
               </div>
-                
-                
               </div>
             </div>
           </div>
@@ -429,7 +427,7 @@
       </tr>
       <tr>
         <td>Email</td>
-        <td>codesolutionug@gmail.com</td>
+        <td>asingwire50dallington@gmail.com</td>
       </tr>
     </table>
   </div>
