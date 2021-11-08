@@ -47,11 +47,14 @@
           <a class="nav-link" href="#Experience">Experience</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Services">Services</a>
+          <a class="nav-link" href="#projects">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Hobbies">Hobbies</a>
+          <a class="nav-link" href="#Services">Services</a>
         </li>
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="#Hobbies">Hobbies</a>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" href="#Contact">Contact</a>
         </li>
@@ -78,7 +81,7 @@
         <p>Dallington Asingwire is a software engineer who graduated with First Class Honours (<span class="text-info">4.53 
           <span class="text-dark">on a scale of</span> 5</span>) in BSc. Software Engineering,
            Makerere University Kampala, Uganda. He is passionate about technology, computer programming and creating innovative software products.
-          He has worked on various <a class="text-dark" href="#projects">software projects</a>.
+          He has worked on various <a class="text-info" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
         <hr>
       </div>
@@ -417,6 +420,7 @@
 <div class="container">
   <br>
   <h5 id="Contact">Contact</h5>
+  <span id="projects"></span> 
   <div class="table-responsive">
     <table class="table table-striped">
       <tr>
@@ -429,12 +433,12 @@
       </tr>
     </table>
   </div>
-  <hr>  
+  <hr> 
 </div>
 
 
 
-<div class="container" id="projects">
+<div class="container">
  <h5>Software Projects</h5>
  Dallington has worked on or developed the following software projects/products
  <ul>
