@@ -613,15 +613,15 @@
   <div class="row">
     <div class="col-md-12">
     <ul class="list-group">
-       <li class="list-group-item"><a href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays of Objects in Java</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
-       <li class="list-group-item"><a href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays of Objects in Java</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
+       <li class="list-group-item"><a class="text-decoration-none" href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
     </ul>
     </div>
  </div>
