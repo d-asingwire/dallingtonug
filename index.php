@@ -669,6 +669,7 @@
 
    <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
  </div>
+ 
 
 </footer>
 
