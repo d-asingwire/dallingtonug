@@ -653,18 +653,18 @@
     </span>
     <span class="pl-3">
       <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
-      <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/facebook-128.png"  width="35px" height="40px">
+      <img src="/img/fb.png"  width="40px" height="40px">
       <!-- <i class="fa fa-facebook text-white"></i> -->
       Facebook
     </a>
     </span>
     <span class="pl-1">
      <a href="https://www.instagram.com/dallingtonug/" target="_blank">
-     <img src="https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-128.png"  width="35px" height="40px">Instagram</a>
+     <img src="/img/instagram.png"  width="40px" height="40px"> Instagram</a>
    </span>
    <span class="pl-1">
      <a href="https://twitter.com/dallingtonasin" target="_blank">
-     <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/twitter-128.png"  width="35px" height="40px">Twitter</a>
+     <img src="/img/twitter.png" width="40px" height="40px"> Twitter</a>
    </span>
 
    <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
