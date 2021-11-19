@@ -90,7 +90,7 @@
        <h5 id="Background">Background</h5>
        <div class="row">
         <div class="col-md-8">
-          <p>Dallington Asingwire is a male Ugandan who was born on 16<sup>th</sup> November 1996 in Ryenjoki,  Kyangyenyi Sheema District, western part of Uganda.<br>
+          <p>Dallington Asingwire is a male Ugandan who was born on 16<sup>th</sup> November 1996 in Ryenjoki,  Kyangyenyi Sheema District, Western Uganda.<br>
           He was born to Sentara Dallington, father and Ninsiima Annet, mother.</p>
           <span>
             <p>
@@ -236,7 +236,7 @@
 
             <tr>
               <td>Java</td>
-              <td>Basics and Esssentials of Java programming</td>
+              <td>Java programming</td>
             </tr>
 
 
