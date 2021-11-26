@@ -78,7 +78,7 @@
         <h4>Dallington Asingwire</h4>
         <hr>
         <h5>Introduction</h5>
-        <p>Dallington Asingwire is a software engineer who graduated with First Class Honours (<span class="text-info">4.53 
+        <p>Dallington Asingwire is a Software Engineer who graduated with First Class Honours (<span class="text-info">4.53 
           <span class="text-dark">on a scale of</span> 5</span>) in BSc. Software Engineering,
            Makerere University Kampala, Uganda. He is passionate about technology, computer programming and creating innovative software products.
           He has worked on various <a class="text-info" href="#projects">software projects</a>.
