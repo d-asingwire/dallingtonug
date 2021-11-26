@@ -441,13 +441,13 @@
  Dallington has worked on or developed the following software projects/products
  <br/>
   <h6><u>Commercial apps</u></h6>
-
+  <div class="table-responsive">
   <table class="table">
    <thead>
      <tr class="text-left">
-   <th style="width: 20%">Application</th>
-   <th style="width: 60%">Description</th>
-   <th style="width: 20%">Link</th>
+   <th>Application</th>
+   <th>Description</th>
+   <th>Link</th>
    </tr>
    </thead>
 
@@ -522,17 +522,21 @@
   </tbody>
 
   </table>
-
+</div>
+</div>
    
 
+
+<div class="container">
     <h6><u>Non-commercial apps</u></h6>
 
+    <div class="table-responsive">
     <table class="table">
    <thead>
      <tr>
-     <th style="width: 20%">Application</th>
-   <th style="width: 60%">Description</th>
-   <th style="width: 20%">Link</th>
+     <th>Application</th>
+   <th>Description</th>
+   <th>Link</th>
    </tr>
    </thead>
 
@@ -568,7 +572,8 @@
   </tbody>
 
   </table>
-  
+</div>
+</div>
 
   <hr/>
     <div class="container">
