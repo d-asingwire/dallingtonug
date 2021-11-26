@@ -439,12 +439,11 @@
 <div class="container">
  <h5>Software Projects</h5>
  Dallington has worked on or developed the following software projects/products
- <br/>
   <h6><u>Commercial apps</u></h6>
   <div class="table-responsive">
   <table class="table">
    <thead>
-     <tr class="text-left">
+    <tr>
    <th>Application</th>
    <th>Description</th>
    <th>Link</th>
@@ -489,9 +488,9 @@
 </tr>
 
 <tr>
-    <td>Apartment/Hostel management system</td>
-    <td>used to manage rooms, record payments and generate reports in an apartments/hostel.</td>
-    <td><a href="http://grento.parkproug.com/" target="_blank">Apartment/Hostel management system</a></td>
+    <td> Hostel management system</td>
+    <td>used to manage rooms, record payments & generate reports in a hostel.</td>
+    <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel management system</a></td>
 </tr>
 
 <tr>
@@ -529,7 +528,6 @@
 
 <div class="container">
     <h6><u>Non-commercial apps</u></h6>
-
     <div class="table-responsive">
     <table class="table">
    <thead>
