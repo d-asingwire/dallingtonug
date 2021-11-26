@@ -628,6 +628,7 @@
   <!--  </li>-->
   <!--</ul>-->
 
+  <div class="container">
   <hr>
   <h5>Strategic Vision</h5>
   <ul>
