@@ -117,7 +117,7 @@
           </div>
           <div class="col-md-4">
             <div class="card">
-              <img src="/img/dallington.jpg"/>
+              <img src="img/dallington.jpg"/>
               <div class="card-body bio-conten align-items-center justify-content-center">
               <div class="d-flex justify-content-center">
               <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2021</h5>
@@ -439,58 +439,137 @@
 <div class="container">
  <h5>Software Projects</h5>
  Dallington has worked on or developed the following software projects/products
- <ul>
+ <br/>
   <h6><u>Commercial apps</u></h6>
 
-     <li><a href="http://posv2.parkproug.com" target="_blank">
-  Point of Sale</a><span class="text-dark">; Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.
-  </span></li>
-  
-    <li><a href="https://office.parkproug.com/" target="_blank">
-  Office Solution</a><span class="text-dark">; used by staff to record attendance, add deprtments, staff admin to record expenses, view reports 
-  </span></li>
-  
-    <li><a href="https://dashboard.parkproug.com/" target="_blank">
-  Parksmart</a><span class="text-dark">; system to manage parking for a prioprietor who owns parking.
-  </span></li>
-  
-    <li><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">
- UTLAgent</a>; C# ASP.NET program that enables a Telecom(UTL) Agent to register a customer whose registration details are sent via email, deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers, view customer's account balance, view a ledger of transactions, check if customer is registered and view list of activity logs done within the system.<span class="text-dark">;
-  </span></li>
-  
-    <li><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">
-  UTLAgent API</a>; C# ASP.NET application programming interface (API) that receives requests from UTLAgent web portal to enable a Telecom(UTL) agent to register a customer whose registration details are sent via email, deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers, view customer's account balance, view a ledger of transactions, check if customer is registered and view list of activity logs done within the system.<span class="text-dark">; 
-  </span></li>
-  
-    <li><a href="http://grento.parkproug.com/" target="_blank">
- Apartment/Hostel management system</a><span class="text-dark">; used to manage rooms, record payments and generate reports in an apartments/hostel.
-  </span></li>
-  
+  <table class="table">
+   <thead>
+     <tr class="text-left">
+   <th>Application</th>
+   <th>Description</th>
+   <th>Link</th>
+   </tr>
+   </thead>
 
-  <li><a href="http://hms.parkproug.com" target="_blank">
-  Hotel management system</a><span class="text-dark">; used by bar and restaurant owners to record transactions and view reports.
-  </span></li>
-  
+   <tbody>
+  <tr>
+    <td>Point of Sale</td>
+    <td>Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.</td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">point of sale</a></td>
+</tr>
 
-    <li><a href="http://exam.parkproug.com/" target="_blank">
-  School management system</a><span class="text-dark">; used to manage students, teachers in a school.
-  </span></li>
-  
-  <li><a href="https://github.com/DallingtonAsin/CommercialBanksSystem.git" target="_blank">
-   Sacco Management System,</a><span class="text-dark">; used by saccos to manage financial transactions</span></li>
+<tr>
+    <td>Office Solution</td>
+    <td>used by staff to record attendance, add deprtments, staff admin to record expenses, view reports</td>
+    <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
+</tr>
+
+<tr>
+    <td>Parksmart</td>
+    <td>system to manage parking for a prioprietor who owns parking.</td>
+    <td><a href="https://dashboard.parkproug.com/" target="_blank">Parksmart</a></td>
+</tr>
+
+<tr>
+    <td>Point of Sale</td>
+    <td>Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.</td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">point of sale</a></td>
+</tr>
+
+<tr>
+    <td>Parkpro</td>
+    <td>mobile app for drivers to locate affordable and near parking areas.</td>
+    <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro</a></td>
+</tr>
+
+<tr>
+    <td>Vendor Management System</td>
+    <td>system used by retailers or wholesalers to manage orders and their suppliers.</td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">Vendor Management System</a></td>
+</tr>
+
+<tr>
+    <td>Apartment/Hostel management system</td>
+    <td>used to manage rooms, record payments and generate reports in an apartments/hostel.</td>
+    <td><a href="http://grento.parkproug.com/" target="_blank">Apartment/Hostel management system</a></td>
+</tr>
+
+<tr>
+    <td> Restaurant management system</td>
+    <td>used by restaurant owners to record transactions and view reports.</td>
+    <td><a href="http://hms.parkproug.com" target="_blank"> Restaurant management system</a></td>
+</tr>
+
+<tr>
+    <td> School management system</td>
+    <td>used by students and teachers in a school.</td>
+    <td><a href="http://exam.parkproug.com/" target="_blank"> School management system</a></td>
+</tr>
+
+<tr>
+    <td> online examination system</td>
+    <td>used by saccos to manage financial transactions</td>
+    <td><a href="http://exam.parkproug.com/" target="_blank"> Sacco Management System</a></td>
+</tr>
+
+<tr>
+    <td> Sacco Management System</td>
+    <td>Students can do exams online and get assessed instantly after submission of their exam</td>
+    <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Sacco Management System</a></td>
+</tr>
+
+
+  </tbody>
+
+  </table>
+
    
-       <li><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">
-  Parkpro</a><span class="text-dark">; mobile app for drivers to locate affordable and near parking areas 
-  </span></li>
-  
-    <li id="Services" ><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank">online examination system,</a><span class="text-dark">system that allows a student to attempt questions and get marked automatically after attempting questions.</span></li>
+
     <h6><u>Non-commercial apps</u></h6>
-     <li><a href="https://github.com/DallingtonAsin/C-Sharp-Essentials.git" target="_blank">Essentials of C# Programming</a></li>
-    <li><a href="">simple unit converter</a></li>
-    <li><a href="">calculator</a></li>
-  </ul>
+
+    <table class="table">
+   <thead>
+     <tr>
+   <th>Application</th>
+   <th>Description</th>
+   <th>Link</th>
+   </tr>
+   </thead>
+
+   <tbody>
+  <tr>
+    <td>simple unit converter</td>
+    <td>Is a calculator that can help user computer basic math operations.</td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
+</tr>
+
+<tr>
+    <td>UTLAgent</td>
+    <td>C# ASP.NET program that enables a Telecom(UTL) Agent to register a customer whose registration details
+  are sent via email, deposit money on customer's account, withdraw money from customer's account, view a list of
+   all registered customers, view customer's account balance, view a ledger of transactions, check if customer is 
+   registered and view list of activity logs done within the system.</td>
+    <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a></td>
+</tr>
+
+<tr>
+    <td>UTLAgent API</td>
+    <td>C# ASP.NET application programming interface (API) that receives requests from UTLAgent web portal 
+  to enable a Telecom(UTL) agent to register a customer whose registration details are sent via email,
+   deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers,
+    view customer's account balance, view a ledger of transactions, check if customer is registered and view list of
+     activity logs done within the system.</td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">UTLAgent API</a></td>
+</tr>
+
+
+
+
+  </tbody>
+
+  </table>
   
-  
+
   <hr/>
     <div class="container">
 
@@ -653,18 +732,18 @@
     </span>
     <span class="pl-3">
       <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
-      <img src="/img/fb.png"  width="40px" height="40px">
+      <img src="img/fb.png"  width="40px" height="40px">
       <!-- <i class="fa fa-facebook text-white"></i> -->
       Facebook
     </a>
     </span>
     <span class="pl-1">
      <a href="https://www.instagram.com/dallingtonug/" target="_blank">
-     <img src="/img/instagram.png"  width="40px" height="40px"> Instagram</a>
+     <img src="img/instagram.png"  width="40px" height="40px"> Instagram</a>
    </span>
    <span class="pl-1">
      <a href="https://twitter.com/dallingtonasin" target="_blank">
-     <img src="/img/twitter.png" width="40px" height="40px"> Twitter</a>
+     <img src="img/twitter.png" width="40px" height="40px"> Twitter</a>
    </span>
 
    <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
