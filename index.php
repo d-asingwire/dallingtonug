@@ -574,34 +574,39 @@
     <div class="container">
 
     <h5>Services</h5>
-    <div>
+    <div class="row">
+
+    <div class="col-md-4">
+      <h6>Web development</h6>
+    <ul>
+      <li>React, Nextjs</li>
+      <li>Html, css, Bootstrap</li>
+      <li>Laravel, CakePHP</li>
+    </ul>
+    </div>
+
+
+    <div class="col-md-4">
       <h6>Mobile App Development</h6>
     <ul>
       <li>React Native</li>
     </ul>
     </div>
     
-    <div>
-      <h6>Web development</h6>
-    <ul>
-      <li>React</li>
-      <li>Nextjs</li>
-      <li>Html, css, Bootstrap</li>
-      <li>Laravel</li>
-      <li>CakePHP</li>
-    </ul>
-    </div>
+   
     
-       <div>
-      <h6>Web services</h6>
+       <div class="col-md-4">
+      <h6>Micro Services</h6>
     <ul>
       <li>Laravel</li>
-      <li>Wordpress</li>
+      <li>C#</li>
     </ul>
     </div>
+
+   </div>
     
      <div>
-      <h6>How do you bill?</h6>
+      <p>How do you bill?</p>
     <ul>
       <li>My preference is to bill based on projects. Get your requirements, estimate the work, submit you a quote with schedule and cost.</li>
       <li>I am also available on monthly contract based billing</li>
@@ -621,11 +626,12 @@
   <!--</ul>-->
 
   <hr>
-  <h6>Strategic Vision</h6>
+  <h5>Strategic Vision</h5>
   <ul>
-   <li>Dallington dreams of ever setting up a Tech startup that will aim at reducing unemployment in Uganda through empowering youth by engaging them in technological revolution activities. 
-   The startup will focus to bring together innovative minds that will work collaboratively to provide solutions to different 
-    problems in the world of health, education, agriculture, business, and other fields.
+   <li>Dallington wants to start up a Tech company that will bring together young people to collaboratively work and provide solutions to different 
+    problems in the world using technology. Areas of focus will be climate, health, education, agriculture etc.
+    The goal is to empower youth by acquiring technological or digital skills that they will use to change their lives 
+    and the society at large.
   </li>
 </ul>
 </div>
