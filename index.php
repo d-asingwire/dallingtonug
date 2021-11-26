@@ -445,9 +445,9 @@
   <table class="table">
    <thead>
      <tr class="text-left">
-   <th>Application</th>
-   <th>Description</th>
-   <th>Link</th>
+   <th style="width: 20%">Application</th>
+   <th style="width: 60%">Description</th>
+   <th style="width: 20%">Link</th>
    </tr>
    </thead>
 
@@ -530,9 +530,9 @@
     <table class="table">
    <thead>
      <tr>
-   <th>Application</th>
-   <th>Description</th>
-   <th>Link</th>
+     <th style="width: 20%">Application</th>
+   <th style="width: 60%">Description</th>
+   <th style="width: 20%">Link</th>
    </tr>
    </thead>
 
