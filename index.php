@@ -84,13 +84,19 @@
           He has worked on various <a class="text-info" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
         <hr>
+        <h5>Academic Interest</h5>
+        <p>I am primarily interested in developing artificial intelligent and machine learning algorithms. My other interest is applied cryptography and
+          computer security. I therefore intend to pursue these programs to gain knowledge and understanding as much as i can and implement software systems
+          that will help solve some of world problems we are facing today like climate change.
+        </p>
+        <hr>
       </div>
 
       <div class="container">
        <h5 id="Background">Background</h5>
        <div class="row">
         <div class="col-md-8">
-          <p>Dallington Asingwire is a male Ugandan who was born on 16<sup>th</sup> November 1996 in Ryenjoki,  Kyangyenyi Sheema District, Western Uganda.<br>
+          <p>Dallington Asingwire is a male Ugandan who was born on 16<sup>th</sup> November 1996 in Ryenjoki,  Kyangyenyi Sheema District, Western Uganda.
           He was born to Sentara Dallington, father and Ninsiima Annet, mother.</p>
           <span>
             <p>
