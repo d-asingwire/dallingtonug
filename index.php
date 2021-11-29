@@ -655,6 +655,7 @@
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
+       <li><a class="text-decoration-none"    href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c" target="_blank">How to Upload an Image or profile picture to the Laravel API in React Native</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays of Objects in Java</a></li>
