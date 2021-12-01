@@ -38,7 +38,7 @@
           <a class="nav-link" href="#Education">Education</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Skills">Skills</a>
+          <a class="nav-link" href="#skills">Skills</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#Awards">Awards</a>
@@ -211,7 +211,7 @@
     </div>
 
     <div class="container">
-      <h5 id="Skills">Skills</h5>
+      <h5 id="skills">Skills</h5>
       Dallington possesses the following computing or ICT skills:
       <div class="table-responsive">
           <strong class="table_headers">Computer Programming</strong>
