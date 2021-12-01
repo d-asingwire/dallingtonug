@@ -567,7 +567,7 @@
    deposit money on customer's account, withdraw money from customer's account, view a list of all registered customers,
     view customer's account balance, view a ledger of transactions, check if customer is registered and view list of
      activity logs done within the system.</td>
-    <td><a href="http://posv2.parkproug.com" target="_blank">UTLAgent API</a></td>
+    <td id="Services"><a href="http://posv2.parkproug.com" target="_blank">UTLAgent API</a></td>
 </tr>
 
 
