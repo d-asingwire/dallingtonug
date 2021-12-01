@@ -390,6 +390,10 @@
     <span>Dallington is currently working at <span class="text-info">
       <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> as a full stack software developer, NextJs, ReactJs, CakePHP and MongoDB.</span><br><br>
     
+      <p>He works as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | November 2021 - December 2021. 
+        He teaches Advanced Object Oriented programming (Inner classes, Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
+     </p>
+
     <span>He worked at <span class="text-info">
       <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> as a software developer, specifically coding in C# programming language</span><br><br>
     
@@ -473,12 +477,6 @@
     <td>Parksmart</td>
     <td>system to manage parking for a prioprietor who owns parking.</td>
     <td><a href="https://dashboard.parkproug.com/" target="_blank">Parksmart</a></td>
-</tr>
-
-<tr>
-    <td>Point of Sale</td>
-    <td>Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.</td>
-    <td><a href="http://posv2.parkproug.com" target="_blank">point of sale</a></td>
 </tr>
 
 <tr>
