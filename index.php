@@ -419,6 +419,8 @@
    <li>Teaching others what i know</li>
    <li id="Contact">Keeping up with computer technology and current affairs</li>
    <li>Sports (Football, Golf)</li>
+   <li>Listening to music (country music)</li>
+
  </ol>
 
  <hr>  
