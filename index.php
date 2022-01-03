@@ -514,7 +514,7 @@
 <tr>
     <td> Online examination system</td>
     <td> Students can login and do their exams online. They get assessed instantly after submission of their exam.</td>
-    <td><a href="http://exam.parkproug.com/" target="_blank"> online examination system</a></td>
+    <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
 </tr>
 
 <tr>
