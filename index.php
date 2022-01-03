@@ -18,7 +18,7 @@
   <link rel="stylesheet" type="text/css" href="css/nunito.css"/>
   <link rel="stylesheet" href="css/style.css"/>
   <link rel="stylesheet" type="text/css" href="vendors/fontawesome/css/all.min.css"/>
-  <link rel="shortcut icon" type="image/x-icon" href="img/dallington.ico" />
+  <link rel="shortcut icon" type="image/x-icon" href="img/stFdallington.ico" />
 
 
 </head>
@@ -512,15 +512,15 @@
 </tr>
 
 <tr>
-    <td> online examination system</td>
-    <td>used by saccos to manage financial transactions</td>
-    <td><a href="http://exam.parkproug.com/" target="_blank"> Sacco Management System</a></td>
+    <td> Online examination system</td>
+    <td> Students can login and do their exams online. They get assessed instantly after submission of their exam.</td>
+    <td><a href="http://exam.parkproug.com/" target="_blank"> online examination system</a></td>
 </tr>
 
 <tr>
-    <td> Sacco Management System</td>
-    <td>Students can do exams online and get assessed instantly after submission of their exam</td>
-    <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Sacco Management System</a></td>
+    <td> Microfinance institution Management System</td>
+    <td>MIMS is used by microfinance institutions to manage financial transactions</td>
+    <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance institution Management System</a></td>
 </tr>
 
 
