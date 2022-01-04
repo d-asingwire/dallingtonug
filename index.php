@@ -50,7 +50,7 @@
           <a class="nav-link" href="#projects">Projects</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#Services">Services</a>
+          <a class="nav-link" href="#tutoring">Tutoring</a>
         </li>
         <!-- <li class="nav-item">
           <a class="nav-link" href="#Hobbies">Hobbies</a>
@@ -579,8 +579,8 @@
 </div>
 </div>
 
-  <hr/>
     <div class="container">
+    <hr/>
 
     <h5>Services</h5>
     <div class="row">
@@ -619,7 +619,7 @@
     <ul>
       <li>My preference is to bill based on projects. Get your requirements, estimate the work, submit you a quote with schedule and cost.</li>
       <li>I am also available on monthly contract based billing</li>
-      <li>If you wish, I can bill by hours. I am flexible and we can work it out as per your choice.</li>
+      <li id="tutoring">If you wish, I can bill by hours. I am flexible and we can work it out as per your choice.</li>
     </ul>
     </div>
   </div>
@@ -634,17 +634,116 @@
   <!--  </li>-->
   <!--</ul>-->
 
-  <div class="container">
-  <hr>
-  <h5>Strategic Vision</h5>
-  <ul>
-   <li>Dallington wants to start up a Tech company that will bring together young people to collaboratively work and provide solutions to different 
-    problems in the world using technology. Areas of focus will be climate, health, education, agriculture etc.
-    The goal is to empower youth by acquiring technological or digital skills that they will use to change their lives 
-    and the society at large.
-  </li>
-</ul>
+
+
+<div class="container">
+    <hr>
+  <h5>Computer Programming Tutoring</h5>
+  <div class="row">
+    <div class="col-md-12">
+      Dallington tutors coding/computer programming. I teach University students or any individuals who are interested in
+      computer programming and look forward to innovating the next big things. I give coding sessions ranging from
+      web based programming languages to mobile application programming languages/frameworks. The following are the languages/frameworks I teach;
+     <table class="table table-bordered">
+       <thead>
+          <tr>
+             <th>Language</th>
+             <th>Framework/Runtime environment</th>
+          </tr>
+      </thead>
+      <tbody>
+
+      <tr colspan='2'>
+<td class='font-weight-bold'><i>Web Application Development</i></td>
+</tr>
+
+    <tr>
+<td>Javascript</td>
+<td>React, Next.js, Node.js, Express Js</td>
+</tr>
+<tr>
+<td>PHP</td>
+<td>Laravel, CakePHP</td>
+</tr>
+
+<tr>
+<td>C#</td>
+<td>ASP.NET MVC</td>
+</tr>
+
+
+<tr colspan='2'>
+<td class='font-weight-bold'><i>Mobile Application Development</i></td>
+</tr>
+
+<tr>
+<td>Javascript</td>
+<td>React Native</td>
+</tr>
+
+<tr colspan='2'>
+<td class='font-weight-bold'><i>Microservice/API Application Development</i></td>
+</tr>
+
+<tr>
+<td>PHP</td>
+<td>Laravel</td>
+</tr>
+
+<tr>
+<td>C#</td>
+<td>ASP.NET</td>
+</tr>
+
+<tr colspan='2'>
+<td class='font-weight-bold'><i>Database Management</i></td>
+</tr>
+
+<tr>
+<td>SQL</td>
+<td>Using Microsoft Server Management Studio (MSMS)</td>
+</tr>
+<tr>
+<td>MySQL</td>
+<td>Using PhpMyAdmin </td>
+</tr>
+
+<td>MongoDB</td>
+<td>Using MongoDB Campus </td>
+</tr>
+
+<td>PostgreSQL</td>
+<td>Using PgAdmin </td>
+</tr>
+
+<tr colspan='2'>
+<td class='font-weight-bold'><i> Deploying Software</i></td>
+</tr>
+
+<tr>
+<td>SSH Access</td>
+<td>Using Secure Socket Shell</td>
+</tr>
+
+<tr>
+<td>Tool Deployment</td>
+<td>Using FileZilla and PUTTY</td>
+</tr>
+
+<tr>
+<td>Git</td>
+<td>Using CI/CD pipeline</td>
+</tr>
+
+
+     </tbody>
+     </table>
+   
+    </div>
+ </div>
 </div>
+
+
 
 <div class="container" id="dev-posts">
     <hr>
@@ -667,6 +766,18 @@
  </div>
 </div>
 
+
+<div class="container">
+  <hr>
+  <h5>Strategic Vision</h5>
+  <ul>
+   <li>Dallington wants to start up a Tech company that will bring together young people to collaboratively work and provide solutions to different 
+    problems in the world using technology. Areas of focus will be climate, health, education, agriculture etc.
+    The goal is to empower youth by acquiring technological or digital skills that they will use to change their lives 
+    and the society at large.
+  </li>
+</ul>
+</div>
 
 
 
