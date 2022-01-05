@@ -388,10 +388,10 @@
     <br>
     <h5 id="Experience">Work Experience</h5>
     <span>Dallington is currently working at <span class="text-info">
-      <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> as a full stack software developer, NextJs, ReactJs, CakePHP and MongoDB.</span><br><br>
+      <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> as a full stack software developer; React, NextJs, CakePHP and MongoDB.</span><br><br>
     
       <p>He worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | November 2021 - December 2021. 
-        He taught Advanced Object Oriented programming (Inner classes, Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
+        He taught Advanced Object Oriented programming (Inner classes and Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
      </p>
 
     <span>He worked at <span class="text-info">
