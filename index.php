@@ -476,9 +476,9 @@
 </tr>
 
 <tr>
-    <td>Parksmart</td>
+    <td>Parkpro dashboard</td>
     <td>system to manage parking for a prioprietor who owns parking.</td>
-    <td><a href="https://dashboard.parkproug.com/" target="_blank">Parksmart</a></td>
+    <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro management system</a></td>
 </tr>
 
 <tr>
