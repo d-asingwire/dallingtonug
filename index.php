@@ -653,8 +653,8 @@
       </thead>
       <tbody>
 
-      <tr colspan='2'>
-<td class='font-weight-bold'><i>Web Application Development</i></td>
+      <tr>
+<th class='font-weight-bold text-left' colspan='2'><i>Web Application Development</i></th>
 </tr>
 
     <tr>
@@ -678,7 +678,7 @@
 
 
 <tr colspan='2'>
-<td class='font-weight-bold'><i>Mobile Application Development</i></td>
+<th class='font-weight-bold text-left' colspan='2'><i>Mobile Application Development</i></th>
 </tr>
 
 <tr>
@@ -687,7 +687,7 @@
 </tr>
 
 <tr colspan='2'>
-<td class='font-weight-bold'><i>Microservice/API Application Development</i></td>
+<th class='font-weight-bold text-left' colspan='2'><i>Microservice/API Application Development</i></th>
 </tr>
 
 <tr>
@@ -705,7 +705,7 @@
 </tr>
 
 <tr colspan='2'>
-<td class='font-weight-bold'><i>Database Management</i></td>
+<th class='font-weight-bold text-left' colspan='2'><i>Database Management</i></th>
 </tr>
 
 <tr>
