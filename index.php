@@ -709,7 +709,7 @@
 </tr>
 
 <td>MongoDB</td>
-<td>Using MongoDB Campus </td>
+<td>Using MongoDB Compass </td>
 </tr>
 
 <td>PostgreSQL</td>
