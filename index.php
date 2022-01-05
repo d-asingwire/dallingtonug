@@ -671,6 +671,11 @@
 <td>ASP.NET MVC</td>
 </tr>
 
+<tr>
+<td>Java<td>
+<td>Servlets, Java Server Pages(JSPs)</td>
+</tr>
+
 
 <tr colspan='2'>
 <td class='font-weight-bold'><i>Mobile Application Development</i></td>
@@ -693,6 +698,10 @@
 <tr>
 <td>C#</td>
 <td>ASP.NET</td>
+</tr>
+<tr>
+<td>java</td>
+<td>Spring MVC</td>
 </tr>
 
 <tr colspan='2'>
