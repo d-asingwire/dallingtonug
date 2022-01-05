@@ -466,7 +466,7 @@
   <tr>
     <td>Point of Sale</td>
     <td>Used by shops, supermarkets to record daily transactions and generate reports. it has barcode functionality as well.</td>
-    <td><a href="http://posv2.parkproug.com" target="_blank">point of sale</a></td>
+    <td><a href="http://posv2.parkproug.com" target="_blank">Point of sale</a></td>
 </tr>
 
 <tr>
