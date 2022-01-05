@@ -672,7 +672,7 @@
 </tr>
 
 <tr>
-<td>Java<td>
+<td>Java</td>
 <td>Servlets, Java Server Pages(JSPs)</td>
 </tr>
 
