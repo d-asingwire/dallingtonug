@@ -484,7 +484,7 @@
 <tr>
     <td>Parkpro</td>
     <td>mobile app for drivers to locate affordable and near parking areas.</td>
-    <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro</a></td>
+    <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro mobile app</a></td>
 </tr>
 
 <tr>
