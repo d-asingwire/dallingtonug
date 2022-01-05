@@ -701,7 +701,7 @@
 </tr>
 <tr>
 <td>java</td>
-<td>Spring MVC</td>
+<td>Spring framework</td>
 </tr>
 
 <tr>
