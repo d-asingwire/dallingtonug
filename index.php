@@ -508,7 +508,7 @@
 <tr>
     <td> School management system</td>
     <td>used by students and teachers in a school.</td>
-    <td><a href="http://exam.parkproug.com/" target="_blank"> School management system</a></td>
+    <td><a href="http://sms.parkproug.com/" target="_blank"> School management system</a></td>
 </tr>
 
 <tr>
