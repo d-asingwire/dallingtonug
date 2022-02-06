@@ -426,8 +426,8 @@
    <li>Computer programming</li>
    <li>Reading</li>
    <li>Researching</li>
-   <li>Teaching others what i know</li>
-   <li id="Contact">Keeping up with computer technology and current affairs</li>
+   <li>Teaching others what I know</li>
+   <li id="Contact">Keeping up to date with computer technologies and current affairs</li>
    <li>Sports (Football, Golf)</li>
    <li>Listening to music (country music)</li>
 
