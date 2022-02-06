@@ -387,15 +387,25 @@
   <div class="container">
     <br>
     <h5 id="Experience">Work Experience</h5>
-    <span>Dallington is currently working at <span class="text-info">
-      <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> as a full stack software developer; React, NextJs, CakePHP, Laravel etc.</span><br><br>
+
+    <p>Dallington is currently working at <span class="text-info">
+      <a href="https://www.keiphoneglobal.com/" target="_blank">KEIPhone Global </a></span> 
+      as a full stack software developer; Node.js, Angular, Kotlin, Django.</p>
+
+
+<p>Dallington tutors students from Software Engineering and other related programs at Makerere University, coding or computer programming. These sessions are aimed at equipping these students
+  with computer programming knowledge and technical skills in different languages and other software related technologies.
+  ,which they will use to build solutions that will help address some of the problems in the world. 
+    <p>He worked at <span class="text-info">
+      <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> 
+      as a full stack software developer from February 2021 to January 2022; React, NextJs, CakePHP, Laravel etc.</p>
     
-      <p>He worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | November 2021 - December 2021. 
+      <p>Dallington worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> from November 2021 - December 2021. 
         He taught Advanced Object Oriented programming (Inner classes and Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
      </p>
 
-    <span>He worked at <span class="text-info">
-      <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> as a software developer, specifically coding in C# programming language</span><br><br>
+    <span>He worked as a software engineer <span class="text-info">
+      <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; writing system codes in C# programming language</span><br><br>
     
     
     <span>Dallington worked as an intern at <span class="text-info">
