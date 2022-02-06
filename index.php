@@ -404,7 +404,7 @@
         He taught Advanced Object Oriented programming (Inner classes and Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
      </p>
 
-    <span>He worked as a software engineer <span class="text-info">
+    <span>He worked as a Software Engineer <span class="text-info">
       <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; writing system codes in C# programming language</span><br><br>
     
     
