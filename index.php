@@ -78,15 +78,15 @@
         <h4>Dallington Asingwire</h4>
         <hr>
         <h5>Introduction</h5>
-        <p>Dallington Asingwire is a Software Engineer who graduated with First Class Honours (<span class="text-info">4.53 
-          <span class="text-dark">on a scale of</span> 5</span>) in Bachelors of Science in Software Engineering from
-           Makerere University Kampala, Uganda. He is passionate about technology, computer programming and creating innovative software products.
+        <p>Dallington Asingwire is a software engineer who graduated as the best student with First Class Honours (<span class="text-info">4.53 
+          <span class="text-dark">on a scale of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
+           Makerere University Kampala, Uganda. I am passionate about computer technology, programming and innovation.
           He has worked on various <a class="text-info" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
         <hr>
         <h5>Academic Interest</h5>
         <p>I am primarily interested in developing artificial intelligent and machine learning algorithms. My other interest is applied cryptography and
-          computer security. I therefore intend to pursue these programs to gain knowledge and understanding as much as i can and implement software systems
+          computer security. I therefore intend to pursue these programs to gain knowledge and understanding as much as I can and implement software systems
           that will help solve some of world problems we are facing today like climate change.
         </p>
         <hr>
@@ -237,12 +237,12 @@
             
               <tr>
               <td>Javascript</td>
-              <td>ReactJS, NextJS, React Native, AngularJs, NodeJs and Express Js</td>
+              <td>React, Next.js, Angular, Node.js and Express</td>
             </tr>
 
             <tr>
               <td>Java</td>
-              <td>Java programming</td>
+              <td>Basics and Essential of Java programming</td>
             </tr>
 
 
@@ -256,6 +256,11 @@
             <tr>
               <td>Website Design</td>
               <td>Wordpress website, Ecommerce website</td>
+            </tr>
+
+            <tr>
+              <td>Mobile App Development</td>
+              <td>React Native, Flutter and Kotlin</td>
             </tr>
 
             <tr class="table_headers">
@@ -598,9 +603,9 @@
     <div class="col-md-4">
       <h6>Web development</h6>
     <ul>
-      <li>React, Nextjs</li>
-      <li>Html, css, Bootstrap</li>
+      <li>React, Next.js</li>
       <li>Laravel, CakePHP</li>
+      <li>Html, css, Bootstrap</li>
     </ul>
     </div>
 
@@ -609,6 +614,8 @@
       <h6>Mobile App Development</h6>
     <ul>
       <li>React Native</li>
+      <li>Flutter</li>
+      <li>Kotlin</li>
     </ul>
     </div>
     
@@ -618,6 +625,7 @@
       <h6>Micro Services</h6>
     <ul>
       <li>Laravel</li>
+      <li>Node.js</li>
       <li>C#</li>
     </ul>
     </div>
@@ -681,12 +689,6 @@
 <td>ASP.NET MVC</td>
 </tr>
 
-<tr>
-<td>Java</td>
-<td>Servlets, Java Server Pages(JSPs)</td>
-</tr>
-
-
 <tr colspan='2'>
 <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Mobile Application Development</i></th>
 </tr>
@@ -694,6 +696,10 @@
 <tr>
 <td>Javascript</td>
 <td>React Native</td>
+</tr>
+<tr>
+<td>Android</td>
+<td>Kotlin</td>
 </tr>
 
 <tr colspan='2'>
@@ -710,8 +716,8 @@
 <td>ASP.NET</td>
 </tr>
 <tr>
-<td>java</td>
-<td>Spring framework</td>
+<td>Javascript</td>
+<td>Node.js</td>
 </tr>
 
 <tr>
@@ -740,18 +746,23 @@
 </tr>
 
 <tr>
-<td>SSH Access</td>
+<td>Amazon Web Services (AWS)</td>
+<td>Using EC2, RDS etc.</td>
+</tr>
+
+<tr>
+<td>SSH access</td>
 <td>Using Secure Socket Shell</td>
 </tr>
 
 <tr>
-<td>Tool Deployment</td>
-<td>Using FileZilla and PUTTY</td>
+<td>Tools</td>
+<td>Using FileZilla</td>
 </tr>
 
 <tr>
 <td>Git</td>
-<td>Using CI/CD pipeline</td>
+<td>Github</td>
 </tr>
 
 
@@ -770,11 +781,14 @@
   <div class="row">
     <div class="col-md-12">
     <ul>
-       <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
-       <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
-       <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961" target="_blank">How to use .env file in a React Native Application</a></li>
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-send-sms-using-twilio-in-nodejs-8lp" target="_blank">How to send sms to a phone number in Node.js</a></li>
+     
+    <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
        <li><a class="text-decoration-none"    href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c" target="_blank">How to Upload an Image or profile picture to the Laravel API in React Native</a></li>
-       <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays of Objects in Java</a></li>
        <li><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
@@ -875,7 +889,7 @@
 <footer class="footer mt-auto py-3">
   <div class="container-fluid nunito">
     <span class="text-muted nunito text-green">
-      <p>Keep in touch with Dallington on social media</p>
+      <p>Follow Dallington on the following socials</p>
     </span>
     <span class="pl-3">
       <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
