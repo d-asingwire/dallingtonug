@@ -411,7 +411,7 @@ He taught Advanced Object Oriented programming (Inner classes and Java GUI Progr
 </p>
 
 <span>He worked as a Software Engineer at <span class="text-info">
-<a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; majoring in C# programming language</span><br><br>
+<a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; majoring in C# programming language.</span><br><br>
 
 
 <span>Dallington worked as an intern at <span class="text-info">
