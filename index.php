@@ -80,12 +80,12 @@
         <h5>Introduction</h5>
         <p>Dallington Asingwire is a software engineer who graduated as the best student with First Class Honours (<span class="text-info">4.53 
           <span class="text-dark">on a scale of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
-           Makerere University Kampala, Uganda. I am passionate about computer technology, programming and innovation.
+           Makerere University Kampala, Uganda. He's passionate about computer technology, programming and innovation.
           He has worked on various <a class="text-info" href="#projects">software projects</a>.
         He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
         <hr>
         <h5>Academic Interest</h5>
-        <p>I am primarily interested in developing artificial intelligent and machine learning algorithms. My other interest is applied cryptography and
+        <p>He's primarily interested in developing artificial intelligent and machine learning algorithms. My other interest is applied cryptography and
           computer security. I therefore intend to pursue these programs to gain knowledge and understanding as much as I can and implement software systems
           that will help solve some of world problems we are facing today like climate change.
         </p>
@@ -260,7 +260,7 @@
 
             <tr>
               <td>Mobile App Development</td>
-              <td>React Native, Flutter and Kotlin</td>
+              <td>React Native and Kotlin</td>
             </tr>
 
             <tr class="table_headers">
@@ -395,7 +395,7 @@
 
     <p>Dallington is currently working at <span class="text-info">
       <a href="https://www.keiphoneglobal.com/" target="_blank">KEIPhone Global </a></span> 
-      as a full stack software developer; Node.js, Angular, Kotlin, Django.</p>
+      as a full stack software developer; Node.js, Angular, Kotlin.</p>
 
 
 <p>Dallington tutors students from Software Engineering and other related programs at Makerere University, coding or computer programming. These sessions are aimed at equipping these students
@@ -428,8 +428,7 @@
   <br>
   <h5>Hobbies</h5>
   <ol>
-   <li>Computer programming</li>
-   <li>Reading</li>
+   <li>Computer programming & Reading</li>
    <li>Researching</li>
    <li>Teaching others what I know</li>
    <li id="Contact">Keeping up to date with computer technologies and current affairs</li>
@@ -614,7 +613,6 @@
       <h6>Mobile App Development</h6>
     <ul>
       <li>React Native</li>
-      <li>Flutter</li>
       <li>Kotlin</li>
     </ul>
     </div>
@@ -742,7 +740,7 @@
 </tr>
 
 <tr>
-<th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Deploying Software</i></th>
+<th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Cloud Computing / Software Deployment</i></th>
 </tr>
 
 <tr>
