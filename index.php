@@ -400,9 +400,8 @@ Linux Mint 18.1,18.2,18.3 installation and troubleshooting</td>
 as a full stack software developer; Node.js, Angular, Kotlin.</p>
 
 
-<p>Dallington tutors students from Software Engineering and other related programs at Makerere University, coding or computer programming. These sessions are aimed at equipping these students
-with computer programming knowledge and technical skills in different languages and other software related technologies.
-,which they will use to build solutions that will help address some of the problems in the world. 
+<p>Dallington tutors students of Software Engineering at Makerere University
+   on behalf of a professor. These classes are usually hands-on in computer programming in languages like Java. 
 <p>He worked at <span class="text-info">
 <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> 
 as a full stack software developer from February 2021 to January 2022; React, NextJs, CakePHP, Laravel etc.</p>
