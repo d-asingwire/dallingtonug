@@ -239,7 +239,7 @@ Dallington possesses the following computing or ICT skills:
 
 <tr>
 <td>C#</td>
-<td>ASP.NET framework</td>
+<td>ASP.NET</td>
 </tr>
 
 <tr>
