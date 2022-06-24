@@ -411,7 +411,7 @@ He taught Advanced Object Oriented programming (Inner classes and Java GUI Progr
 </p>
 
 <span>He worked as a Software Engineer at <span class="text-info">
-<a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; writing system codes in C# programming language</span><br><br>
+<a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; majoring in C# programming language</span><br><br>
 
 
 <span>Dallington worked as an intern at <span class="text-info">
@@ -419,7 +419,7 @@ He taught Advanced Object Oriented programming (Inner classes and Java GUI Progr
 <span>Dallington worked as an intern at <span class="text-info">
 <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a></span> in the Department of  <span class="text-info">ICT Support Services (DISS)</span>
 for the period of one month from 5th June to 28th June 2019 where he participated in hardware and sofware maintenance and windows server administration.</span><br><br>
-<span>Dallington taught Physics, Chemistry, Mathematics and ICT in his S.6 vacation in two schools that is St.johns SS Nyabwina and Sheema Girls School,both found in Sheema district. He was credited for his tremedous contribution by both the students and staff of the two institutions in his four-month short<span id="Hobbies"></span> vacation after which he had to go and continue with his studies at Makerere University way back in 2016</span>
+<span>Dallington taught Physics, Chemistry, Mathematics and ICT in his S.6 vacation in two schools that is St.johns SS Nyabwina and Sheema Girls School,both found in Sheema district. He was credited for his tremedous contribution by both the students and staff of the two institutions in his four-month short<span id="Hobbies"></span> vacation after which he had to go and continue with his studies at Makerere University way back in 2016.</span>
 <hr>  
 </div>
 
