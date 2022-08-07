@@ -78,16 +78,16 @@
 <h4>Dallington Asingwire</h4>
 <hr>
 <h5>Introduction</h5>
-<p>Dallington Asingwire is a software engineer who graduated as the best student with First Class Honours (<span class="text-info">4.53 
+<p>Dallington Asingwire is a Software Engineer who graduated as the best student with First Class Honours (<span class="text-info">4.53 
 <span class="text-dark">on a scale of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
 Makerere University Kampala, Uganda. He is passionate about computer technology, programming and innovation.
 He has worked on various <a class="text-info" href="#projects">software projects</a>.
 He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
 <hr>
 <h5>Academic Interest</h5>
-<p>He is primarily interested in developing artificial intelligent and machine learning algorithms. My other interest is applied cryptography and
+<p>He is primarily interested in advanced software engineering, and applied cryptography and
 computer security. I therefore intend to pursue these programs to gain knowledge and understanding as much as I can and implement software systems
-that will help solve some of world problems we are facing today like climate change.
+that will help solve world problems like climate change.
 </p>
 <hr>
 </div>
@@ -397,20 +397,21 @@ Linux Mint 18.1,18.2,18.3 installation and troubleshooting</td>
 
 <p>Dallington is currently working at <span class="text-info">
 <a href="https://www.keiphoneglobal.com/" target="_blank">KEIPhone Global </a></span> 
-as a full stack software developer; Node.js, Angular, Kotlin.</p>
+as a Full-Stack Software Engineer; Node.js, Angular, Kotlin.</p>
 
+<p>Dallington worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> from July 2022 - August 2022. 
+He taught Advanced Object Oriented programming (JDBC class) to Software Engineering students in 3<sup>rd</sup> year.
+</p>
 
-<p>Dallington tutors students of Software Engineering at Makerere University
-   on behalf of a professor. These classes are usually hands-on in computer programming in languages like Java. 
-<p>He worked at <span class="text-info">
+   <p>He worked at <span class="text-info">
 <a href="https://www.africaone.com/" target="_blank">Africa One</a></span> 
-as a full stack software developer from February 2021 to January 2022; React, NextJs, CakePHP, Laravel etc.</p>
+as a Full-Stack Software Engineer from February 2021 to January 2022; React, NextJs, CakePHP, Laravel etc.</p>
 
 <p>Dallington worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> from November 2021 - December 2021. 
 He taught Advanced Object Oriented programming (Inner classes and Java GUI Programming and JDBC)  classes to Software Engineering students in 3<sup>rd</sup> year.
 </p>
 
-<span>He worked as a Software Engineer at <span class="text-info">
+<span>He worked as a Full-Stack Software Engineer at <span class="text-info">
 <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; majoring in C# programming language.</span><br><br>
 
 
