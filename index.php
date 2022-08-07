@@ -244,14 +244,14 @@ Dallington possesses the following computing or ICT skills:
 
 <tr>
 <td>Java</td>
-<td>Basics and Essential of Java programming</td>
+<td>Java & Kotlin</td>
 </tr>
 
 
 
 <tr>
 <td>Python</td>
-<td>Basics and Essentials of Python Programming</td>
+<td>Fundamentals of Python Programming</td>
 </tr>
 
 
@@ -260,10 +260,6 @@ Dallington possesses the following computing or ICT skills:
 <td>Wordpress</td>
 </tr>
 
-<tr>
-<td>Mobile App Development</td>
-<td>React Native and Kotlin</td>
-</tr>
 
 <tr class="table_headers">
 <th colspan="8" class="text-left">Database Management</th>
@@ -276,7 +272,7 @@ Dallington possesses the following computing or ICT skills:
 
 <tr>
 <td>MySQL</td>
-<td>Working with MySQL queries using MySQL Workbench or any browser</td>
+<td>Working with MySQL queries using MySQL Workbench/phpMyAdmin</td>
 </tr>
 
 <tr>
@@ -287,7 +283,7 @@ Studio (SSMS)</td>
 
 <tr>
 <td>PostgreSQL</td>
-<td>Working with PostgreSQL Database transactions or queries</td>
+<td>Working with PostgreSQL Database transactions or queries using PgAdmin</td>
 </tr>
 
 <tr>
@@ -325,10 +321,21 @@ Linux Mint 18.1,18.2,18.3 installation and troubleshooting</td>
 <th>Skill</th>
 </tr>
 
+<tr>
+<td>Amazon Web Services</td>
+<td>EC2, RDS etc</td>
+</tr>
+
+<tr>
+<td>Web servers</td>
+<td>Nginx and Apache2</td>
+</tr>
+
 <tr id="Awards">
-<td>Windows Server 2012 R2 DataCenter Edition</td>
+<td>Windows Server 2012</td>
 <td>Installation of main server roles i.e DHCP, DNS, Active Direcory etc</td>
 </tr>
+
 </tbody>
 
 </table>
