@@ -234,7 +234,7 @@ Dallington possesses the following computing or ICT skills:
 
 <tr>
 <td>Javascript</td>
-<td>React, Next.js, Angular, Node.js and Express.js</td>
+<td>React, React Native,  Next.js, Angular, Node.js & Express.js</td>
 </tr>
 
 <tr>
@@ -506,7 +506,7 @@ Dallington has worked on or developed the following software projects/products
 
 <tr>
 <td>Parkpro</td>
-<td>mobile app for drivers to locate affordable and near parking areas.</td>
+<td>A mobile app that enables drivers to locate affordable and near parking areas.</td>
 <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro mobile app</a></td>
 </tr>
 
