@@ -402,6 +402,9 @@ Linux Mint 18.1,18.2,18.3 installation and troubleshooting</td>
 <br>
 <h5 id="Experience">Work Experience</h5>
 
+<p>Dallington teaches Software Engineering at <span class="text-info">
+<a href="https://isbatuniversity.ac.ug/" target="_blank">ISBAT (International Business, Science And Technology) University </a></span> from August 2022 - to date.</p>
+
 <p>Dallington is currently working at <span class="text-info">
 <a href="https://www.keiphoneglobal.com/" target="_blank">KEIPhone Global </a></span> 
 as a Full-Stack Software Engineer; Node.js, Angular, Kotlin.</p>
