@@ -81,7 +81,7 @@
 <p>I am a passionate Software engineer with 3+ years of experience. Graduated as the best student with First Class Honours (<span class="text-info">4.53 
 <span class="text-dark">out of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
 Makerere University Kampala, Uganda. I've proven ability to leverage full-stack knowledge and experience to build reliable and scalable software systems.
- A dedicated junior lecturer at ISBAT University teaching students from social and cultural backgrounds.
+ A dedicated lecturer at ISBAT University teaching students from social and cultural backgrounds.
 
 <!-- He has worked on various <a class="text-info" href="#projects">software projects</a>.
 He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p> -->
