@@ -78,11 +78,14 @@
 <h4>Dallington Asingwire</h4>
 <hr>
 <h5>Introduction</h5>
-<p>Dallington Asingwire is a Software Engineer who graduated as the best student with First Class Honours (<span class="text-info">4.53 
-<span class="text-dark">on a scale of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
-Makerere University Kampala, Uganda. He is passionate about computer technology, programming and innovation.
-He has worked on various <a class="text-info" href="#projects">software projects</a>.
-He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p>
+<p>I am a passionate Software engineer with 3+ years of experience. Graduated as the best student with First Class Honours (<span class="text-info">4.53 
+<span class="text-dark">out of</span> 5</span>) in Bachelors of Science in Software Engineering, class 2021,
+Makerere University Kampala, Uganda. I've proven ability to leverage full-stack knowledge and experience to build reliable and scalable software systems.
+ A dedicated junior lecturer at ISBAT University teaching students from social and cultural backgrounds.
+
+<!-- He has worked on various <a class="text-info" href="#projects">software projects</a>.
+He is confident, self-motivated and is always looking for the next challenge & a new goal to meet.</p> -->
+
 <hr>
 <h5>Academic Interest</h5>
 <p>He is primarily interested in advanced software engineering, and applied cryptography and
