@@ -129,7 +129,7 @@ time to do resourceful work.</p>
 <img src="img/dallington.jpg"/>
 <div class="card-body bio-conten align-items-center justify-content-center">
 <div class="d-flex justify-content-center">
-<h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2021</h5>
+<h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2022</h5>
 </div>
 <div class="d-flex justify-content-center" id="Education">
 <a href="docs/resume.pdf" download="Resume" class="btn btn-sm bg-white text-dark border border-secondary">
