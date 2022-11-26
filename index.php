@@ -68,17 +68,20 @@
             <hr />
             <h5>Introduction</h5>
             <p>
-                I am a professional software engineer with more than three years of experience.
-                Graduated as the best student in the class of 2021 with First Class Honors (<span class="text-info">4.53
+                I am a professional software engineer and computer science instructor with four years of experience.
+                Graduated as the best student with First Class Honors (<span class="text-info">4.53
                     <span class="text-dark">out of</span> 5</span>) in
-                Bachelors of Science in Software Engineering at Makerere University in Kampala, Uganda.
-                I've demonstrated the ability to build dependable and scalable software systems by leveraging full-stack expertise and experience. I'm a passionate lecturer at ISBAT University,
-                where I teach students from a variety of social and cultural backgrounds.
+                Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously volunteered as a teaching assistant at Makerere University
+                through former professors. I'm a lecturer at the International Business, Science, and Technology University,
+                where I teach students from various social and cultural backgrounds.
+                Technically, I have designed and built dependable and scalable software systems by leveraging full-stack expertise and experience. Passionate about using technology to solve everyday problems and I've done so by
+                designing and developing software applications, most notably e-docta whih enables patients to seek remote diagnosis and treatment.
                 <hr>
             <h5>Academic Interest</h5>
             <p>
-                Academically, my main areas of interest include advanced software engineering, applied cryptography, and computer security.
-                As a result, I intend to pursue these courses in order to get as much knowledge and understanding as possible, as well as to create software systems that will aid in the resolution of global challenges such as climate change.
+                My primary research areas include computational science (biocomputation), artificial intelligence, and human-computer interaction.
+                I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can use them to achieve my ultimate goal.
+                My ultimate goal is to become a distinguished computer science professor and researcher. My research will enable me to accomplish my ambition of revolutionizing the health care, education, and e-government systems in home country, Uganda and around the world.
             </p>
             <hr>
         </div>
@@ -98,14 +101,11 @@
                         </p>
 
                         <p>
-                            Dallington's first sale of one of his software systems was <span class="text-primary">$492</span>, which greatly increased his confidence in visualizing the magic of empowering and impressing the mind with the correct input.
-                            Dallington was inspired by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a href="http://www.havard.com">Havard University</a> in 2017 to understand the need for every human life to have a sense of purpose rather than progress, and as a result, he has that level of desire, willingness,
-                            and enthusiasm to have a positive impact on many human lives in this world.
+                            Dallington's first software system sale was $492, which bolstered his confidence in visualizing the magic of empowering and impressing the mind with the right input. Dallington was inspired to understand the need for every human life to have a sense of purpose rather than progress by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a href="http://www.havard.com" class="text-info">Havard University</a> in 2017, and as a result, he has that level of desire, willingness, and enthusiasm to have a positive impact on many human lives in this world.
                         </p>
 
                         <p>
-                            Dallington intends to establish a technology firm that will help many young Ugandans gain skills and knowledge that they will use to create ideas that would make the world a better place.
-                            He, too, aspires to be one of the great computer science professors, and he feels that by doing so, he would encourage many Ugandans to realize and have a sense of purpose.
+                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing software systems in teams, a concept that has evolved into Code Solutions Ltd, a software hub that has trained a significant number of young Ugandans in computer programming.
                         </p>
 
 
@@ -124,10 +124,10 @@
                             <div class="d-flex justify-content-center">
                                 <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2022</h5>
                             </div>
-                            <div class="d-flex justify-content-center" id="Education">
+                            <!-- <div class="d-flex justify-content-center" id="Education">
                                 <a href="docs/resume.pdf" download="Resume" class="btn btn-sm bg-white text-dark border border-secondary">
                                     Download Resume <i class="fa fa-download"></i></a>
-                            </div>
+                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -147,54 +147,6 @@
                 Dallington attended Bugarama High School on a scholarship from 2010 to 2013, where he got <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the best student in overall school O'Level achievement after four years. The following is his performance in each subject;
             </p>
 
-            <div class="table-responsive">
-                <table class="table table-striped">
-                    <tr class="table_headers">
-                        <th>SUBJECT</th>
-                        <th>GRADE</th>
-                    </tr>
-                    <tr>
-                        <td>Mathematics</td>
-                        <td>D1</td>
-                    </tr>
-                    <tr>
-                        <td>Entreneurship skills</td>
-                        <td>D1</td>
-                    </tr>
-                    <tr>
-                        <td>History</td>
-                        <td>D1</td>
-                    </tr>
-                    <tr>
-                        <td>Physics</td>
-                        <td>D2</td>
-                    </tr>
-                    <tr>
-                        <td>Biology</td>
-                        <td>D2</td>
-                    </tr>
-                    <tr>
-                        <td>Agriculture</td>
-                        <td>D2</td>
-                    </tr>
-                    <tr>
-                        <td>Kiswahili</td>
-                        <td>D2</td>
-                    </tr>
-                    <tr>
-                        <td>Chemistry</td>
-                        <td>C3</td>
-                    </tr>
-                    <tr>
-                        <td>Geography</td>
-                        <td>C3</td>
-                    </tr>
-                    <tr>
-                        <td>English</td>
-                        <td>C5</td>
-                    </tr>
-                </table>
-            </div>
             </p>
 
             <p>
@@ -211,426 +163,160 @@
 
         </div>
 
+
         <div class="container">
-            <h5 id="skills">Skills</h5>
-            Dallington possesses the following computing or information technology skills:
+            <h5>Awards and Honors</h5>
             <div class="table-responsive">
-                <strong class="table_headers">Computer Programming</strong>
                 <table class="table table-striped">
                     <thead>
-                        <tr class="success">
-                            <th>Language</th>
-                            <th>Skill</th>
+                        <tr>
+                            <th>AWARD</th>
+                            <th>INSTITUTION</th>
+                            <th>YEAR</th>
                         </tr>
                     </thead>
-
                     <tbody>
-
                         <tr>
-                            <td>PHP</td>
-                            <td>Laravel, CakePHP</td>
+                            <td>First Class Honors</td>
+                            <td>Makerere University</td>
+                            <td>2021</td>
                         </tr>
-
                         <tr>
-                            <td>Javascript</td>
-                            <td>React, React Native, Next.js, Angular, Node.js & Express.js</td>
+                            <td>Best Science Award</td>
+                            <td>Makerere University</td>
+                            <td>2021</td>
                         </tr>
-
                         <tr>
-                            <td>C#</td>
-                            <td>ASP.NET</td>
+                            <td>Leadership Training Certificate</td>
+                            <td>Makerere University</td>
+                            <td>2018</td>
                         </tr>
-
                         <tr>
-                            <td>Java</td>
-                            <td>Java & Kotlin</td>
+                            <td>Outstanding service as Minister for Justice affairs</td>
+                            <td>Makerere University</td>
+                            <td>2017</td>
                         </tr>
-
                         <tr>
-                            <td>Python</td>
-                            <td>Fundamentals of Python Programming</td>
+                            <td>Best Student Overall Award</td>
+                            <td>St.John's S.S Nyabwina</td>
+                            <td>2016</td>
                         </tr>
-
-
                         <tr>
-                            <td>Website Design</td>
-                            <td>Wordpress</td>
+                            <td>Outstanding Student Award</td>
+                            <td>St.John's S.S Nyabwina</td>
+                            <td>2014, 2015</td>
                         </tr>
-
-
-                        <tr class="table_headers">
-                            <th colspan="8" class="text-left">Database Management</th>
-                        </tr>
-
                         <tr>
-                            <th>Database</th>
-                            <th>Skill</th>
+                            <td>Best Student Overall Award</td>
+                            <td>Bugarama High School</td>
+                            <td>2014</td>
                         </tr>
-
                         <tr>
-                            <td>MySQL</td>
-                            <td>Working with MySQL queries using MySQL Workbench/phpMyAdmin</td>
+                            <td>Outstanding Service Award for information prefect</td>
+                            <td>Bugarama High School</td>
+                            <td>2012</td>
                         </tr>
-
                         <tr>
-                            <td>SQL</td>
-                            <td>Working with SQL queries or stored procedures using Microsoft SQL Server Management
-                                Studio (SSMS)</td>
+                            <td>Outstanding Service Award for prefect in charge of Academics</td>
+                            <td>Bugarama High School</td>
+                            <td>2012</td>
                         </tr>
-
-                        <tr>
-                            <td>PostgreSQL</td>
-                            <td>Working with PostgreSQL Database transactions or queries using PgAdmin</td>
+                        <tr id="Experience">
+                            <td>Outstanding Service Award for information prefect</td>
+                            <td>Bugarama High School</td>
+                            <td>2011</td>
                         </tr>
-
-                        <tr>
-                            <td>MongoDB</td>
-                            <td>Working with MongoDB Database using MongoDB Compass</td>
-                        </tr>
-
-                        <tr class="table_headers">
-                            <th colspan="8" class="text-left">Operating Systems</th>
-                        </tr>
-
-                        <tr>
-                            <th>OS</th>
-                            <th>Skill</th>
-                        </tr>
-
-                        <tr>
-                            <td>Windows</td>
-                            <td>Windows 7,8 and 10 installation and troubleshooting<br>
-                                Microsoft sofware packages(eg MS office and others) </td>
-                        </tr>
-
-                        <tr>
-                            <td>Unix</td>
-                            <td>Ubuntu 14,16 and 18 installation and basic troubleshooting<br>
-                                Linux Mint 18.1,18.2,18.3 installation and troubleshooting</td>
-                        </tr>
-
-                        <tr class="table_headers">
-                            <th colspan="8" class="text-left">Server Administration</th>
-                        </tr>
-
-                        <tr>
-                            <th>Server</th>
-                            <th>Skill</th>
-                        </tr>
-
-                        <tr>
-                            <td>Amazon Web Services</td>
-                            <td>EC2, RDS etc</td>
-                        </tr>
-
-                        <tr>
-                            <td>Web servers</td>
-                            <td>Nginx and Apache2</td>
-                        </tr>
-
-                        <tr id="Awards">
-                            <td>Windows Server 2012</td>
-                            <td>Installation of main server roles i.e DHCP, DNS, Active Direcory etc</td>
-                        </tr>
-
                     </tbody>
-
                 </table>
             </div>
 
             <hr>
         </div>
-
 
         <div class="container">
-            <h5>Awards</h5>
-            <div class="table-responsive">
-                <table class="table table-striped">
-                    <tr class="table_headers">
-                        <th>AWARD</th>
-                        <th>INSTITUTION</th>
-                        <th>YEAR</th>
-                    </tr>
-                    <tr>
-                        <td>Certificate of participation in inaugural leadership seminar</td>
-                        <td>Makerere University</td>
-                        <td>2018</td>
-                    </tr>
-                    <tr>
-                        <td>Certificate of Recognition as minister of Justice & constitutional affairs</td>
-                        <td>SCIT, Makerere University</td>
-                        <td>2017</td>
-                    </tr>
-                    <tr>
-                        <td>Certificate of Recognition as the most disciplined student in S.6 Class</td>
-                        <td>St.Johns SS Nyabwina</td>
-                        <td>2015</td>
-                    </tr>
-                    <tr>
-                        <td>Certificate of Recognition as the most disciplined student in S.5 Class</td>
-                        <td>St.Johns SS Nyabwina</td>
-                        <td>2014</td>
-                    </tr>
-                    <tr>
-                        <td>Certificate of Recognition as information prefect</td>
-                        <td>Bugarama High School</td>
-                        <td>2012</td>
-                    </tr>
-                    <tr>
-                        <td>Certificate of Recognition as prefect in charge of Academics</td>
-                        <td>Bugarama High School</td>
-                        <td>2012</td>
-                    </tr>
-                    <tr id="Experience">
-                        <td>Certificate of Recognition as information prefect</td>
-                        <td>Bugarama High School</td>
-                        <td>2011</td>
-                    </tr>
-                </table>
-            </div>
+            <br>
+            <h5 id="Experience">Teaching Experience</h5>
+            <p>
+                <a href="https://isbatuniversity.ac.ug/" target="_blank">International Business, Science And Technology University (ISBAT) </a></span> | Computer Science Instructor | August 2022 - present
+            </p>
+            <ul>
+                <li>Teaching and leading computer programming classes in C#, C, Java, and web programming languages including HTML, CSS, Javascript, Bootstrap, and JQuery using tools like VS Code, Dev C++ and Eclipse.</li>
+                <li>Marking and grading assignments, tests, and lab assessments, such as designing websites with HTML, CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
+            </ul>
+
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant |  November 2021 - August 2022
+            <ul>
+                <li>Through former professors, I volunteered to teach and lead classes in computer and database programming using Java, Javascript, Python, MySql, and PostgreSQL, as well as tools including Postman and Pycharm.</li>
+                <li>Taught, marked, and graded assignments and lab assessments, such as the design of a Java Swing point-of-sale application.</li>
+                <li>I also advised and mentored undergraduates regarding career development.</li>
+            </ul>
+            </p>
+
+            <p><a href="https://www.mak.ac.ug/" target="_blank">St. John's S.S Nyabwina</a> | Student Teacher | March 2016 - August 2016
+            <ul>
+                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.</li>
+                <li> I organized, graded, and created student performance reports for exams.</li>
+            </ul>
+            </p>
+
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Sheema Girls School</a> | Student Teacher | March 2016 - August 2016
+            <ul>
+                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.</li>
+                <li> I organized, graded, and created student performance reports for exams.</li>
+            </ul>
+            </p>
 
             <hr>
         </div>
+
 
         <div class="container">
             <br>
             <h5 id="Experience">Work Experience</h5>
+            <p>
+                <a href="https://www.keiphoneglobal.com/" target="_blank">
+                    KEIPhone Global </a></span> | Full-Stack Software Engineer | February 2022 - present
+            </p>
+            <ul>
+                <li>Developing and testing software systems. I have developed and tested systems such as the KEIPhone web portal, APIs, and mobile app with Kotlin, Angular, jest, and node.js, using Android Studio and Postman tools.</li>
+                <li>Deploying software systems; I have used docker and AWS to deploy API and web portal systems.</li>
+            </ul>
 
-            <p>Dallington teaches Software Engineering at <span class="text-info">
-                    <a href="https://isbatuniversity.ac.ug/" target="_blank">International Business, Science And Technology (ISBAT) University </a></span> from August 2022 - to date.</p>
-
-            <p>Dallington is currently working at <span class="text-info">
-                    <a href="https://www.keiphoneglobal.com/" target="_blank">KEIPhone Global </a></span>
-                as a Full-Stack Software Engineer; Node.js, Angular, Kotlin.</p>
-
-            <p>Dallington worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> from July 2022 - August 2022.
-                He taught Advanced Object Oriented programming (JDBC class) to Software Engineering students in 3<sup>rd</sup> year.
+            <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February 2021 - January 2022
+            <ul>
+            <li>I designed and developed the <a href="https://africaone.net/" target="_blank" class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
+            <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process manager.</li>
+            </ul>
             </p>
 
-            <p>He worked at <span class="text-info">
-                    <a href="https://www.africaone.com/" target="_blank">Africa One</a></span>
-                as a Full-Stack Software Engineer from February 2021 to January 2022; React, NextJs, CakePHP, Laravel etc.</p>
-
-            <p>Dallington worked as a Teaching Assistant at <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> from November 2021 - December 2021.
-                He taught Advanced Object Oriented programming (Inner classes and Java GUI Programming and JDBC) classes to Software Engineering students in 3<sup>rd</sup> year.
+            <p><a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a> | Full-Stack Software Engineer | June 2020 - January 2021
+            <ul>
+            <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
+            <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+            </ul>
             </p>
 
-            <span>He worked as a Full-Stack Software Engineer at <span class="text-info">
-                    <a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a></span> from June 2020 - January 2021; majoring in C# programming language.</span><br><br>
+            <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering Intern |  July 2019 - August 2019
+            <ul>
+            <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
+            <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+            </ul>
+            </p>
 
-
-            <span>Dallington worked as an intern at <span class="text-info">
-                    <a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a></span> in the department of <span class="text-info"> IT Operations (ITO)</span> for the period of one month from 1st July to 31st July 2019.He was recommended by the central bank after his successful training.</span><br><br>
-            <span>Dallington worked as an intern at <span class="text-info">
-                    <a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a></span> in the Department of <span class="text-info">ICT Support Services (DISS)</span>
-                for the period of one month from 5th June to 28th June 2019 where he participated in hardware and sofware maintenance and windows server administration.</span><br><br>
-            <span>Dallington taught Physics, Chemistry, Mathematics and ICT in his S.6 vacation in two schools that is St.johns SS Nyabwina and Sheema Girls School,both found in Sheema district. He was credited for his tremedous contribution by both the students and staff of the two institutions in his four-month short<span id="Hobbies"></span> vacation after which he had to go and continue with his studies at Makerere University way back in 2016.</span>
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Software Development Engineering Intern | June 2019 - July 2019
+            <ul>
+             <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software applications like the university website.</li>
+              <li>I learned IT administration and worked with other interns to complete tasks.</li>
+            </ul>
+            </p>
             <hr>
         </div>
 
+      
         <div class="container">
-            <br>
-            <h5>Hobbies</h5>
-            <ol>
-                <li>Computer programming & Reading</li>
-                <li>Researching</li>
-                <li>Teaching others what I know</li>
-                <li id="Contact">Keeping up to date with computer technologies and current affairs</li>
-                <li>Sports (Football, Golf)</li>
-                <li>Listening to music (country music)</li>
-
-            </ol>
-
-            <hr>
-        </div>
-
-        <div class="container">
-            <br>
-            <h5 id="Contact">Contact</h5>
-            <span id="projects"></span>
-            <div class="table-responsive">
-                <table class="table table-striped">
-                    <tr>
-                        <td>Telephone</td>
-                        <td>+256 700 477421 <span class="text-info">( official )</span></td>
-                    </tr>
-                    <tr>
-                        <td>Email</td>
-                        <td>asingwire50dallington@gmail.com</td>
-                    </tr>
-                </table>
-            </div>
-            <hr>
-        </div>
-
-        <div class="container">
-            <h5>Software Projects</h5>
-            Dallington has worked on or created the software projects/products listed below.
-            <h6><u>Commercial applications</u></h6>
-            <div class="table-responsive">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Application</th>
-                            <th>Description</th>
-                            <th>Link</th>
-                        </tr>
-                    </thead>
-
-                    <tbody>
-                        <tr>
-                            <td>Point of Sale</td>
-                            <td>Used by shop and supermarket owners to record daily transactions and generate reports. It also features barcode scanning capabilities.</td>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">Point of sale</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>Office Solution</td>
-                            <td>User can use it to record attendance, add departments, record spending, and examine reports.</td>
-                            <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>Parkpro dashboard</td>
-                            <td>Parking management system for a property owner.</td>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro management system</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>Parkpro</td>
-                            <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro mobile app</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>Vendor Management System</td>
-                            <td>Retailers and wholesalers use this system to manage orders and suppliers.</td>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">Vendor Management System</a></td>
-                        </tr>
-
-                        <tr>
-                            <td> Hostel management system</td>
-                            <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
-                            <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel management system</a></td>
-                        </tr>
-
-                        <tr>
-                            <td> Restaurant management system</td>
-                            <td>Restaurant proprietors use this software to log transactions and view reports.</td>
-                            <td><a href="http://hms.parkproug.com" target="_blank"> Restaurant management system</a></td>
-                        </tr>
-
-                        <tr>
-                            <td> School management system</td>
-                            <td>used by students and teachers in a school.</td>
-                            <td><a href="http://sms.parkproug.com/" target="_blank"> School management system</a></td>
-                        </tr>
-
-                        <tr>
-                            <td> Online examination system</td>
-                            <td>Students can access their examinations online by logging in. They are evaluated immediately after submitting their exam.</td>
-                            <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
-                        </tr>
-
-                        <tr>
-                            <td> Microfinance institution Management System</td>
-                            <td>Microfinance institutions use MIMS to manage financial transactions.</td>
-                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance institution Management System</a></td>
-                        </tr>
-
-                    </tbody>
-                </table>
-            </div>
-        </div>
-
-        <div class="container">
-            <h6><u>Non-commercial applications</u></h6>
-            <div class="table-responsive">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th>Application</th>
-                            <th>Description</th>
-                            <th>Link</th>
-                        </tr>
-                    </thead>
-
-                    <tbody>
-                        <tr>
-                            <td>simple unit converter</td>
-                            <td>a calculator that can assist the user in doing simple math calculations.</td>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>UTLAgent</td>
-                            <td>A Telecom(UTL) Agent can use this C# ASP.NET program to register a customer, deposit money on the customer's account, withdraw money from the customer's account, view a list of all registered customers, view the customer's account balance, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
-                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a></td>
-                        </tr>
-
-                        <tr>
-                            <td>UTLAgent API</td>
-                            <td>C# ASP.NET application programming interface (API) that receives requests from the UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose registration details are sent via email, deposit money on a customer's account, withdraw money from a customer's account, view a list of all registered customers, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
-                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a></td>
-                        </tr>
-
-                    </tbody>
-
-                </table>
-            </div>
-        </div>
-
-        <div class="container">
-            <hr />
-
-            <h5>Services</h5>
-            <div class="row">
-
-                <div class="col-md-4">
-                    <h6>Web development</h6>
-                    <ul>
-                        <li>React, Next.js</li>
-                        <li>Laravel, CakePHP</li>
-                        <li>Html, css, Bootstrap</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4">
-                    <h6>Mobile App Development</h6>
-                    <ul>
-                        <li>React Native</li>
-                        <li>Kotlin</li>
-                    </ul>
-                </div>
-
-                <div class="col-md-4">
-                    <h6>Micro Services</h6>
-                    <ul>
-                        <li>Laravel</li>
-                        <li>Node.js</li>
-                        <li>C#</li>
-                    </ul>
-                </div>
-
-            </div>
-
-            <div>
-                <p>How do I bill?</p>
-                <ul>
-                    <li>My preference is to bill on a project basis. Gather your needs, estimate the project, and submit a quote with a time and cost estimate.</li>
-                    <li id="tutoring">If you like, I can bill by the hour. I am adaptable, and we can work something out based on your preferences.</li>
-                </ul>
-            </div>
-        </div>
-
-
-        <div class="container">
-            <hr>
-            <h5>Computer Programming Tutoring</h5>
+            <h5>Technical Competence</h5>
             <div class="row">
                 <div class="col-md-12">
-                    Dallington teaches computer programming. I teach university students and anyone else who is interested in computer programming.
-                    My coding sessions range from web-based to mobile app programming languages. The following are the languages/frameworks that I teach:
                     <table class="table table-bordered mt-2">
                         <thead>
                             <tr>
@@ -741,7 +427,92 @@
             </div>
         </div>
 
+        <div class="container">
+            <h5>Software Projects</h5>
+            Dallington has worked on or created the following software projects/products:
+            <div class="table-responsive">
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th>Application</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
 
+                    <tbody>
+                        <tr>
+                            <td><a href="http://posv2.parkproug.com" target="_blank">Point of sale</a></td>
+                            <td>Used by shop and supermarket owners to record daily transactions and generate reports. It also features barcode scanning capabilities.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
+                            <td>User can use it to record attendance, add departments, record spending, and examine reports.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro MS</a></td>
+                            <td>Parking management system for a property owner.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro mobile app</a></td>
+                            <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://posv2.parkproug.com" target="_blank">Vendor MS</a></td>
+
+                            <td>Retailers and wholesalers use this system to manage orders and suppliers.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel MS</a></td>
+                            <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://hms.parkproug.com" target="_blank"> Restaurant MS</a></td>
+                            <td>Restaurant proprietors use this software to log transactions and view reports.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://sms.parkproug.com/" target="_blank"> School MS</a></td>
+                            <td>used by students and teachers in a school.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
+                            <td>Students can access their examinations online by logging in. They are evaluated immediately after submitting their exam.</td>
+
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance MS</a></td>
+                            <td>Microfinance institutions use MIMS to manage financial transactions.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
+                            <td>a calculator that can assist the user in doing simple math calculations.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a></td>
+                            <td>A Telecom(UTL) Agent can use this C# ASP.NET program to register a customer, deposit money on the customer's account, withdraw money from the customer's account, view a list of all registered customers, view the customer's account balance, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
+
+                        </tr>
+
+                        <tr>
+                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a></td>
+                            <td>C# ASP.NET application programming interface (API) that receives requests from the UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose registration details are sent via email, deposit money on a customer's account, withdraw money from a customer's account, view a list of all registered customers, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
+
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
 
         <div class="container" id="dev-posts">
             <hr>
@@ -773,10 +544,46 @@
             <hr>
             <h5>Strategic Vision</h5>
             <ul>
-                <li>Dallington aspires to be a great professor of computer science as well as an entrepreneur by establishing a Tech company that will bring together young people to work collaboratively and provide technological solutions to various problems in the world.
-                    I believe that by doing so, I will empower many youth by providing them with important digital skills that they will use to change their lives and the society at large.
+                <li>
+                    My ultimate goal is to become a distinguished computer science professor and researcher.
+                    I also intend to use my postgraduate research knowledge and skills to transform our software hub into one of Africa's preeminent research institutions.
                 </li>
             </ul>
+            <hr />
+        </div>
+
+        <div class="container">
+            <br>
+            <h5>Hobbies</h5>
+            <ol>
+                <li>Computer programming & Reading</li>
+                <li>Researching</li>
+                <li>Teaching</li>
+                <li id="Contact">Keeping up to date with computer technologies and current affairs</li>
+                <li>Watching Football</li>
+                <li>Listening to music</li>
+
+            </ol>
+
+            <hr>
+        </div>
+
+        <div class="container">
+            <br>
+            <h5 id="Contact">Contact</h5>
+            <span id="projects"></span>
+            <div class="table-responsive">
+                <table class="table table-borderless">
+                    <tr>
+                        <td>Telephone</td>
+                        <td>+256 700 477421 <span class="text-info">( official )</span></td>
+                    </tr>
+                    <tr>
+                        <td>Email</td>
+                        <td>asingwire50dallington@gmail.com</td>
+                    </tr>
+                </table>
+            </div>
         </div>
 
         <div class="container quotes" id="quotes">
