@@ -202,6 +202,11 @@
                             <td>2017</td>
                         </tr>
                         <tr>
+                            <td>The Goverment of Uganda Academic merit</td>
+                            <td>Makerere University</td>
+                            <td>2016 - 2020</td>
+                        </tr>
+                        <tr>
                             <td>Best Student Overall Award</td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2016</td>
@@ -326,7 +331,7 @@
                         <thead>
                             <tr>
                                 <th>Language</th>
-                                <th>Framework/Runtime environment</th>
+                                <th>Framework</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -521,11 +526,11 @@
 
         <div class="container" id="dev-posts">
             <hr>
-            <h5>Posts shared on Dev Community</h5>
+            <h5>Articles published on Dev Community</h5>
             <div class="row">
                 <div class="col-md-12">
                     <ul>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></li>
+                        <li><article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></article></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961" target="_blank">How to use .env file in a React Native Application</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
@@ -561,13 +566,9 @@
             <br>
             <h5>Hobbies</h5>
             <ol>
-                <li>Computer programming & Reading</li>
-                <li>Researching</li>
-                <li>Teaching</li>
-                <li id="Contact">Keeping up to date with computer technologies and current affairs</li>
+                <li>Reading books</li>
                 <li>Watching Football</li>
                 <li>Listening to music</li>
-
             </ol>
 
             <hr>
@@ -580,8 +581,8 @@
             <div class="table-responsive">
                 <table class="table table-borderless">
                     <tr>
-                        <td>Telephone</td>
-                        <td>+256 700 477421 <span class="text-info">( official )</span></td>
+                        <td>Phone Number</td>
+                        <td>+256 700 477421</td>
                     </tr>
                     <tr>
                         <td>Email</td>
@@ -643,18 +644,20 @@
                 <p>Follow Dallington on the following socials</p>
             </span>
             <span class="pl-3">
-                <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
-                    <img src="img/fb.png" width="40px" height="40px">
-                    Facebook
+                <a href="https://www.linkedin.com/in/dallington-asingwire-0468a414a/" target="_blank">
+                    <img src="img/linkedin.svg" width="40px" height="40px">
+                    LinkedIn
                 </a>
             </span>
             <span class="pl-1">
-                <a href="https://www.instagram.com/dallingtonug/" target="_blank">
-                    <img src="img/instagram.png" width="40px" height="40px"> Instagram</a>
+                <a href="https://www.twitter.com/sofexception/" target="_blank">
+                    <img src="img/twitter.png" width="40px" height="40px"> Twitter</a>
             </span>
             <span class="pl-1">
-                <a href="https://twitter.com/dallingtonasin" target="_blank">
-                    <img src="img/twitter.png" width="40px" height="40px"> Twitter</a>
+            <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
+                    <img src="img/fb.png" width="40px" height="40px">
+                    Facebook
+                </a>
             </span>
 
             <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
