@@ -556,7 +556,7 @@
             <ul>
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I also intend to use my postgraduate research knowledge and skills to transform our software hub into one of Africa's preeminent research institutions.
+                    I also intend to use my postgraduate research knowledge and skills to transform our software hub (Code Solution Hub) into one of Africa's preeminent research institutions.
                 </li>
             </ul>
             <hr />
