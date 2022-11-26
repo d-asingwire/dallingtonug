@@ -48,9 +48,6 @@
                     <a class="nav-link" href="#projects">Projects</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#tutoring">Tutoring</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="#Contact">Contact</a>
                 </li>
                 <li class="nav-item">
@@ -121,13 +118,9 @@
                     <div class="card">
                         <img src="img/dallington.jpg" />
                         <div class="card-body bio-conten align-items-center justify-content-center">
-                            <div class="d-flex justify-content-center">
+                            <div class="d-flex justify-content-center" id="Education">
                                 <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2022</h5>
                             </div>
-                            <!-- <div class="d-flex justify-content-center" id="Education">
-                                <a href="docs/resume.pdf" download="Resume" class="btn btn-sm bg-white text-dark border border-secondary">
-                                    Download Resume <i class="fa fa-download"></i></a>
-                            </div> -->
                         </div>
                     </div>
                 </div>
@@ -157,19 +150,12 @@
             <p>
             At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career. He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
             </p>
-
-            </p>
-
-      
-
-            
-           
             <hr>
 
         </div>
 
 
-        <div class="container">
+        <div class="container" id="Awards">
             <h5>Awards and Honors</h5>
             <div class="table-responsive">
                 <table class="table table-striped">
@@ -314,7 +300,7 @@
             </p>
 
             <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Software Development Engineering Intern | June 2019 - July 2019
-            <ul>
+            <ul id="skills">
              <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software applications like the university website.</li>
               <li>I learned IT administration and worked with other interns to complete tasks.</li>
             </ul>
@@ -387,6 +373,11 @@
                             </tr>
 
                             <tr>
+                                <td>Python</td>
+                                <td>Django</td>
+                            </tr>
+
+                            <tr>
                                 <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Database Management</i></th>
                             </tr>
 
@@ -437,14 +428,14 @@
             </div>
         </div>
 
-        <div class="container">
+        <div class="container" id="projects">
             <h5>Software Projects</h5>
             Dallington has worked on or created the following software projects/products:
             <div class="table-responsive">
                 <table class="table">
                     <thead>
                         <tr>
-                            <th>Application</th>
+                            <th>Project</th>
                             <th>Description</th>
                         </tr>
                     </thead>
@@ -565,7 +556,7 @@
         <div class="container">
             <br>
             <h5>Hobbies</h5>
-            <ol>
+            <ol id="Contact">
                 <li>Reading books</li>
                 <li>Watching Football</li>
                 <li>Listening to music</li>
@@ -576,8 +567,8 @@
 
         <div class="container">
             <br>
-            <h5 id="Contact">Contact</h5>
-            <span id="projects"></span>
+            <h5>Contact</h5>
+            <span></span>
             <div class="table-responsive">
                 <table class="table table-borderless">
                     <tr>
