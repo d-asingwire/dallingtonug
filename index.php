@@ -88,13 +88,11 @@
             <div class="row">
                 <div class="col-md-8">
                     <p>
-                        Dallington Asingwire is a Ugandan male born on November 16, 1996, in Ryenjoki, Kyangyenyi Sheema District, Western Uganda. Sentara Dallington, his father, and Ninsiima Annet, his mother, bore him.
+                    Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on November 16, 1996.
                     </p>
                     <span>
                         <p>
-                            From his boyhood, Dallington aspired to be a resourceful scientist, drawing inspiration from the achievements of various world-renowned scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei.
-                            Even now, he believes his ambition is still alive because he works in engineering, a field that he grew up in as a dream.
-                            His zeal for influencing the community through the creation and implementation of breakthrough technology motivates him.
+                        Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he works in engineering, which was his childhood ambition. His motivation is his desire to influence the community through the development and implementation of innovative technology.
                         </p>
 
                         <p>
