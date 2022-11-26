@@ -139,26 +139,31 @@
 
         <div class="container">
             <h5>Education</h5>
+
             <p>
-                Dallington Asingwire began his academic career at Rweibaare Primary School, where he spent eight years. He received <span class="text-info">7</span> out of <span class="text-info">4</span> aggregates, with D1 in Mathematics, D2 in Science, English, and Social Studies. He received a Primary Leaving Examination (PLE) Certificate.
+            Dallington graduated with <span class="text-info">honors</span> and as the best student in Bachelor of Science in Software Engineering in May 2021 from Makerere University in Kampala, Uganda.
+            The Government of Uganda funded his undergraduate education after he emerged as one of the country's top students in the national high school examinations in 2016.
             </p>
 
             <p>
-                Dallington attended Bugarama High School on a scholarship from 2010 to 2013, where he got <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the best student in overall school O'Level achievement after four years. The following is his performance in each subject;
+            Prior to enrolling in the university, Dallington completed his Advanced Certificate of Education (UACE) at St. John's S.S. Nyabwina, where he was also granted a scholarship. He majored in PCM/ICT (Physics, Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
+            <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top students in the country.</i>
+            </p>
+
+            <p>
+            From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
+            </p>
+
+            <p>
+            At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career. He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
             </p>
 
             </p>
 
-            <p>
-                In 2014-2015, he continued his studies by enrolling in Advanced Level (A'Level) at St. Johns SS Nyabwina, where he was also admitted on scholarship. He majored in PCM/ICT (Physics,Chemistry,Mathematics) and received <span class="text-info">18</span> points out of a possible <span class="text-info">20</span> for an A in Mathematics, a B in both Physics and Chemistry, and two points for the auxiliary disciplines (General Paper and ICT). On both the school and district (Sheema) levels, he was the best student in overall A'Level performance.
-            </p>
+      
 
-            <p>
-                In 2016, he was admitted to Makerere University on government funding to pursue his bachelor's degree in software engineering.
-            </p>
-            <p>
-                In 2021, he graduated with first-class honors and as the best student in BSc.Software Engineering from Makerere University's School of Computing and Informatics Technology (SCIT), College of Computing and Information Sciences (CoCIS).
-            </p>
+            
+           
             <hr>
 
         </div>
