@@ -11,7 +11,7 @@
 
     <title>Engineer Dallington's website</title>
 
-    <link rel="icon" href="img/2021m1.ico">
+    <link rel="icon" href="img/dallingtons.ico">
     <link rel="stylesheet" type="text/css" href="css/nunito.css" />
     <link rel="stylesheet" href="vendors/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="css/style.css" />
