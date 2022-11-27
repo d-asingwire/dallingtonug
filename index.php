@@ -88,11 +88,11 @@
             <div class="row">
                 <div class="col-md-8">
                     <p>
-                    Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on November 16, 1996.
+                        Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on November 16, 1996.
                     </p>
                     <span>
                         <p>
-                        Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he works in engineering, which was his childhood ambition. His motivation is his desire to influence the community through the development and implementation of innovative technology.
+                            Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he works in engineering, which was his childhood ambition. His motivation is his desire to influence the community through the development and implementation of innovative technology.
                         </p>
 
                         <p>
@@ -132,21 +132,21 @@
             <h5>Education</h5>
 
             <p>
-            Dallington graduated with <span class="text-info">honors</span> and as the best student in Bachelor of Science in Software Engineering in May 2021 from Makerere University in Kampala, Uganda.
-            The Government of Uganda funded his undergraduate education after he emerged as one of the country's top students in the national high school examinations in 2016.
+                Dallington graduated with <span class="text-info">honors</span> and as the best student in Bachelor of Science in Software Engineering in May 2021 from Makerere University in Kampala, Uganda.
+                The Government of Uganda funded his undergraduate education after he emerged as one of the country's top students in the national high school examinations in 2016.
             </p>
 
             <p>
-            Prior to enrolling in the university, Dallington completed his Advanced Certificate of Education (UACE) at St. John's S.S. Nyabwina, where he was also granted a scholarship. He majored in PCM/ICT (Physics, Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
-            <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top students in the country.</i>
+                Prior to enrolling in the university, Dallington completed his Advanced Certificate of Education (UACE) at St. John's S.S. Nyabwina, where he was also granted a scholarship. He majored in PCM/ICT (Physics, Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
+                <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top students in the country.</i>
             </p>
 
             <p>
-            From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
+                From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
             </p>
 
             <p>
-            At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career. He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
+                At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career. He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
             </p>
             <hr>
 
@@ -159,66 +159,98 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                            <th>AWARD</th>
-                            <th>INSTITUTION</th>
-                            <th>YEAR</th>
+                            <th style="width: 70%">AWARD</th>
+                            <th style="width: 20%">INSTITUTION</th>
+                            <th style="width: 10%">YEAR</th>
                         </tr>
                     </thead>
                     <tbody>
                         <tr>
-                            <td>First Class Honors</td>
+                            <td>First Class Honors
+                               <br/> 
+                                <li><i class="ml-1"><small>Awarded to students with CGPA above 4.40 out of 5</small></i></li>
+                              
+                            </td>
                             <td>Makerere University</td>
                             <td>2021</td>
                         </tr>
                         <tr>
-                            <td>Best Science Award</td>
+                            <td>Best Science Award
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded to best student in science in the university</small></i></li>
+                              
+                            </td>
                             <td>Makerere University</td>
                             <td>2021</td>
                         </tr>
                         <tr>
-                            <td>Leadership Training Certificate</td>
+                            <td>Leadership Training Certificate
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for having participated in the inaugural leadership seminar</small></i></li>
+                              
+                            </td>
                             <td>Makerere University</td>
                             <td>2018</td>
                         </tr>
                         <tr>
-                            <td>Outstanding service as Minister for Justice affairs</td>
+                            <td>Outstanding service as Minister for Justice affairs
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of justice and constitutional affairs</small></i></li>
+                              
+                            </td>
                             <td>Makerere University</td>
                             <td>2017</td>
                         </tr>
                         <tr>
-                            <td>The Goverment of Uganda Academic merit</td>
-                            <td>Makerere University</td>
+                            <td>The Goverment of Uganda Academic merit
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded by the Goverment of Uganda for emerging the best student in the dictrict and ranking among top students in the national
+                                     high school examinations to pursue my undergraduate studies at Makerere University</small></i></li>
+                            </td>
+                            <td>Goverment of Uganda</td>
                             <td>2016 - 2020</td>
                         </tr>
                         <tr>
-                            <td>Best Student Overall Award</td>
+                            <td>Best Student Overall Award
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for emerging the best student in the Uganda Advanced Certificate of Examinations (UACE) in the entire school</small></i></li>
+                            </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2016</td>
                         </tr>
                         <tr>
-                            <td>Outstanding Student Award</td>
+                            <td>Outstanding Student Award
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for exemplary behaviour or conduct in the entire school</small></i></li>
+                            </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2014, 2015</td>
                         </tr>
                         <tr>
-                            <td>Best Student Overall Award</td>
+                            <td>Best Student Overall Award
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for emerging the top student in the Uganda Ordinary Certificate of Examinations (UCE) in the entire school</small></i></li>
+                            </td>
                             <td>Bugarama High School</td>
                             <td>2014</td>
                         </tr>
                         <tr>
-                            <td>Outstanding Service Award for information prefect</td>
+                            <td>Outstanding Service Award for information prefect
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for outstanding leadership as prefect incharge of information</small></i></li>
+                              
+                            </td>
                             <td>Bugarama High School</td>
-                            <td>2012</td>
-                        </tr>
-                        <tr>
-                            <td>Outstanding Service Award for prefect in charge of Academics</td>
-                            <td>Bugarama High School</td>
-                            <td>2012</td>
+                            <td>2011, 2012</td>
                         </tr>
                         <tr id="Experience">
-                            <td>Outstanding Service Award for information prefect</td>
+                            <td>Outstanding Service Award for prefect in charge of Academics
+                            <br/> 
+                                <li><i class="ml-1"><small>Awarded for outstanding leadership as academics prefect</small></i></li>
+                              
+                            </td>
                             <td>Bugarama High School</td>
-                            <td>2011</td>
+                            <td>2012</td>
                         </tr>
                     </tbody>
                 </table>
@@ -238,7 +270,7 @@
                 <li>Marking and grading assignments, tests, and lab assessments, such as designing websites with HTML, CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
             </ul>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant |  November 2021 - August 2022
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant | November 2021 - August 2022
             <ul>
                 <li>Through former professors, I volunteered to teach and lead classes in computer and database programming using Java, Javascript, Python, MySql, and PostgreSQL, as well as tools including Postman and Pycharm.</li>
                 <li>Taught, marked, and graded assignments and lab assessments, such as the design of a Java Swing point-of-sale application.</li>
@@ -278,35 +310,35 @@
 
             <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February 2021 - January 2022
             <ul>
-            <li>I designed and developed the <a href="https://africaone.net/" target="_blank" class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
-            <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process manager.</li>
+                <li>I designed and developed the <a href="https://africaone.net/" target="_blank" class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
+                <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process manager.</li>
             </ul>
             </p>
 
             <p><a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a> | Full-Stack Software Engineer | June 2020 - January 2021
             <ul>
-            <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
-            <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
+                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering Intern |  July 2019 - August 2019
+            <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering Intern | July 2019 - August 2019
             <ul>
-            <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
-            <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
+                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
             </ul>
             </p>
 
             <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Software Development Engineering Intern | June 2019 - July 2019
             <ul id="skills">
-             <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software applications like the university website.</li>
-              <li>I learned IT administration and worked with other interns to complete tasks.</li>
+                <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software applications like the university website.</li>
+                <li>I learned IT administration and worked with other interns to complete tasks.</li>
             </ul>
             </p>
             <hr>
         </div>
 
-      
+
         <div class="container">
             <h5>Technical Competence</h5>
             <div class="row">
@@ -433,12 +465,42 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th>Project</th>
-                            <th>Description</th>
+                            <th style="width: 28%">Project</th>
+                            <th style="width: 72%">Description</th>
                         </tr>
                     </thead>
 
                     <tbody>
+
+                        <tr>
+                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a></td>
+                            <td>As security
+                                becomes an increasing concern, data in a distributed environment is
+                                susceptible to inappropriate manipulation. Due to the significance of
+                                weather data, there was a need for mechanisms to protect this
+                                information from the time it is collected until it is used for forecasting
+                                and prediction. I was able to accomplish this by conducting research,
+                                designing, and implementing a secure layer for a desktop repository of
+                                weather data.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">ParkPro</a></td>
+                            <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">E-docta</a></td>
+                            <td>A telemedicine mobile application that enables drivers to seek remote diagnosis and treatment.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro Management System</a></td>
+                            <td>Parking management system for a property owner.</td>
+                        </tr>
+
+
+
                         <tr>
                             <td><a href="http://posv2.parkproug.com" target="_blank">Point of sale</a></td>
                             <td>Used by shop and supermarket owners to record daily transactions and generate reports. It also features barcode scanning capabilities.</td>
@@ -449,18 +511,10 @@
                             <td>User can use it to record attendance, add departments, record spending, and examine reports.</td>
                         </tr>
 
-                        <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro MS</a></td>
-                            <td>Parking management system for a property owner.</td>
-                        </tr>
+
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">Parkpro mobile app</a></td>
-                            <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">Vendor MS</a></td>
+                            <td><a href="http://posv2.parkproug.com" target="_blank">Vendor Management System</a></td>
 
                             <td>Retailers and wholesalers use this system to manage orders and suppliers.</td>
                         </tr>
@@ -470,35 +524,35 @@
                             <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
                         </tr>
 
-                        <tr>
+                        <!-- <tr>
                             <td><a href="http://hms.parkproug.com" target="_blank"> Restaurant MS</a></td>
                             <td>Restaurant proprietors use this software to log transactions and view reports.</td>
-                        </tr>
+                        </tr> -->
 
                         <tr>
-                            <td><a href="http://sms.parkproug.com/" target="_blank"> School MS</a></td>
-                            <td>used by students and teachers in a school.</td>
+                            <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
+                            <td>used by school teachers and administrators to manage records such as registered students, examinations, financial records, among others.</td>
                         </tr>
 
                         <tr>
                             <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
-                            <td>Students can access their examinations online by logging in. They are evaluated immediately after submitting their exam.</td>
+                            <td>The system allows students to log in and access their online examinations. They are evaluated immediately following exam submission.</td>
 
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance MS</a></td>
-                            <td>Microfinance institutions use MIMS to manage financial transactions.</td>
+                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance Management System</a></td>
+                            <td>The system allows micro finance institutions like Saccos to manage their customers and financial records</td>
                         </tr>
 
                         <tr>
                             <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
-                            <td>a calculator that can assist the user in doing simple math calculations.</td>
+                            <td>a software that the user can use in performing basic math operations.</td>
                         </tr>
 
                         <tr>
                             <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a></td>
-                            <td>A Telecom(UTL) Agent can use this C# ASP.NET program to register a customer, deposit money on the customer's account, withdraw money from the customer's account, view a list of all registered customers, view the customer's account balance, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
+                            <td>A Telecom (UTL) Agent can use this C# ASP.NET program to register a customer, deposit money on the customer's account, withdraw money from the customer's account, view a list of all registered customers, view the customer's account balance, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
 
                         </tr>
 
@@ -519,7 +573,9 @@
             <div class="row">
                 <div class="col-md-12">
                     <ul>
-                        <li><article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></article></li>
+                        <li>
+                            <article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></article>
+                        </li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961" target="_blank">How to use .env file in a React Native Application</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
@@ -643,7 +699,7 @@
                     <img src="img/twitter.png" width="40px" height="40px"> Twitter</a>
             </span>
             <span class="pl-1">
-            <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
+                <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
                     <img src="img/fb.png" width="40px" height="40px">
                     Facebook
                 </a>
