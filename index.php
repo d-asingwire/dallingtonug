@@ -491,7 +491,7 @@
 
                         <tr>
                             <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">E-docta</a></td>
-                            <td>A telemedicine mobile application that enables drivers to seek remote diagnosis and treatment.</td>
+                            <td>A telemedicine mobile application that enables patients to seek remote diagnosis and treatment.</td>
                         </tr>
 
                         <tr>
