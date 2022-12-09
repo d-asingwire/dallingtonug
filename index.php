@@ -357,8 +357,8 @@
                             </tr>
 
                             <tr>
-                                <td>Javascript</td>
-                                <td>React, Next.js, Node.js and Express.Js</td>
+                                <td>Javascript/Typescript</td>
+                                <td>React, Next.js, Node.js and Angular.Js</td>
                             </tr>
                             <tr>
                                 <td>PHP</td>
@@ -375,7 +375,7 @@
                             </tr>
 
                             <tr>
-                                <td>Javascript</td>
+                                <td>Javascript/Typescript</td>
                                 <td>React Native</td>
                             </tr>
 
