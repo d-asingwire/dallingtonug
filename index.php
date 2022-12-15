@@ -502,7 +502,7 @@
 
 
                         <tr>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">Point of sale</a></td>
+                            <td><a href="http://posv1.parkproug.com" target="_blank">Point of sale</a></td>
                             <td>Used by shop and supermarket owners to record daily transactions and generate reports. It also features barcode scanning capabilities.</td>
                         </tr>
 
@@ -519,15 +519,15 @@
                             <td>Retailers and wholesalers use this system to manage orders and suppliers.</td>
                         </tr>
 
-                        <tr>
+                        <!-- <tr>
                             <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel MS</a></td>
                             <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
-                        </tr>
-
-                        <!-- <tr>
-                            <td><a href="http://hms.parkproug.com" target="_blank"> Restaurant MS</a></td>
-                            <td>Restaurant proprietors use this software to log transactions and view reports.</td>
                         </tr> -->
+
+                        <tr>
+                            <td><a href="http://hms.parkproug.com" target="_blank"> Hotel MS</a></td>
+                            <td>This software is used by hotel owners to record and manage rooms, transactions, and to view reports.</td>
+                        </tr>
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
