@@ -100,7 +100,7 @@
                         </p>
 
                         <p>
-                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing software systems in teams, a concept that has evolved into Code Solutions Ltd, a software hub that has trained a significant number of young Ugandans in computer programming.
+                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing software systems in teams, a concept that has evolved into Code Solutions & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a software hub that has trained a significant number of young Ugandans in computer programming.
                         </p>
 
 
@@ -601,7 +601,7 @@
             <ul>
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I also intend to use my postgraduate research knowledge and skills to transform our software hub (Code Solution Hub) into one of Africa's preeminent research institutions.
+                    I also intend to use my postgraduate research knowledge and skills to transform our software hub (Code Solution & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>) into one of Africa's preeminent research institutions.
                 </li>
             </ul>
             <hr />
