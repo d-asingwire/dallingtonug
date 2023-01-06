@@ -2,6 +2,16 @@
 <html lang="en">
 
 <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJ55EWCK5V"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-WJ55EWCK5V');
+    </script>
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
@@ -23,7 +33,8 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
@@ -68,17 +79,26 @@
                 I am a professional software engineer and computer science instructor with four years of experience.
                 Graduated as the best student with First Class Honors (<span class="text-info">4.53
                     <span class="text-dark">out of</span> 5</span>) in
-                Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously volunteered as a teaching assistant at Makerere University
-                through former professors. I'm a lecturer at the International Business, Science, and Technology University,
+                Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously
+                volunteered as a teaching assistant at Makerere University
+                through former professors. I'm a lecturer at the International Business, Science, and Technology
+                University,
                 where I teach students from various social and cultural backgrounds.
-                Technically, I have designed and built dependable and scalable software systems by leveraging full-stack expertise and experience. Passionate about using technology to solve everyday problems and I've done so by
-                designing and developing software applications, most notably e-docta whih enables patients to seek remote diagnosis and treatment.
+                Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
+                expertise and experience. Passionate about using technology to solve everyday problems and I've done so
+                by
+                designing and developing software applications, most notably e-docta whih enables patients to seek
+                remote diagnosis and treatment.
                 <hr>
             <h5>Academic Interest</h5>
             <p>
-                My primary research areas include computational science (biocomputation), artificial intelligence, and human-computer interaction.
-                I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can use them to achieve my ultimate goal.
-                My ultimate goal is to become a distinguished computer science professor and researcher. My research will enable me to accomplish my ambition of revolutionizing the health care, education, and e-government systems in home country, Uganda and around the world.
+                My primary research areas include computational science (biocomputation), artificial intelligence, and
+                human-computer interaction.
+                I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can use
+                them to achieve my ultimate goal.
+                My ultimate goal is to become a distinguished computer science professor and researcher. My research
+                will enable me to accomplish my ambition of revolutionizing the health care, education, and e-government
+                systems in home country, Uganda and around the world.
             </p>
             <hr>
         </div>
@@ -88,19 +108,34 @@
             <div class="row">
                 <div class="col-md-8">
                     <p>
-                        Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on November 16, 1996.
+                        Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on
+                        November 16, 1996.
                     </p>
                     <span>
                         <p>
-                            Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he works in engineering, which was his childhood ambition. His motivation is his desire to influence the community through the development and implementation of innovative technology.
+                            Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from
+                            the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils
+                            Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he
+                            works in engineering, which was his childhood ambition. His motivation is his desire to
+                            influence the community through the development and implementation of innovative technology.
                         </p>
 
                         <p>
-                            Dallington's first software system sale was $492, which bolstered his confidence in visualizing the magic of empowering and impressing the mind with the right input. Dallington was inspired to understand the need for every human life to have a sense of purpose rather than progress by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a href="http://www.havard.com" class="text-info">Havard University</a> in 2017, and as a result, he has that level of desire, willingness, and enthusiasm to have a positive impact on many human lives in this world.
+                            Dallington's first software system sale was $492, which bolstered his confidence in
+                            visualizing the magic of empowering and impressing the mind with the right input. Dallington
+                            was inspired to understand the need for every human life to have a sense of purpose rather
+                            than progress by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a
+                                href="http://www.havard.com" class="text-info">Havard University</a> in 2017, and as a
+                            result, he has that level of desire, willingness, and enthusiasm to have a positive impact
+                            on many human lives in this world.
                         </p>
 
                         <p>
-                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing software systems in teams, a concept that has evolved into Code Solutions & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a software hub that has trained a significant number of young Ugandans in computer programming.
+                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
+                            software systems in teams, a concept that has evolved into Code Solutions & <a
+                                href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
+                            software hub that has trained a significant number of young Ugandans in computer
+                            programming.
                         </p>
 
 
@@ -132,21 +167,33 @@
             <h5>Education</h5>
 
             <p>
-                Dallington graduated with <span class="text-info">honors</span> and as the best student in Bachelor of Science in Software Engineering in May 2021 from Makerere University in Kampala, Uganda.
-                The Government of Uganda funded his undergraduate education after he emerged as one of the country's top students in the national high school examinations in 2016.
+                Dallington graduated with <span class="text-info">honors</span> and as the best student in Bachelor of
+                Science in Software Engineering in May 2021 from Makerere University in Kampala, Uganda.
+                The Government of Uganda funded his undergraduate education after he emerged as one of the country's top
+                students in the national high school examinations in 2016.
             </p>
 
             <p>
-                Prior to enrolling in the university, Dallington completed his Advanced Certificate of Education (UACE) at St. John's S.S. Nyabwina, where he was also granted a scholarship. He majored in PCM/ICT (Physics, Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
-                <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top students in the country.</i>
+                Prior to enrolling in the university, Dallington completed his Advanced Certificate of Education (UACE)
+                at St. John's S.S. Nyabwina, where he was also granted a scholarship. He majored in PCM/ICT (Physics,
+                Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of
+                <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and
+                Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
+                <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top
+                    students in the country.</i>
             </p>
 
             <p>
-                From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
+                From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full
+                scholarship, where he earned <span class="text-info">14</span> aggregates out of <span
+                    class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
             </p>
 
             <p>
-                At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career. He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
+                At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career.
+                He received an overall score of <span class="text-info">7</span> out of <span
+                    class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social
+                studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
             </p>
             <hr>
 
@@ -167,87 +214,98 @@
                     <tbody>
                         <tr>
                             <td>First Class Honors
-                               <br/> 
-                                <li><i class="ml-1"><small>Awarded to students with CGPA above 4.40 out of 5</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded to students with CGPA above 4.40 out of 5</small></i>
+                                </li>
+
                             </td>
                             <td>Makerere University</td>
                             <td>2021</td>
                         </tr>
                         <tr>
                             <td>Best Science Award
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded to best student in science in the university</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded to best student in science in the
+                                            university</small></i></li>
+
                             </td>
                             <td>Makerere University</td>
                             <td>2021</td>
                         </tr>
                         <tr>
                             <td>Leadership Training Certificate
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for having participated in the inaugural leadership seminar</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for having participated in the inaugural leadership
+                                            seminar</small></i></li>
+
                             </td>
                             <td>Makerere University</td>
                             <td>2018</td>
                         </tr>
                         <tr>
                             <td>Outstanding service as Minister for Justice affairs
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of justice and constitutional affairs</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of
+                                            justice and constitutional affairs</small></i></li>
+
                             </td>
                             <td>Makerere University</td>
                             <td>2017</td>
                         </tr>
                         <tr>
                             <td>The Goverment of Uganda Academic merit
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded by the Goverment of Uganda for emerging the best student in the dictrict and ranking among top students in the national
-                                     high school examinations to pursue my undergraduate studies at Makerere University</small></i></li>
+                                <br />
+                                <li><i class="ml-1"><small>Awarded by the Goverment of Uganda for emerging the best
+                                            student in the dictrict and ranking among top students in the national
+                                            high school examinations to pursue my undergraduate studies at Makerere
+                                            University</small></i></li>
                             </td>
                             <td>Goverment of Uganda</td>
                             <td>2016 - 2020</td>
                         </tr>
                         <tr>
                             <td>Best Student Overall Award
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for emerging the best student in the Uganda Advanced Certificate of Examinations (UACE) in the entire school</small></i></li>
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for emerging the best student in the Uganda Advanced
+                                            Certificate of Examinations (UACE) in the entire school</small></i></li>
                             </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2016</td>
                         </tr>
                         <tr>
                             <td>Outstanding Student Award
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for exemplary behaviour or conduct in the entire school</small></i></li>
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for exemplary behaviour or conduct in the entire
+                                            school</small></i></li>
                             </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2014, 2015</td>
                         </tr>
                         <tr>
                             <td>Best Student Overall Award
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for emerging the top student in the Uganda Ordinary Certificate of Examinations (UCE) in the entire school</small></i></li>
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for emerging the top student in the Uganda Ordinary
+                                            Certificate of Examinations (UCE) in the entire school</small></i></li>
                             </td>
                             <td>Bugarama High School</td>
                             <td>2014</td>
                         </tr>
                         <tr>
                             <td>Outstanding Service Award for information prefect
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for outstanding leadership as prefect incharge of information</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for outstanding leadership as prefect incharge of
+                                            information</small></i></li>
+
                             </td>
                             <td>Bugarama High School</td>
                             <td>2011, 2012</td>
                         </tr>
                         <tr id="Experience">
                             <td>Outstanding Service Award for prefect in charge of Academics
-                            <br/> 
-                                <li><i class="ml-1"><small>Awarded for outstanding leadership as academics prefect</small></i></li>
-                              
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for outstanding leadership as academics
+                                            prefect</small></i></li>
+
                             </td>
                             <td>Bugarama High School</td>
                             <td>2012</td>
@@ -263,31 +321,43 @@
             <br>
             <h5 id="Experience">Teaching Experience</h5>
             <p>
-                <a href="https://isbatuniversity.ac.ug/" target="_blank">International Business, Science And Technology University (ISBAT) </a></span> | Computer Science Instructor | August 2022 - present
+                <a href="https://isbatuniversity.ac.ug/" target="_blank">International Business, Science And Technology
+                    University (ISBAT) </a></span> | Computer Science Instructor | August 2022 - present
             </p>
             <ul>
-                <li>Teaching and leading computer programming classes in C#, C, Java, and web programming languages including HTML, CSS, Javascript, Bootstrap, and JQuery using tools like VS Code, Dev C++ and Eclipse.</li>
-                <li>Marking and grading assignments, tests, and lab assessments, such as designing websites with HTML, CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
+                <li>Teaching and leading computer programming classes in C#, C, Java, and web programming languages
+                    including HTML, CSS, Javascript, Bootstrap, and JQuery using tools like VS Code, Dev C++ and
+                    Eclipse.</li>
+                <li>Marking and grading assignments, tests, and lab assessments, such as designing websites with HTML,
+                    CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
             </ul>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant | November 2021 - August 2022
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant | November
+                2021 - August 2022
             <ul>
-                <li>Through former professors, I volunteered to teach and lead classes in computer and database programming using Java, Javascript, Python, MySql, and PostgreSQL, as well as tools including Postman and Pycharm.</li>
-                <li>Taught, marked, and graded assignments and lab assessments, such as the design of a Java Swing point-of-sale application.</li>
+                <li>Through former professors, I volunteered to teach and lead classes in computer and database
+                    programming using Java, Javascript, Python, MySql, and PostgreSQL, as well as tools including
+                    Postman and Pycharm.</li>
+                <li>Taught, marked, and graded assignments and lab assessments, such as the design of a Java Swing
+                    point-of-sale application.</li>
                 <li>I also advised and mentored undergraduates regarding career development.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">St. John's S.S Nyabwina</a> | Student Teacher | March 2016 - August 2016
+            <p><a href="https://www.mak.ac.ug/" target="_blank">St. John's S.S Nyabwina</a> | Student Teacher | March
+                2016 - August 2016
             <ul>
-                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.</li>
+                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.
+                </li>
                 <li> I organized, graded, and created student performance reports for exams.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">Sheema Girls School</a> | Student Teacher | March 2016 - August 2016
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Sheema Girls School</a> | Student Teacher | March 2016 -
+                August 2016
             <ul>
-                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.</li>
+                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.
+                </li>
                 <li> I organized, graded, and created student performance reports for exams.</li>
             </ul>
             </p>
@@ -304,34 +374,47 @@
                     KEIPhone Global </a></span> | Full-Stack Software Engineer | February 2022 - present
             </p>
             <ul>
-                <li>Developing and testing software systems. I have developed and tested systems such as the KEIPhone web portal, APIs, and mobile app with Kotlin, Angular, jest, and node.js, using Android Studio and Postman tools.</li>
+                <li>Developing and testing software systems. I have developed and tested systems such as the KEIPhone
+                    web portal, APIs, and mobile app with Kotlin, Angular, jest, and node.js, using Android Studio and
+                    Postman tools.</li>
                 <li>Deploying software systems; I have used docker and AWS to deploy API and web portal systems.</li>
             </ul>
 
-            <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February 2021 - January 2022
+            <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February
+                2021 - January 2022
             <ul>
-                <li>I designed and developed the <a href="https://africaone.net/" target="_blank" class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
-                <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process manager.</li>
+                <li>I designed and developed the <a href="https://africaone.net/" target="_blank"
+                        class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
+                <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process
+                    manager.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a> | Full-Stack Software Engineer | June 2020 - January 2021
+            <p><a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a> | Full-Stack Software
+                Engineer | June 2020 - January 2021
             <ul>
-                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
-                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML
+                    design diagrams using software like Lucidchart.</li>
+                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using
+                    the C# programming language.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering Intern | July 2019 - August 2019
+            <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering
+                Intern | July 2019 - August 2019
             <ul>
-                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML design diagrams using software like Lucidchart.</li>
-                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using the C# programming language.</li>
+                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML
+                    design diagrams using software like Lucidchart.</li>
+                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using
+                    the C# programming language.</li>
             </ul>
             </p>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Software Development Engineering Intern | June 2019 - July 2019
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Software Development
+                Engineering Intern | June 2019 - July 2019
             <ul id="skills">
-                <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software applications like the university website.</li>
+                <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software
+                    applications like the university website.</li>
                 <li>I learned IT administration and worked with other interns to complete tasks.</li>
             </ul>
             </p>
@@ -353,7 +436,8 @@
                         <tbody>
 
                             <tr>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Web Application Development</i></th>
+                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Web
+                                        Application Development</i></th>
                             </tr>
 
                             <tr>
@@ -371,7 +455,8 @@
                             </tr>
 
                             <tr colspan='2'>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Mobile Application Development</i></th>
+                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Mobile
+                                        Application Development</i></th>
                             </tr>
 
                             <tr>
@@ -385,7 +470,8 @@
                             </tr>
 
                             <tr colspan='2'>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Microservice/API Application Development</i></th>
+                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'>
+                                    <i>Microservice/API Application Development</i></th>
                             </tr>
 
                             <tr>
@@ -408,7 +494,8 @@
                             </tr>
 
                             <tr>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Database Management</i></th>
+                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Database
+                                        Management</i></th>
                             </tr>
 
                             <tr>
@@ -429,7 +516,8 @@
                             </tr>
 
                             <tr>
-                                <th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Cloud Computing / Software Deployment</i></th>
+                                <th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Cloud Computing /
+                                        Software Deployment</i></th>
                             </tr>
 
                             <tr>
@@ -473,7 +561,8 @@
                     <tbody>
 
                         <tr>
-                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a></td>
+                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full"
+                                    target="_blank">A secure layer for a desktop weather data repository</a></td>
                             <td>As security
                                 becomes an increasing concern, data in a distributed environment is
                                 susceptible to inappropriate manipulation. Due to the significance of
@@ -485,17 +574,21 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">ParkPro</a></td>
+                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git"
+                                    target="_blank">ParkPro</a></td>
                             <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git" target="_blank">E-docta</a></td>
-                            <td>A telemedicine mobile application that enables patients to seek remote diagnosis and treatment.</td>
+                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git"
+                                    target="_blank">E-docta</a></td>
+                            <td>A telemedicine mobile application that enables patients to seek remote diagnosis and
+                                treatment.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro Management System</a></td>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro Management System</a>
+                            </td>
                             <td>Parking management system for a property owner.</td>
                         </tr>
 
@@ -503,12 +596,14 @@
 
                         <tr>
                             <td><a href="http://posv1.parkproug.com" target="_blank">Point of sale</a></td>
-                            <td>Used by shop and supermarket owners to record daily transactions and generate reports. It also features barcode scanning capabilities.</td>
+                            <td>Used by shop and supermarket owners to record daily transactions and generate reports.
+                                It also features barcode scanning capabilities.</td>
                         </tr>
 
                         <tr>
                             <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
-                            <td>User can use it to record attendance, add departments, record spending, and examine reports.</td>
+                            <td>User can use it to record attendance, add departments, record spending, and examine
+                                reports.</td>
                         </tr>
 
 
@@ -526,23 +621,28 @@
 
                         <tr>
                             <td><a href="http://hms.parkproug.com" target="_blank"> Hotel MS</a></td>
-                            <td>This software is used by hotel owners to record and manage rooms, transactions, and to view reports.</td>
+                            <td>This software is used by hotel owners to record and manage rooms, transactions, and to
+                                view reports.</td>
                         </tr>
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
-                            <td>used by school teachers and administrators to manage records such as registered students, examinations, financial records, among others.</td>
+                            <td>used by school teachers and administrators to manage records such as registered
+                                students, examinations, financial records, among others.</td>
                         </tr>
 
                         <tr>
                             <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
-                            <td>The system allows students to log in and access their online examinations. They are evaluated immediately following exam submission.</td>
+                            <td>The system allows students to log in and access their online examinations. They are
+                                evaluated immediately following exam submission.</td>
 
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank"> Microfinance Management System</a></td>
-                            <td>The system allows micro finance institutions like Saccos to manage their customers and financial records</td>
+                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank">
+                                    Microfinance Management System</a></td>
+                            <td>The system allows micro finance institutions like Saccos to manage their customers and
+                                financial records</td>
                         </tr>
 
                         <tr>
@@ -551,14 +651,25 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a></td>
-                            <td>A Telecom (UTL) Agent can use this C# ASP.NET program to register a customer, deposit money on the customer's account, withdraw money from the customer's account, view a list of all registered customers, view the customer's account balance, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
+                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a>
+                            </td>
+                            <td>A Telecom (UTL) Agent can use this C# ASP.NET program to register a customer, deposit
+                                money on the customer's account, withdraw money from the customer's account, view a list
+                                of all registered customers, view the customer's account balance, view a ledger of
+                                transactions, check if the customer is registered, and view a list of activity logs done
+                                within the system.</td>
 
                         </tr>
 
                         <tr>
-                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a></td>
-                            <td>C# ASP.NET application programming interface (API) that receives requests from the UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose registration details are sent via email, deposit money on a customer's account, withdraw money from a customer's account, view a list of all registered customers, view a ledger of transactions, check if the customer is registered, and view a list of activity logs done within the system.</td>
+                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git"
+                                    target="_blank">UTLAgent API</a></td>
+                            <td>C# ASP.NET application programming interface (API) that receives requests from the
+                                UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose
+                                registration details are sent via email, deposit money on a customer's account, withdraw
+                                money from a customer's account, view a list of all registered customers, view a ledger
+                                of transactions, check if the customer is registered, and view a list of activity logs
+                                done within the system.</td>
 
                         </tr>
 
@@ -574,21 +685,50 @@
                 <div class="col-md-12">
                     <ul>
                         <li>
-                            <article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in Laravel.</a></article>
+                            <article><a class="text-decoration-none"
+                                    href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6"
+                                    target="_blank">Using Guzzle Http Client to send Http Requests to the API in
+                                    Laravel.</a></article>
                         </li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961" target="_blank">How to use .env file in a React Native Application</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables plugin</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-send-sms-using-twilio-in-nodejs-8lp" target="_blank">How to send sms to a phone number in Node.js</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961"
+                                target="_blank">How to use .env file in a React Native Application</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb"
+                                target="_blank">How to have exportable datatables in laravel using yajra datatables
+                                plugin</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl"
+                                target="_blank">How to use SWR in a Next.js app</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/how-to-send-sms-using-twilio-in-nodejs-8lp"
+                                target="_blank">How to send sms to a phone number in Node.js</a></li>
 
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs app</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c" target="_blank">How to Upload an Image or profile picture to the Laravel API in React Native</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays of Objects in Java</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
-                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
-                        <li>More posts are located<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k"
+                                target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs
+                                app</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c"
+                                target="_blank">How to Upload an Image or profile picture to the Laravel API in React
+                                Native</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/polymorphism-in-java-11p1"
+                                target="_blank">Polymorphism in java</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays
+                                of Objects in Java</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej"
+                                target="_blank">Connecting to MySQL database in java</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j"
+                                target="_blank">Improving your reasoning with Arrays in java</a></li>
+                        <li><a class="text-decoration-none"
+                                href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d"
+                                target="_blank">Inner classes or nested classes in java</a></li>
+                        <li>More posts are located<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a>
+                        </li>
                     </ul>
                 </div>
             </div>
@@ -601,7 +741,9 @@
             <ul>
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I also intend to use my postgraduate research knowledge and skills to transform our software hub (Code Solution & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>) into one of Africa's preeminent research institutions.
+                    I also intend to use my postgraduate research knowledge and skills to transform our software hub
+                    (Code Solution & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft
+                        Ltd</a>) into one of Africa's preeminent research institutions.
                 </li>
             </ul>
             <hr />
@@ -643,37 +785,47 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg" class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg"
+                            class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
-                                "We must develop and maintain the capacity to forgive.He who is devoid of the power to forgive is devoid of the power to love." Martin Luther King
+                                "We must develop and maintain the capacity to forgive.He who is devoid of the power to
+                                forgive is devoid of the power to love." Martin Luther King
                             </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button" target="_blank">Read more</a>
+                            <a class="btn btn-secondary"
+                                href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button"
+                                target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
+                            class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
-                                "Everybody is a genius.But if you judge a fish by its ability to climb a tree,it will live its whole life believing that it is stupid." Albert Einstein
+                                "Everybody is a genius.But if you judge a fish by its ability to climb a tree,it will
+                                live its whole life believing that it is stupid." Albert Einstein
                             </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button" target="_blank">Read more</a>
+                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein"
+                                role="button" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg" class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
+                            class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
-                                "I do not feel obliged to believe that the same God who has endowed us with sense, reason,
+                                "I do not feel obliged to believe that the same God who has endowed us with sense,
+                                reason,
                                 and intellect has intended us to forgo their use." Galileo
                             </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei" role="button" target="_blank">Read more</a>
+                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei"
+                                role="button" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
