@@ -108,8 +108,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <p>
-                        Dallington Asingwire was born in Ryenjoki, Kyangyenyi Sheema District, Western Uganda on
-                        November 16, 1996.
+                     Dallington Asingwire was born in Ryenjoki Village, Kyangyenyi Subcounty, Sheema District, Western Uganda.
                     </p>
                     <span>
                         <p>
@@ -121,13 +120,9 @@
                         </p>
 
                         <p>
-                           In 2016, several organizations adopted Dallington's <a class="text-info" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues. 
-                           I was subsequently motivated to create more software projects, which have since been acquired by hospitals, hotels, and supermarkets, among others.  Dallington
-                            was inspired to understand the need for every human life to have a sense of purpose rather
-                            than progress by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a
-                                href="http://www.havard.com">Havard University</a> in 2017, and as a
-                            result, he has that level of desire, willingness, and enthusiasm to have a positive impact
-                            on many human lives in this world.
+                           In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues. 
+                           I was subsequently motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by hospitals, hotels, and supermarkets, among others. 
+                           Mark Zuckerberg's 2017 commencement address at Harvard University inspired Dallington to comprehend the need for every human life to have a sense of purpose rather than progress, and as a result, he has the desire, willingness, and zeal to have a positive impact on many human lives in this world.
                         </p>
 
                         <p>
@@ -140,8 +135,7 @@
 
 
                         <p>
-                            Time is one of the most valuable assets that humans can always put to good use, and
-                            Dallington enjoys putting his time to good use.
+                        Time is one of the most valuable assets that humans can always use effectively, and Dallington enjoys using his time effectively.
                         </p>
 
 
