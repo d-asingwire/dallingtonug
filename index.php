@@ -121,11 +121,11 @@
                         </p>
 
                         <p>
-                            Dallington's first software system sale was $492, which bolstered his confidence in
-                            visualizing the magic of empowering and impressing the mind with the right input. Dallington
+                           In 2016, several organizations adopted Dallington's <a class="text-info" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues. 
+                           I was subsequently motivated to create more software projects, which have since been acquired by hospitals, hotels, and supermarkets, among others.  Dallington
                             was inspired to understand the need for every human life to have a sense of purpose rather
                             than progress by <span class="text-info">Mark Zuckerburg's</span> graduation speech at <a
-                                href="http://www.havard.com" class="text-info">Havard University</a> in 2017, and as a
+                                href="http://www.havard.com">Havard University</a> in 2017, and as a
                             result, he has that level of desire, willingness, and enthusiasm to have a positive impact
                             on many human lives in this world.
                         </p>
