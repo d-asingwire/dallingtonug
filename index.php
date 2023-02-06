@@ -568,35 +568,33 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git"
-                                    target="_blank">ParkPro</a></td>
-                            <td>A mobile app that helps drivers find affordable and nearby parking spots.</td>
+                            <td><a href="https://dashboard.parkproug.com/"
+                                    target="_blank">ParkPro mobile and MS</a></td>
+                            <td>A mobile application that assists drivers in locating affordable, nearby parking spaces. It also includes a management admin dashboard for managing parking requests.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/parksmart-mobile-app.git"
-                                    target="_blank">E-docta</a></td>
+                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git"
+                                    target="_blank">e-docta</a></td>
                             <td>A telemedicine mobile application that enables patients to seek remote diagnosis and
                                 treatment.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">Parkpro Management System</a>
-                            </td>
-                            <td>Parking management system for a property owner.</td>
+                            <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a></td>
+                            <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
                         </tr>
 
-
-
+  
                         <tr>
                             <td><a href="http://posv1.parkproug.com" target="_blank">Point of sale</a></td>
-                            <td>Used by shop and supermarket owners to record daily transactions and generate reports.
+                            <td>This is used by supermarkets, drug shops, fabric stores to record daily transactions and generate reports.
                                 It also features barcode scanning capabilities.</td>
                         </tr>
 
                         <tr>
                             <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
-                            <td>User can use it to record attendance, add departments, record spending, and examine
+                            <td>Used in offices to record attendance, add departments, record daily expenses, and generate
                                 reports.</td>
                         </tr>
 
@@ -613,11 +611,7 @@
                             <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
                         </tr> -->
 
-                        <tr>
-                            <td><a href="http://hms.parkproug.com" target="_blank"> Hotel MS</a></td>
-                            <td>This software is used by hotel owners to record and manage rooms, transactions, and to
-                                view reports.</td>
-                        </tr>
+                        
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
