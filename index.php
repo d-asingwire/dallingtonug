@@ -6,7 +6,10 @@
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WJ55EWCK5V"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
+
+        function gtag() {
+            dataLayer.push(arguments);
+        }
         gtag('js', new Date());
 
         gtag('config', 'G-WJ55EWCK5V');
@@ -33,8 +36,7 @@
 <body>
 
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
 
@@ -108,7 +110,7 @@
             <div class="row">
                 <div class="col-md-8">
                     <p>
-                     Dallington Asingwire was born in Ryenjoki Village, Kyangyenyi Subcounty, Sheema District, Western Uganda.
+                        Dallington Asingwire was born in Ryenjoki Village, Kyangyenyi Subcounty, Sheema District, Western Uganda.
                     </p>
                     <span>
                         <p>
@@ -120,22 +122,21 @@
                         </p>
 
                         <p>
-                           In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues. 
-                           I was subsequently motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by hospitals, hotels, and supermarkets, among others. 
-                           Mark Zuckerberg's 2017 commencement address at Harvard University inspired Dallington to comprehend the need for every human life to have a sense of purpose rather than progress, and as a result, he has the desire, willingness, and zeal to have a positive impact on many human lives in this world.
+                            In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues.
+                            I was subsequently motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by hospitals, hotels, and supermarkets, among others.
+                            Mark Zuckerberg's 2017 commencement address at Harvard University inspired Dallington to comprehend the need for every human life to have a sense of purpose rather than progress, and as a result, he has the desire, willingness, and zeal to have a positive impact on many human lives in this world.
                         </p>
 
                         <p>
                             Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
-                            software systems in teams, a concept that has evolved into Code Solutions & <a
-                                href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
+                            software systems in teams, a concept that has evolved into Code Solutions & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
                             software hub that has trained a significant number of young Ugandans in computer
                             programming.
                         </p>
 
 
                         <p>
-                        Time is one of the most valuable assets that humans can always use effectively, and Dallington enjoys using his time effectively.
+                            Time is one of the most valuable assets that humans can always use effectively, and Dallington enjoys using his time effectively.
                         </p>
 
 
@@ -179,14 +180,12 @@
 
             <p>
                 From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full
-                scholarship, where he earned <span class="text-info">14</span> aggregates out of <span
-                    class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
+                scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
             </p>
 
             <p>
                 At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career.
-                He received an overall score of <span class="text-info">7</span> out of <span
-                    class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social
+                He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social
                 studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
             </p>
             <hr>
@@ -216,7 +215,7 @@
                             <td>Makerere University</td>
                             <td>2021</td>
                         </tr>
-                    
+
                         <tr>
                             <td>Best Science Award
                                 <br />
@@ -238,7 +237,7 @@
                             <td>Makerere University</td>
                             <td>2016 - 2021</td>
                         </tr>
-                        
+
                         <tr>
                             <td>Leadership Training Certificate
                                 <br />
@@ -390,8 +389,7 @@
             <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February
                 2021 - January 2022
             <ul>
-                <li>I designed and developed the <a href="https://africaone.net/" target="_blank"
-                        class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
+                <li>I designed and developed the <a href="https://africaone.net/" target="_blank" class="text-info">Africa One News portal</a> using JavaScript and PHP.</li>
                 <li>I tested, documented, and deployed bike management software using lucidchart, nginx, and process
                     manager.</li>
             </ul>
@@ -478,7 +476,8 @@
 
                             <tr colspan='2'>
                                 <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'>
-                                    <i>Microservice/API Application Development</i></th>
+                                    <i>Microservice/API Application Development</i>
+                                </th>
                             </tr>
 
                             <tr>
@@ -568,8 +567,7 @@
                     <tbody>
 
                         <tr>
-                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full"
-                                    target="_blank">A secure layer for a desktop weather data repository</a></td>
+                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a></td>
                             <td>As security
                                 becomes an increasing concern, data in a distributed environment is
                                 susceptible to inappropriate manipulation. Due to the significance of
@@ -581,14 +579,12 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/"
-                                    target="_blank">ParkPro mobile and MS</a></td>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro mobile and MS</a></td>
                             <td>A mobile application that assists drivers in locating affordable, nearby parking spaces. It also includes a management admin dashboard for managing parking requests.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git"
-                                    target="_blank">e-docta</a></td>
+                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git" target="_blank">e-docta</a></td>
                             <td>A telemedicine mobile application that enables patients to seek remote diagnosis and
                                 treatment.</td>
                         </tr>
@@ -598,7 +594,7 @@
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
                         </tr>
 
-  
+
                         <tr>
                             <td><a href="http://posv1.parkproug.com" target="_blank">Point of sale</a></td>
                             <td>This is used by supermarkets, drug shops, fabric stores to record daily transactions and generate reports.
@@ -624,7 +620,7 @@
                             <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
                         </tr> -->
 
-                        
+
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
@@ -663,8 +659,7 @@
                         </tr>
 
                         <tr>
-                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git"
-                                    target="_blank">UTLAgent API</a></td>
+                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a></td>
                             <td>C# ASP.NET application programming interface (API) that receives requests from the
                                 UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose
                                 registration details are sent via email, deposit money on a customer's account, withdraw
@@ -686,48 +681,25 @@
                 <div class="col-md-12">
                     <ul>
                         <li>
-                            <article><a class="text-decoration-none"
-                                    href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6"
-                                    target="_blank">Using Guzzle Http Client to send Http Requests to the API in
+                            <article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in
                                     Laravel.</a></article>
                         </li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961"
-                                target="_blank">How to use .env file in a React Native Application</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb"
-                                target="_blank">How to have exportable datatables in laravel using yajra datatables
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/using-env-file-in-react-native-application-3961" target="_blank">How to use .env file in a React Native Application</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-have-exportable-datatables-in-laravel-using-yajra-datatables-mb" target="_blank">How to have exportable datatables in laravel using yajra datatables
                                 plugin</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl"
-                                target="_blank">How to use SWR in a Next.js app</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/how-to-send-sms-using-twilio-in-nodejs-8lp"
-                                target="_blank">How to send sms to a phone number in Node.js</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-use-swr-in-a-next-js-app-19gl" target="_blank">How to use SWR in a Next.js app</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-send-sms-using-twilio-in-nodejs-8lp" target="_blank">How to send sms to a phone number in Node.js</a></li>
 
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k"
-                                target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-read-and-display-images-from-cloudinary-in-a-reactjs-or-nextjs-app-5f9k" target="_blank">How to read and display Images from Cloudinary in a reactjs or nextjs
                                 app</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c"
-                                target="_blank">How to Upload an Image or profile picture to the Laravel API in React
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/how-to-upload-an-image-or-profile-picture-to-the-laravel-api-in-react-native-1i2c" target="_blank">How to Upload an Image or profile picture to the Laravel API in React
                                 Native</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/polymorphism-in-java-11p1"
-                                target="_blank">Polymorphism in java</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/polymorphism-in-java-11p1" target="_blank">Polymorphism in java</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/array-of-objects-in-java-5c1l" target="_blank">Arrays
                                 of Objects in Java</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej"
-                                target="_blank">Connecting to MySQL database in java</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j"
-                                target="_blank">Improving your reasoning with Arrays in java</a></li>
-                        <li><a class="text-decoration-none"
-                                href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d"
-                                target="_blank">Inner classes or nested classes in java</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
+                        <li><a class="text-decoration-none" href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
                         <li>More posts are located<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a>
                         </li>
                     </ul>
@@ -786,47 +758,40 @@
             <div class="row">
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg"
-                            class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
                                 "We must develop and maintain the capacity to forgive.He who is devoid of the power to
                                 forgive is devoid of the power to love." Martin Luther King
                             </p>
-                            <a class="btn btn-secondary"
-                                href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button"
-                                target="_blank">Read more</a>
+                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
-                            class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
                                 "Everybody is a genius.But if you judge a fish by its ability to climb a tree,it will
                                 live its whole life believing that it is stupid." Albert Einstein
                             </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein"
-                                role="button" target="_blank">Read more</a>
+                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
 
                 <div class="col-md-4">
                     <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg"
-                            class="card-img-top" alt="...">
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
                                 "I do not feel obliged to believe that the same God who has endowed us with sense,
                                 reason,
                                 and intellect has intended us to forgo their use." Galileo
                             </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei"
-                                role="button" target="_blank">Read more</a>
+                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei" role="button" target="_blank">Read more</a>
                         </div>
                     </div>
                 </div>
