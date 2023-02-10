@@ -209,7 +209,7 @@
                         <tr>
                             <td>First Class Honors
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to students with CGPA above 4.40 out of 5</small></i>
+                                <li><i class="ml-1"><small>Awarded to students who have achieved a high level of academic excellence in their studies</small></i>
                                 </li>
 
                             </td>
