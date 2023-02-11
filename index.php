@@ -118,11 +118,8 @@
                     </p>
                     <span>
                         <p>
-                            Dallington aspired to be a resourceful scientist from a young age, drawing inspiration from
-                            the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils
-                            Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he
-                            works in engineering, which was his childhood ambition. His motivation is his desire to
-                            influence the community through the development and implementation of innovative technologies.
+                        I aspired to become a resourceful scientist at a young age, drawing inspiration from the achievements of prominent scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. 
+                        Being in the field of engineering, which was my childhood ambition, motivates me to be as resourceful and innovative as possible. 
                         </p>
 
                         <p>
