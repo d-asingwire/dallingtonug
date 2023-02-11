@@ -122,7 +122,7 @@
                             the accomplishments of renowned scientists such as Isaac Newton, Albert Einstein, Neils
                             Bohr, and Galileo Galilei. Even now, he believes that his ambition is still alive because he
                             works in engineering, which was his childhood ambition. His motivation is his desire to
-                            influence the community through the development and implementation of innovative technology.
+                            influence the community through the development and implementation of innovative technologies.
                         </p>
 
                         <p>
@@ -138,10 +138,10 @@
                             programming.
                         </p>
 
-
+                        <!-- 
                         <p>
                             Time is one of the most valuable assets that humans can always use effectively, and Dallington enjoys using his time effectively.
-                        </p>
+                        </p> -->
 
 
                     </span>
@@ -595,7 +595,7 @@
                             <td>A mobile application that assists drivers in locating affordable, nearby parking spaces. It also includes a management admin dashboard for managing parking requests.</td>
                         </tr>
 
-                      
+
                         <tr>
                             <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a></td>
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
