@@ -84,23 +84,27 @@
                 Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously
                 volunteered as a teaching assistant at Makerere University
                 through former professors. I'm a lecturer at the International Business, Science, and Technology
-                University,
-                where I teach students from various social and cultural backgrounds.
+                University, where I teach students from various social and cultural backgrounds.
                 Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
                 expertise and experience. Passionate about using technology to solve everyday problems and I've done so
-                by
-                designing and developing software applications, most notably e-docta whih enables patients to seek
+                by designing and developing software applications, most notably e-docta whih enables patients to seek
                 remote diagnosis and treatment.
                 <hr>
             <h5>Academic Interest</h5>
             <p>
-                My primary research areas include computational science (biocomputation), artificial intelligence, and
-                human-computer interaction.
-                I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can use
-                them to achieve my ultimate goal.
-                My ultimate goal is to become a distinguished computer science professor and researcher. My research
-                will enable me to accomplish my ambition of revolutionizing the health care, education, and e-government
-                systems in home country, Uganda and around the world.
+
+            <p>
+                <i>
+                    Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
+                    This is usually attributed to a lack of prompt medical attention to address complications. I created a solution, a mobile application (<span class="text-info">e-docta</span>) that allows pregnant women to seek remote medical services by scheduling appointments with medical personnel.
+                    But I still believe there is a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
+                    conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
+                </i>
+
+            </p>
+
+
+            My primary research interests include computational science (biocomputation), artificial intelligence, and human-computer interaction. I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can apply them to achieve my ultimate goal. My ultimate goal is to become a distinguished professor and researcher who will revolutionize health care, education, and e-government systems in Uganda and around the world.
             </p>
             <hr>
         </div>
@@ -174,19 +178,22 @@
                 Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of
                 <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and
                 Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
-                <br>Achievement:<i> Emerged as the best student in the school, the entire district, and among the top
+                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, the entire district, and among the top
                     students in the country.</i>
             </p>
 
             <p>
                 From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full
                 scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
+                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, second best in the entire district, and among the top
+                    students in the country.</i>
             </p>
 
             <p>
                 At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career.
                 He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social
                 studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
+                <br><i class="text-info">Achievement</i>: Emerged as the best student in the school, and among the best students in the country.</i>
             </p>
             <hr>
 
@@ -619,8 +626,6 @@
                             <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel MS</a></td>
                             <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
                         </tr> -->
-
-
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
