@@ -586,16 +586,16 @@
                         </tr>
 
                         <tr>
+                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git" target="_blank">e-docta</a></td>
+                            <td>a mobile application that allows pregnant women and other patients to seek remote medical services by scheduling appointments with medical personnel.</td>
+                        </tr>
+
+                        <tr>
                             <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro mobile and MS</a></td>
                             <td>A mobile application that assists drivers in locating affordable, nearby parking spaces. It also includes a management admin dashboard for managing parking requests.</td>
                         </tr>
 
-                        <tr>
-                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git" target="_blank">e-docta</a></td>
-                            <td>A telemedicine mobile application that enables patients to seek remote diagnosis and
-                                treatment.</td>
-                        </tr>
-
+                      
                         <tr>
                             <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a></td>
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
