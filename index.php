@@ -96,7 +96,7 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention to address complications. I created a solution, a mobile application (<span class="text-info">e-docta</span>) that allows pregnant women to seek remote medical services by scheduling appointments with medical personnel.
+                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<a class="text-info" href="/projects/health/apks/e-docta.apk">e-docta</a>) that enables pregnant women to seek remote medical services by scheduling appointments with medical professionals.
                     But I still believe there is a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
                 </i>
@@ -104,7 +104,7 @@
             </p>
 
 
-            My primary research interests include computational science (biocomputation), artificial intelligence, and human-computer interaction. I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can apply them to achieve my ultimate goal. My ultimate goal is to become a distinguished professor and researcher who will revolutionize health care, education, and e-government systems in Uganda and around the world.
+            <i>My primary research interests include computational science (biocomputation), artificial intelligence, and human-computer interaction. I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can apply them to achieve my ultimate goal. My ultimate goal is to become a distinguished computer science professor and researcher who will revolutionize health care, education, and e-government systems in Uganda and around the world.</i>
             </p>
             <hr>
         </div>
@@ -558,7 +558,7 @@
 
         <div class="container" id="projects">
             <h5>Software Projects</h5>
-            Dallington has worked on or created the following software projects/products:
+                I have worked on or developed the following software projects and/or products:
             <div class="table-responsive">
                 <table class="table">
                     <thead>
@@ -583,8 +583,8 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/e-health-mobile.git" target="_blank">e-docta</a></td>
-                            <td>a mobile application that allows pregnant women and other patients to seek remote medical services by scheduling appointments with medical personnel.</td>
+                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">e-docta</a></td>
+                            <td>a mobile application that enables pregnant women and other patients to seek remote medical services by scheduling appointments with medical professionals.</td>
                         </tr>
 
                         <tr>
@@ -716,7 +716,7 @@
             <ul>
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I also intend to use my postgraduate research knowledge and skills to transform our software hub
+                    I intend to use my postgraduate research knowledge and skills to transform our software hub
                     (Code Solution & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft
                         Ltd</a>) into one of Africa's preeminent research institutions.
                 </li>
