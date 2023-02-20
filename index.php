@@ -776,7 +776,7 @@
                         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" class="card-img-top" alt="...">
                         <div class="card-body">
                             <p class="card-text">
-                                "Everybody is a genius.But if you judge a fish by its ability to climb a tree,it will
+                                "Everybody is a genius.But if you judge a fish by its ability to climb a tree, it will
                                 live its whole life believing that it is stupid." Albert Einstein
                             </p>
                             <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button" target="_blank">Read more</a>
