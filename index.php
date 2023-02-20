@@ -87,8 +87,8 @@
                 University, where I teach students from various social and cultural backgrounds.
                 Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
                 expertise and experience. Passionate about using technology to solve everyday problems and I've done so
-                by designing and developing software applications, most notably e-docta whih enables patients to seek
-                remote diagnosis and treatment.
+                by designing and developing software applications, most notably e-docta which enables patients to seek
+                remote medical services.
                 <hr>
             <h5>Academic Interest</h5>
             <p>
