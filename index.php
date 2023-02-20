@@ -96,7 +96,8 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<a class="text-info" href="/projects/health/apks/e-docta.apk">e-docta</a>) that enables pregnant women to seek remote medical services by scheduling appointments with medical professionals.
+                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<a class="text-info" href="/projects/health/apks/e-docta.apk">e-docta</a>) that 
+                    enables pregnant women to schedule medical appointments with medical professionals and access remote medical services.
                     But I still believe there is a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
                 </i>
