@@ -527,8 +527,7 @@
                             </tr>
 
                             <tr>
-                                <th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Cloud Computing /
-                                        Software Deployment</i></th>
+                                <th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Code Hosting & Software Deployment</i></th>
                             </tr>
 
                             <tr>
@@ -542,8 +541,8 @@
                             </tr>
 
                             <tr>
-                                <td>Tools</td>
-                                <td>Using FileZilla</td>
+                                <td>Deployment Tools</td>
+                                <td>Docker, FileZilla</td>
                             </tr>
 
                             <tr>
