@@ -96,7 +96,7 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<a class="text-info" href="/projects/health/apks/e-docta-android.apk">e-docta</a>) that 
+                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<span class="text-info">e-docta</span>) that 
                     enables pregnant women to schedule medical appointments with medical professionals and access remote medical services.
                     But I still believe there is a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
@@ -131,8 +131,8 @@
 
                         <p>
                             Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
-                            software systems in teams, a concept that has evolved into Code Solutions & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
-                            software hub that has trained a significant number of young Ugandans in computer
+                            software systems in teams, a concept that has since evolved into <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
+                            software company that develops software and trains a significant number of young Ugandans in computer
                             programming.
                         </p>
 
@@ -716,9 +716,9 @@
             <ul>
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I intend to use my postgraduate research knowledge and skills to transform our software hub
-                    (Code Solution & <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft
-                        Ltd</a>) into one of Africa's preeminent research institutions.
+                    I intend to use my postgraduate research knowledge and skills to transform our software company
+                    (<a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft
+                        Ltd</a>) into one of Africa's preeminent research organisations.
                 </li>
             </ul>
             <hr />
