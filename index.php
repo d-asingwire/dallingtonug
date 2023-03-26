@@ -222,17 +222,6 @@
                         </tr>
 
                         <tr>
-                            <td>Best Science Award
-                                <br />
-                                <li><i class="ml-1"><small>Awarded to best student in science in the
-                                            university</small></i></li>
-
-                            </td>
-                            <td>Makerere University</td>
-                            <td>2021</td>
-                        </tr>
-
-                        <tr>
                             <td>Dean's Award
                                 <br />
                                 <li><i class="ml-1"><small>Awarded to students who have achieved high academic standing in their course of study</small></i>
