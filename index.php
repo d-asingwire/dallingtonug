@@ -96,15 +96,13 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention to address complications. I conducted research and developed a mobile application (<span class="text-info">e-docta</span>) that 
-                    enables pregnant women to schedule medical appointments with medical professionals and access remote medical services.
-                    But I still believe there is a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
+                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application (<span class="text-info">e-docta</span>) that 
+                    enables pregnant women seek medical services with medical professionals through virtual consultations.
+                    I strongly believe that there is still a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
                 </i>
 
             </p>
-
-
             <i>My primary research interests include computational science (biocomputation), artificial intelligence, and human-computer interaction. I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can apply them to achieve my ultimate goal. My ultimate goal is to become a distinguished computer science professor and researcher who will revolutionize health care, education, and e-government systems in Uganda and around the world.</i>
             </p>
             <hr>
@@ -131,7 +129,7 @@
 
                         <p>
                             Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
-                            software systems in teams, a concept that has since evolved into <a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft Ltd</a>, a
+                            software systems in teams, a concept that has since evolved into <a href="https://pivosoftltd.com/" class="text-info" target="_blank">Pivosoft Ltd</a>, a
                             software company that develops software and trains a significant number of young Ugandans in computer
                             programming.
                         </p>
@@ -706,7 +704,7 @@
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
                     I intend to use my postgraduate research knowledge and skills to transform our software company
-                    (<a href="https://pivosoftltd.com/" class="text-info" target="_blank">PivoSoft
+                    (<a href="https://pivosoftltd.com/" class="text-info" target="_blank">Pivosoft
                         Ltd</a>) into one of Africa's preeminent research organisations.
                 </li>
             </ul>
