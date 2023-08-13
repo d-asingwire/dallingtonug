@@ -96,8 +96,8 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application (<span class="text-info">e-docta</span>) that 
-                    enables pregnant women seek medical services with medical professionals through virtual consultations.
+                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application, E-docta that 
+                    enables patients like pregnant women, among others seek medical services with medical professionals through virtual consultations.
                     I strongly believe that there is still a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
                 </i>
@@ -550,8 +550,9 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th style="width: 28%">Project</th>
-                            <th style="width: 72%">Description</th>
+                            <th style="width: 30%">Project</th>
+                            <th style="width: 50%">Description</th>
+                            <th style="width: 20%">Tech Stack</th>
                         </tr>
                     </thead>
 
@@ -567,54 +568,43 @@
                                 and prediction. I was able to accomplish this by conducting research,
                                 designing, and implementing a secure layer for a desktop repository of
                                 weather data.</td>
+                                <td>Angular, CodeIgniter</td>
                         </tr>
 
                         <tr>
-                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">e-docta</a></td>
-                            <td>a mobile application that enables pregnant women and other patients to seek remote medical services by scheduling appointments with medical professionals.</td>
+                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">E-Docta</a></td>
+                            <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
+                            <td>React Native, Javascript, Laravel</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro mobile and MS</a></td>
-                            <td>A mobile application that assists drivers in locating affordable, nearby parking spaces. It also includes a management admin dashboard for managing parking requests.</td>
+                            <td><a href="https://kakongorirostores.com" target="_blank">Kakongoriro Stores</a></td>
+                            <td>Kakongoriro Stores leverages a point of sale web system to efficiently handle their procurement, inventory management, handling of damaged stock, supplier relationships, expenditure tracking and audit trail.</td>
+                            <td>Laravel, Bootstrap, Jquery, AJax</td>
                         </tr>
 
+                        <tr>
+                            <td><a href="https://collectionug.com" target="_blank">Collection Hub</a></td>
+                            <td>Collection Hub uses a point of sale web based system for effectively overseeing inventory, sales, supplier and their transactions, expenditure, customers, and report generation.</td>
+                            <td>Laravel, Bootstrap, Jquery, AJax</td>
+                        </tr>
 
                         <tr>
                             <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a></td>
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
-                        </tr>
-
-
-                        <tr>
-                            <td><a href="http://posv1.parkproug.com" target="_blank">Point of sale</a></td>
-                            <td>This is used by supermarkets, drug shops, fabric stores to record daily transactions and generate reports.
-                                It also features barcode scanning capabilities.</td>
+                            <td>PHP (Laravel)</td>
                         </tr>
 
                         <tr>
                             <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
-                            <td>Used in offices to record attendance, add departments, record daily expenses, and generate
-                                reports.</td>
+                            <td>Used by organizations to manage their project tasks, staff roles and departments, organizational expenditures, record staff attendance and generate reports on expenditures and staff attendance.</td>
+                            <td>PHP (Laravel)</td>
                         </tr>
-
-
-
-                        <tr>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">Vendor Management System</a></td>
-
-                            <td>Retailers and wholesalers use this system to manage orders and suppliers.</td>
-                        </tr>
-
-                        <!-- <tr>
-                            <td><a href="http://grento.parkproug.com/" target="_blank"> Hostel MS</a></td>
-                            <td>In a hostel, this software is used to manage rooms, record payments, and generate reports.</td>
-                        </tr> -->
 
                         <tr>
                             <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
-                            <td>used by school teachers and administrators to manage records such as registered
-                                students, examinations, financial records, among others.</td>
+                            <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers,  accountants, among others.</td>
+                            <td>PHP (Laravel)</td>
                         </tr>
 
                         <tr>
@@ -625,15 +615,9 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/SimpleExaminationSystem.git" target="_blank">
-                                    Microfinance Management System</a></td>
-                            <td>The system allows micro finance institutions like Saccos to manage their customers and
-                                financial records</td>
-                        </tr>
-
-                        <tr>
                             <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
                             <td>a software that the user can use in performing basic math operations.</td>
+                            <td>PHP</td>
                         </tr>
 
                         <tr>
@@ -644,7 +628,7 @@
                                 of all registered customers, view the customer's account balance, view a ledger of
                                 transactions, check if the customer is registered, and view a list of activity logs done
                                 within the system.</td>
-
+                                <td>C#, HTML, Bootstrap</td>
                         </tr>
 
                         <tr>
@@ -655,7 +639,13 @@
                                 money from a customer's account, view a list of all registered customers, view a ledger
                                 of transactions, check if the customer is registered, and view a list of activity logs
                                 done within the system.</td>
+                                <td>C#</td>
+                        </tr>
 
+                        <tr>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro</a> *ongoing</td>
+                            <td>A mobile application that helps drivers in locating affordable, nearby parking spaces. It will help reduce traffic congestion in the cities.</td>
+                            <td>React Native, Typescript, Laravel</td>
                         </tr>
 
                     </tbody>
