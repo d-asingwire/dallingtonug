@@ -22,7 +22,7 @@
     <meta name="generator" content="Jekyll v3.8.5">
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
-    <title>Engineer Dallington's website</title>
+    <title>Dallington Asingwire</title>
 
     <link rel="icon" href="img/dallingtons.ico">
     <link rel="stylesheet" type="text/css" href="css/nunito.css" />
