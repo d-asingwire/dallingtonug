@@ -550,61 +550,51 @@
                 <table class="table">
                     <thead>
                         <tr>
-                            <th style="width: 30%">Project</th>
-                            <th style="width: 50%">Description</th>
-                            <th style="width: 20%">Tech Stack</th>
+                            <th style="width: 20%">Project</th>
+                            <th style="width: 80%">Description</th>
                         </tr>
                     </thead>
 
                     <tbody>
 
                         <tr>
-                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a></td>
-                            <td>As security
-                                becomes an increasing concern, data in a distributed environment is
+                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a> (Angular, CodeIgniter)</td>
+                            <td>As security becomes an increasing concern, data in a distributed environment is
                                 susceptible to inappropriate manipulation. Due to the significance of
                                 weather data, there was a need for mechanisms to protect this
                                 information from the time it is collected until it is used for forecasting
-                                and prediction. I was able to accomplish this by conducting research,
-                                designing, and implementing a secure layer for a desktop repository of
+                                and prediction. conducted research, designed, and implemented a secure layer for a desktop repository of
                                 weather data.</td>
-                                <td>Angular, CodeIgniter</td>
                         </tr>
 
                         <tr>
-                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">E-Docta</a></td>
+                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">E-Docta</a> (React Native, Javascript, Laravel)</td>
                             <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
-                            <td>React Native, Javascript, Laravel</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://kakongorirostores.com" target="_blank">Kakongoriro Stores</a></td>
+                            <td><a href="https://kakongorirostores.com" target="_blank">Kakongoriro Stores</a> (Laravel, Bootstrap, Jquery, AJax)</td>
                             <td>Kakongoriro Stores leverages a point of sale web system to efficiently handle their procurement, inventory management, handling of damaged stock, supplier relationships, expenditure tracking and audit trail.</td>
-                            <td>Laravel, Bootstrap, Jquery, AJax</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://collectionug.com" target="_blank">Collection Hub</a></td>
+                            <td><a href="https://collectionug.com" target="_blank">Collection Hub</a> (Laravel, Bootstrap, Jquery, AJax)</td>
                             <td>Collection Hub uses a point of sale web based system for effectively overseeing inventory, sales, supplier and their transactions, expenditure, customers, and report generation.</td>
-                            <td>Laravel, Bootstrap, Jquery, AJax</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a></td>
+                            <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a> PHP (Laravel)</td>
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
-                            <td>PHP (Laravel)</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a></td>
+                            <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a> PHP (Laravel)</td>
                             <td>Used by organizations to manage their project tasks, staff roles and departments, organizational expenditures, record staff attendance and generate reports on expenditures and staff attendance.</td>
-                            <td>PHP (Laravel)</td>
                         </tr>
 
                         <tr>
-                            <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a></td>
+                            <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a> PHP (Laravel)</td>
                             <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers,  accountants, among others.</td>
-                            <td>PHP (Laravel)</td>
                         </tr>
 
                         <tr>
@@ -615,37 +605,27 @@
                         </tr>
 
                         <tr>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a></td>
+                            <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a> (PHP)</td>
                             <td>a software that the user can use in performing basic math operations.</td>
-                            <td>PHP</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a>
+                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a> (C#, HTML, Bootstrap)
                             </td>
-                            <td>A Telecom (UTL) Agent can use this C# ASP.NET program to register a customer, deposit
-                                money on the customer's account, withdraw money from the customer's account, view a list
-                                of all registered customers, view the customer's account balance, view a ledger of
-                                transactions, check if the customer is registered, and view a list of activity logs done
-                                within the system.</td>
-                                <td>C#, HTML, Bootstrap</td>
+                            <td>allows a Telecom (UTL) agent to register a customer, deposit and withdraw
+                                money from the customer's account, view customer information including customer account balance, view a list of
+                                transactions, among others</td>
                         </tr>
 
                         <tr>
-                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a></td>
-                            <td>C# ASP.NET application programming interface (API) that receives requests from the
-                                UTLAgent web portal to allow a Telecom(UTL) agent to register a customer whose
-                                registration details are sent via email, deposit money on a customer's account, withdraw
-                                money from a customer's account, view a list of all registered customers, view a ledger
-                                of transactions, check if the customer is registered, and view a list of activity logs
-                                done within the system.</td>
-                                <td>C#</td>
+                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a> (C#)</td>
+                            <td>C# ASP.NET application programming interface (API) that processes requests from the
+                                UTLAgent web portal</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro</a> *ongoing</td>
-                            <td>A mobile application that helps drivers in locating affordable, nearby parking spaces. It will help reduce traffic congestion in the cities.</td>
-                            <td>React Native, Typescript, Laravel</td>
+                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro</a> (React Native, Typescript, Laravel) *ongoing</td>
+                            <td>Parkpro is a mobile application that enables drivers to find affordable parking in the cities. The app will enable drivers to quickly locate available parking places which reduces the time spent in search of parking.</td>
                         </tr>
 
                     </tbody>
