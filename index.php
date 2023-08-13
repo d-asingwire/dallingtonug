@@ -129,7 +129,7 @@
 
                         <p>
                             Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
-                            software systems in teams, a concept that has since evolved into <a href="https://pivosoftltd.com/" class="text-info" target="_blank">Pivosoft Ltd</a>, a
+                            software systems in teams, a concept that has since evolved into <a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a>, a
                             software company that develops software and trains a significant number of young Ugandans in computer
                             programming.
                         </p>
@@ -674,8 +674,7 @@
                 <li>
                     My ultimate goal is to become a distinguished computer science professor and researcher.
                     I intend to use my postgraduate research knowledge and skills to transform our software company
-                    (<a href="https://pivosoftltd.com/" class="text-info" target="_blank">Pivosoft
-                        Ltd</a>) into one of Africa's preeminent research organisations.
+                    (<a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a>) into one of Africa's preeminent research organisations.
                 </li>
             </ul>
             <hr />
