@@ -82,7 +82,7 @@
                 Graduated as the best student with First Class Honors (<span class="text-info">4.53
                     <span class="text-dark">out of</span> 5</span>) in
                 Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously
-                volunteered as a teaching assistant at Makerere University
+                volunteered as a visiting lecturer at Makerere University
                 through former professors. I'm a lecturer at the International Business, Science, and Technology
                 University, where I teach students from various social and cultural backgrounds.
                 Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
@@ -330,7 +330,7 @@
                     CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
             </ul>
 
-            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Teaching Assistant | November
+            <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Visiting Lecturer | November
                 2021 - August 2022
             <ul>
                 <li>Through former professors, I volunteered to teach and lead classes in computer and database
