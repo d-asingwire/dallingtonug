@@ -122,7 +122,7 @@
                         </p>
 
                         <p>
-                            In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.parkproug.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues.
+                            In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.pivosoft.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues.
                             I was subsequently motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by hospitals, hotels, and supermarkets, among others.
                             Mark Zuckerberg's 2017 commencement address at Harvard University inspired Dallington to comprehend the need for every human life to have a sense of purpose rather than progress, and as a result, he has the desire, willingness, and zeal to have a positive impact on many human lives in this world.
                         </p>
@@ -568,7 +568,7 @@
                         </tr>
 
                         <tr>
-                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">E-Docta</a> (React Native, Javascript, Laravel)</td>
+                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">Vastel</a> (React Native, Javascript, Laravel)</td>
                             <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
                         </tr>
 
@@ -583,29 +583,29 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://hotel.pivosoftltd.com/" target="_blank"> Hotel Management System</a> PHP (Laravel)</td>
+                            <td><a href="https://hotel.pivosoft.com/" target="_blank"> Hotel Management System</a> PHP (Laravel)</td>
                             <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="https://office.parkproug.com/" target="_blank">Office Solution</a> PHP (Laravel)</td>
+                            <td><a href="https://officems.pivosoft.com/" target="_blank">Office Solution</a> PHP (Laravel)</td>
                             <td>Used by organizations to manage their project tasks, staff roles and departments, organizational expenditures, record staff attendance and generate reports on expenditures and staff attendance.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="http://sms.parkproug.com/" target="_blank"> School Management System</a> PHP (Laravel)</td>
+                            <td><a href="http://schoolms.pivosoft.com/" target="_blank"> School Management System</a> PHP (Laravel)</td>
                             <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers,  accountants, among others.</td>
                         </tr>
 
                         <tr>
-                            <td><a href="http://exam.parkproug.com/" target="_blank"> Online examination system</a></td>
+                            <td><a href="http://e-exam.pivosoft.com/" target="_blank"> Online examination system</a></td>
                             <td>The system allows students to log in and access their online examinations. They are
                                 evaluated immediately following exam submission.</td>
 
                         </tr>
 
                         <tr>
-                            <td><a href="http://posv2.parkproug.com" target="_blank">simple unit converter</a> (PHP)</td>
+                            <td><a href="http://posv2.pivosoft.com" target="_blank">simple unit converter</a> (PHP)</td>
                             <td>a software that the user can use in performing basic math operations.</td>
                         </tr>
 
@@ -624,7 +624,7 @@
                         </tr>
 
                         <tr>
-                            <td><a href="https://dashboard.parkproug.com/" target="_blank">ParkPro</a> (React Native, Typescript, Laravel) *ongoing</td>
+                            <td><a href="https://dashboard.pivosoft.com/" target="_blank">ParkPro</a> (React Native, Typescript, Laravel) *ongoing</td>
                             <td>Parkpro is a mobile application that enables drivers to find affordable parking in the cities. The app will enable drivers to quickly locate available parking places which reduces the time spent in search of parking.</td>
                         </tr>
 
