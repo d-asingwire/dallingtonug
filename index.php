@@ -87,7 +87,7 @@
                 University, where I teach students from various social and cultural backgrounds.
                 Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
                 expertise and experience. Passionate about using technology to solve everyday problems and I've done so
-                by designing and developing software applications, most notably e-docta which enables patients to seek
+                by designing and developing software applications, most notably vastel which enables patients to seek
                 remote medical services.
                 <hr>
             <h5>Academic Interest</h5>
@@ -96,7 +96,7 @@
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application, E-docta that 
+                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application, vastel that 
                     enables patients like pregnant women, among others seek medical services with medical professionals through virtual consultations.
                     I strongly believe that there is still a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
