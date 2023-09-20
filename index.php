@@ -323,11 +323,10 @@
                     University (ISBAT) </a></span> | Computer Science Instructor | August 2022 - present
             </p>
             <ul>
-                <li>Teaching and leading computer programming classes in C#, C, Java, and web programming languages
-                    including HTML, CSS, Javascript, Bootstrap, and JQuery using tools like VS Code, Dev C++ and
-                    Eclipse.</li>
-                <li>Marking and grading assignments, tests, and lab assessments, such as designing websites with HTML,
-                    CSS, and bootstrap and developing a simulated ATM console application in C#.</li>
+                <li>Teaching and leading classes in Software engineering, Programming in C#, Object Oriented Programming with C++, 
+                    Object Oriented Analysis and Design (OOAD), and Software Testing.
+                </li>
+                <li>Marking and grading assignments, tests, and lab assessments, such as designing applications with C++ and C#, modelling case studies to produce design artifacts e.g UMLs, activity and sequence diagrams .</li>
             </ul>
 
             <p><a href="https://www.mak.ac.ug/" target="_blank">Makerere University</a> | Visiting Lecturer | November
