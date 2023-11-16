@@ -78,7 +78,7 @@
             <hr />
             <h5>Introduction</h5>
             <p>
-                I am a professional software engineer and computer science instructor with four years of experience.
+                I am a professional Software Engineer, Tech entreprenuer, and Computer Science instructor.
                 Graduated as the best student with First Class Honors (<span class="text-info">4.53
                     <span class="text-dark">out of</span> 5</span>) in
                 Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously
