@@ -78,25 +78,19 @@
             <hr />
             <h5>Introduction</h5>
             <p>
-                I am a professional Software Engineer, Tech entreprenuer, and Computer Science instructor.
-                Graduated as the best student with First Class Honors (<span class="text-info">4.53
-                    <span class="text-dark">out of</span> 5</span>) in
-                Bachelors of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously
-                volunteered as a visiting lecturer at Makerere University
-                through former professors. I'm a lecturer at the International Business, Science, and Technology
-                University, where I teach students from various social and cultural backgrounds.
-                Technically, I have designed and built dependable and scalable software systems by leveraging full-stack
-                expertise and experience. Passionate about using technology to solve everyday problems and I've done so
-                by designing and developing software applications, most notably vastel which enables patients to seek
-                remote medical services.
-                <hr>
-            <h5>Academic Interest</h5>
+                I am a professional software engineer, tech entrepreneur, and computer science instructor. I graduated with First Class Honors as the top student in my Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
+            </p>
+
+            <p>
+            Leveraging full-stack expertise and extensive experience, I design and build dependable and scalable software systems. This commitment to harnessing technology for tackling everyday challenges is exemplified by my software applications, particularly vastel, which facilitates remote medical access for patients.
+            </p>
+            <!-- <h5>Academic Interest</h5>
             <p>
 
             <p>
                 <i>
                     Many women in Uganda and Africa in general die or lose their unborn babies while giving birth.
-                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application, vastel that 
+                    This is usually attributed to a lack of prompt medical attention. I conducted research and developed a mobile application, vastel that
                     enables patients like pregnant women, among others seek medical services with medical professionals through virtual consultations.
                     I strongly believe that there is still a huge gap that needs to be filled in our health sector, which motivates me to pursue a master's degree,
                     conduct research, and bridge this gap by developing more advanced solutions for our health sector and other sectors in Uganda and Africa as a whole.
@@ -104,7 +98,7 @@
 
             </p>
             <i>My primary research interests include computational science (biocomputation), artificial intelligence, and human-computer interaction. I am ravenously hungry for new knowledge and skills in the specified areas of research so that I can apply them to achieve my ultimate goal. My ultimate goal is to become a distinguished computer science professor and researcher who will revolutionize health care, education, and e-government systems in Uganda and around the world.</i>
-            </p>
+            </p> -->
             <hr>
         </div>
 
@@ -112,26 +106,21 @@
             <h5 id="Background">Background</h5>
             <div class="row">
                 <div class="col-md-8">
-                    <p>
-                        Dallington Asingwire was born in Ryenjoki Village, Kyangyenyi Subcounty, Sheema District, Western Uganda.
-                    </p>
                     <span>
                         <p>
-                        I aspired to become a resourceful scientist at a young age, drawing inspiration from the achievements of prominent scientists such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei. 
-                        Being in the field of engineering, which was my childhood ambition, motivates me to be as resourceful and innovative as possible. 
+                            From a young age, I aspired to become a resourceful scientist, inspired by the achievements of prominent figures such as Isaac Newton, Albert Einstein, Neils Bohr, and Galileo Galilei.
+                            As an engineer, this inspiration continues to motivate me to create innovative and impactful solutions for society.
                         </p>
 
                         <p>
-                            In 2016, several organizations adopted Dallington's <a class="text-dark" href="https://posv1.pivosoft.com" target="_blank">first software system</a> for use in their business operations, which boosted his confidence in problem solving and delivering solutions to community issues.
-                            I was subsequently motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by hospitals, hotels, and supermarkets, among others.
-                            Mark Zuckerberg's 2017 commencement address at Harvard University inspired Dallington to comprehend the need for every human life to have a sense of purpose rather than progress, and as a result, he has the desire, willingness, and zeal to have a positive impact on many human lives in this world.
+                            My engineering journey took shape in 2016 when several organizations adopted my <a class="text-dark" href="https://posv1.pivosoft.com" target="_blank">first software system</a> for use in their business operations. This success increased my confidence in my problem solving abilities and my capacity to provide solutions to the community.
+                            Subsequently, I was motivated to create more <a href="#projects" class="text-info">software projects</a>, which have since been acquired by factories, hotels, and supermarkets, and others.
                         </p>
 
                         <p>
-                            Soon after completing my internship at Bank of Uganda, I came up with an idea of developing
-                            software systems in teams, a concept that has since evolved into <a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a>, a
-                            software company that develops software and trains a significant number of young Ugandans in computer
-                            programming.
+                            Soon after completing my internship at Bank of Uganda, I conceived the idea of developing
+                            software systems in teams. This concept has since materialized as <a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a>, a
+                            software company that develops software and trains young Ugandans in computer programming.
                         </p>
 
                         <!-- 
@@ -323,7 +312,7 @@
                     University (ISBAT) </a></span> | Computer Science Instructor | August 2022 - present
             </p>
             <ul>
-                <li>Teaching and leading classes in Software engineering, Programming in C#, Object Oriented Programming with C++, 
+                <li>Teaching and leading classes in Software engineering, Programming in C#, Object Oriented Programming with C++,
                     Object Oriented Analysis and Design (OOAD), and Software Testing.
                 </li>
                 <li>Marking and grading assignments, tests, and lab assessments, such as designing applications with C++ and C#, modelling case studies to produce design artifacts e.g UMLs, activity and sequence diagrams .</li>
@@ -544,7 +533,7 @@
 
         <div class="container" id="projects">
             <h5>Software Projects</h5>
-                I have worked on or developed the following software projects and/or products:
+            I have worked on or developed the following software projects and/or products:
             <div class="table-responsive">
                 <table class="table">
                     <thead>
@@ -593,7 +582,7 @@
 
                         <tr>
                             <td><a href="http://schoolms.pivosoft.com/" target="_blank"> School Management System</a> PHP (Laravel)</td>
-                            <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers,  accountants, among others.</td>
+                            <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers, accountants, among others.</td>
                         </tr>
 
                         <tr>
