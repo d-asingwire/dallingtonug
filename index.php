@@ -78,7 +78,10 @@
             <hr />
             <h5>Introduction</h5>
             <p>
-                I am a professional software engineer, tech entrepreneur, and computer science instructor. I graduated with First Class Honors as the top student in my Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
+                I am a professional software engineer, computer science instructor, and 
+                the founder of <a href="https://pivosoft.com" class="text-info" target="_blank">Pivosoft</a> and
+                <a href="https://x.com/codingacad?t=OAkfNiUtQr9rbwkmecXVWg&s=08" class="text-info" target="_blank">Pivosoft Coding Academy</a>. 
+                 I graduated with First Class Honors as the top student in my Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
             </p>
 
             <p>
