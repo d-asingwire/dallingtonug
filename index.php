@@ -74,7 +74,7 @@
         <br /><br /><br /><br />
         <div class="container">
 
-            <h4>Dallington Asingwiressss</h4>
+            <h4>Dallington Asingwire</h4>
             <hr />
             <h5>Introduction</h5>
             <p>
