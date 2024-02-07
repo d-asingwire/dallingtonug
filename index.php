@@ -653,7 +653,7 @@
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
-                        <li>More posts are located<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a>
+                        <li>Additional posts can be found at<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a>
                         </li>
                     </ul>
                 </div>
