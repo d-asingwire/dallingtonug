@@ -339,7 +339,7 @@
             <p><a href="https://www.mak.ac.ug/" target="_blank">St. John's S.S Nyabwina</a> | Student Teacher | March
                 2016 - August 2016
             <ul>
-                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.
+                <li> I taught and led classes in computer studies, physics, mathematics, and chemistry.
                 </li>
                 <li> I organized, graded, and created student performance reports for exams.</li>
             </ul>
@@ -348,7 +348,7 @@
             <p><a href="https://www.mak.ac.ug/" target="_blank">Sheema Girls School</a> | Student Teacher | March 2016 -
                 August 2016
             <ul>
-                <li> As a volunteer, I taught and led classes in computer studies, physics, mathematics, and chemistry.
+                <li> I taught and led classes in computer studies, physics, mathematics, and chemistry.
                 </li>
                 <li> I organized, graded, and created student performance reports for exams.</li>
             </ul>
