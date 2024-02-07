@@ -83,12 +83,13 @@
                 <a href="https://x.com/codingacad?t=OAkfNiUtQr9rbwkmecXVWg&s=08" class="text-info" target="_blank">Pivosoft Coding Academy</a>. -->
                 
                 
-                 I graduated with First Class Honors as the top student in my Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
+                 I graduated with First Class Honors as the top student in Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
             </p>
 
             <p>
-            Leveraging full-stack expertise and extensive experience, I design and build dependable and scalable software systems. This commitment to harnessing technology for tackling everyday challenges is exemplified by my software applications, particularly vastel, which facilitates remote medical access for patients.
-            </p>
+            <!-- Leveraging full-stack expertise and extensive experience, I design and build dependable and scalable software systems.  -->
+            My commitment is to harness technology to tackle societal challenges. Notably, I have built software applications for small and medium-sized businesses in Kampala, such as Kimote Maize Factory, Kakongoriro Stores, and Collection Hub. Additionally, I have collaborated with Vastel Health, a private health company, and designed Vastel, a mobile application that facilitates remote medical access for patients.
+        </p>
             <!-- <h5>Academic Interest</h5>
             <p>
 
