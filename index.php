@@ -666,24 +666,12 @@
             <h5>Strategic Vision</h5>
             <ul>
                 <li>
-                    My ultimate goal is to become a distinguished computer science professor and researcher.
-                    I intend to use my postgraduate research knowledge and skills to transform our software company
-                    (<a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a>) into one of Africa's preeminent research organisations.
+                    My ultimate goal is to become a distinguished computer science professor, researcher, and entreprenuer.
+                    I intend to use my postgraduate research knowledge and skills to transform our software company,
+                    <a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a> into one of Africa's preeminent research entities.
                 </li>
             </ul>
             <hr />
-        </div>
-
-        <div class="container">
-            <br>
-            <h5>Hobbies</h5>
-            <ol id="Contact">
-                <li>Reading books</li>
-                <li>Watching Football</li>
-                <li>Listening to music</li>
-            </ol>
-
-            <hr>
         </div>
 
         <div class="container">
