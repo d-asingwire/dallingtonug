@@ -88,7 +88,7 @@
 
             <p>
             <!-- Leveraging full-stack expertise and extensive experience, I design and build dependable and scalable software systems.  -->
-            My commitment is to harness technology to tackle societal challenges. Notably, I have built software applications for small and medium-sized businesses in Kampala, such as Kimote Maize Factory, Kakongoriro Stores, and Collection Hub. Additionally, I have collaborated with Vastel Health, a private health company, and designed Vastel, a mobile application that facilitates remote medical access for patients.
+            My commitment is to harness technology to tackle societal challenges. Notably, I have built software applications for small and medium-sized businesses in Kampala, such as Kimote Maize Factory, Kakongoriro Stores, and Collection Hub. Additionally, I have collaborated with Vastel Health, a private health company, and designed Vastel, a mobile application that enables patients seek medical services through virtual consultations with medical professionals.
         </p>
             <!-- <h5>Academic Interest</h5>
             <p>
