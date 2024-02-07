@@ -406,7 +406,7 @@
             <ul id="skills">
                 <li>Using HTML, CSS, JQuery, and bootstrap, I designed, implemented, and documented software
                     applications like the university website.</li>
-                <li>I learned IT administration and worked with other interns to complete tasks.</li>
+                <li>I learned and applied IT administration skills while collaborating with fellow interns to complete assigned tasks.</li>
             </ul>
             </p>
             <hr>
