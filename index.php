@@ -362,13 +362,14 @@
             <h5 id="Experience">Work Experience</h5>
             <p>
                 <a href="https://www.keiphoneglobal.com/" target="_blank">
-                    KEIPhone Global </a></span> | Full-Stack Software Engineer | February 2022 - present
+                    KEIPhone Global </a></span> | Full-Stack Software Engineer | February 2022 - August 2023
             </p>
             <ul>
-                <li>Developing and testing software systems. I have developed and tested systems such as the KEIPhone
-                    web portal, APIs, and mobile app with Kotlin, Angular, jest, and node.js, using Android Studio and
-                    Postman tools.</li>
-                <li>Deploying software systems; I have used docker and AWS to deploy API and web portal systems.</li>
+               <li> Collaborated with the team, developed and tested software systems such as the KEIPhone app and its backend systems that allowed users to earn and redeem credits through watching advertisement content.</li>
+               <li>Built a RESTful api service in node.js that served data including Google Analytics data to a front-end web application built in Angular.</li>
+               <li> Documented API microservices by creating UMLs and their descriptions using Dia software.</li>
+               <li> Deployed backend software systems using AWS services.</li>
+
             </ul>
 
             <p><a href="https://africaone.net/" target="_blank">Africa One</a> | Full-Stack Software Engineer | February
