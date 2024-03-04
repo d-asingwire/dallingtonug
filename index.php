@@ -394,10 +394,8 @@
             <p><a href="https://www.bou.or.ug/" target="_blank">Bank of Uganda</a> | Software Development Engineering
                 Intern | July 2019 - August 2019
             <ul>
-                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML
-                    design diagrams using software like Lucidchart.</li>
-                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using
-                    the C# programming language.</li>
+                <li>Designed and documented software applications under the guidance of the supervisor.</li>
+                <li>Collaborated with staff and completed assigned IT tasks.</li>
             </ul>
             </p>
 
