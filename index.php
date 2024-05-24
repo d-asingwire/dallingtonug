@@ -137,18 +137,17 @@
                     </span>
                 </div>
                 <div class="col-md-4">
-                    <div class="card">
-                        <img src="img/dallington.jpg" />
+                    <div class="card" style="max-width:350px; max-height:400px">
+                        <img src="img/dallington.jpg" class="card-img-top custom-img img-fluid" alt="Dallington">
                         <div class="card-body bio-conten align-items-center justify-content-center">
                             <div class="d-flex justify-content-center" id="Education">
-                                <h5 class="card-text mb-2" id="dall2018">Dallington Asingwire in 2022</h5>
+                                <h5 class="card-text" id="dall2018">Dallington Asingwire in 2024</h5>
                             </div>
                         </div>
                     </div>
                 </div>
 
             </div>
-
             <hr>
         </div>
 
@@ -365,10 +364,10 @@
                     KEIPhone Global </a></span> | Full-Stack Software Engineer | February 2022 - August 2023
             </p>
             <ul>
-               <li> Collaborated with the team, developed and tested software systems such as the KEIPhone app and its backend systems that allowed users to earn and redeem credits through watching advertisement content.</li>
-               <li>Built a RESTful api service in node.js that served data including Google Analytics data to a front-end web application built in Angular.</li>
-               <li> Documented API microservices by creating UMLs and their descriptions using Dia software.</li>
-               <li> Deployed backend software systems using AWS services.</li>
+                <li> Collaborated with the team, developed and tested software systems such as the KEIPhone app and its backend systems that allowed users to earn and redeem credits through watching advertisement content.</li>
+                <li>Built a RESTful api service in node.js that served data including Google Analytics data to a front-end web application built in Angular.</li>
+                <li> Documented API microservices by creating UMLs and their descriptions using Dia software.</li>
+                <li> Deployed backend software systems using AWS services.</li>
 
             </ul>
 

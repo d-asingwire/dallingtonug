@@ -117,8 +117,12 @@ h5,h4{
   font-weight: bold;
 }
 
+.custom-img {
+  height: 100%; /* Ensures the image fills the card vertically */
+  object-fit: cover; /* Covers the card without stretching */
+}
 
-   
+
 
 @media (min-width:320px)  {  .card { width: 100%  }  .card > img { height: 350px;}/* smartphones, iPhone, portrait 480x320 phones */ }
 @media (min-width:481px)  {  .card { width: 100%  } .card > img { height: 350px;}/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
