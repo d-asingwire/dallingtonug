@@ -234,7 +234,7 @@
                             <td>2018</td>
                         </tr>
                         <tr>
-                            <td>Outstanding service as Minister for Justice affairs
+                            <td>Outstanding service as Minister for Justice Affairs at the School of Computing
                                 <br />
                                 <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of
                                             justice and constitutional affairs</small></i></li>
@@ -430,7 +430,7 @@
 
                             <tr>
                                 <td>Javascript/Typescript</td>
-                                <td>React, Next.js, Node.js and Angular.Js</td>
+                                <td>React, Next.js, and Angular.Js</td>
                             </tr>
                             <tr>
                                 <td>PHP</td>
@@ -548,6 +548,22 @@
 
                     <tbody>
 
+                    <tr>
+                            <td><a href="https://www.experienceeducate.org" target="_blank">Educate! CMS</a> (Node.js, Next.js, PostgreSQL, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</td>
+                            <td>Educate! Contractor Management System is a cloud-based software application that enables Educate! to manage contractor data including their profiles, contracts, and payments. It also allows the team to manage vendors and staff information.</td>
+                        </tr>
+
+                        <tr>
+                            <td><a href="https://www.agrixinnovations.com" target="_blank">AgriX</a> (Node.js, PostgreSQL, REST API Development, Next.js, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</td>
+                            <td>AgriX is a platform that enables farmers to easily access the market for their agricultural produce, purchase agro-inputs, access valuable farming tips, and obtain weather information. This empowers farmers to make informed decisions, maximize their yields, and offers consumers the opportunity to buy high-quality fresh produce.</td>
+                        </tr>
+
+
+                        <tr>
+                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">Vastel</a> (React Native, Javascript, Laravel)</td>
+                            <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
+                        </tr>
+
                         <tr>
                             <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a> (Angular, CodeIgniter)</td>
                             <td>As security becomes an increasing concern, data in a distributed environment is
@@ -556,11 +572,6 @@
                                 information from the time it is collected until it is used for forecasting
                                 and prediction. conducted research, designed, and implemented a secure layer for a desktop repository of
                                 weather data.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">Vastel</a> (React Native, Javascript, Laravel)</td>
-                            <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
                         </tr>
 
                         <tr>
