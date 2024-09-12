@@ -682,7 +682,7 @@
             <hr />
         </div>
 
-        <div class="container">
+        <div class="container" id="Contact">
             <br>
             <h5>Contact</h5>
             <span></span>
