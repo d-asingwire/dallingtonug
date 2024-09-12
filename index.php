@@ -317,7 +317,7 @@
             </p>
             <ul>
                 <li>Teaching and leading classes in Software engineering, Programming in C#, Object Oriented Programming with C++,
-                    Object Oriented Analysis and Design (OOAD), and Software Testing.
+                    Object Oriented Analysis and Design (OOAD), Data Structures and Algorithms, and Software Testing.
                 </li>
                 <li>Marking and grading assignments, tests, and lab assessments, such as designing applications with C++ and C#, modelling case studies to produce design artifacts e.g UMLs, activity and sequence diagrams .</li>
             </ul>
