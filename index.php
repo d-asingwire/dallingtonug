@@ -74,7 +74,7 @@
         <br /><br /><br /><br />
         <div class="container">
 
-            <h4>Dallington Asingwire</h4>
+            <h3>Dallington Asingwire</h3>
             <hr />
             <h5>Introduction</h5>
             <p>
@@ -87,7 +87,7 @@
 
             <p>
                 <!-- Leveraging full-stack expertise and extensive experience, I design and build dependable and scalable software systems.  -->
-                My commitment is to harness technology to tackle societal challenges. Notably, I have built software applications for small and medium-sized businesses in Kampala, such as Kimote Maize Factory, Kakongoriro Stores, and Collection Hub. Additionally, I have collaborated with Vastel Health, a private health company, and designed Vastel, a mobile application that enables patients seek medical services through virtual consultations with medical professionals.
+                My commitment is to harness technology to tackle societal challenges. Notably, I have built software applications for small, medium-sized businesses in Kampala, such as Kimote Maize Factory, Kakongoriro Stores, and Collection Hub, and non-governmental organisations notably <a href="https://www.experienceeducate.org" class="text-info">Educate!</a>. Additionally, I have collaborated with Vastel Health, a private health company, and designed Vastel, a mobile application that enables patients seek medical services through virtual consultations with medical professionals.
             </p>
             <!-- <h5>Academic Interest</h5>
             <p>
@@ -136,14 +136,12 @@
 
                     </span>
                 </div>
-                <div class="col-md-4">
-                    <div class="card" style="max-width:350px; max-height:400px">
-                        <img src="img/dallington.jpg" class="card-img-top custom-img img-fluid" alt="Dallington">
-                        <div class="card-body bio-conten align-items-center justify-content-center">
-                            <div class="d-flex justify-content-center" id="Education">
-                                <h5 class="card-text" id="dall2018">Dallington Asingwire in 2024</h5>
-                            </div>
+                <div class="col-md-4" style="justify-content-center;align-content:center">
+                    <div class="card" style="max-width:350px; max-height:400px;">
+                       <div>
+                       <img src="img/dallington.jpg" class="card-img-top custom-img img-fluid" alt="Dallington">
                         </div>
+                       
                     </div>
                 </div>
 

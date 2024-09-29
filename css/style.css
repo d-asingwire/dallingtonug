@@ -113,13 +113,18 @@ footer > .container > span {
      text-indent: 5em;
 
 }
-h5,h4{
+h2,h3,h5,h4{
   font-weight: bold;
 }
 
 .custom-img {
+  width: 300px;
   height: 100%; /* Ensures the image fills the card vertically */
-  object-fit: cover; /* Covers the card without stretching */
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 5%;
+  margin-right: 10%;
+  object-fit: contain; /* Covers the card without stretching */
 }
 
 
