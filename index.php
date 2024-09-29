@@ -213,14 +213,36 @@
                         </tr>
 
                         <tr>
-                            <td>Dean's Award
+                            <td>Dean's List
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to students who have achieved high academic standing in their course of study</small></i>
+                                <li><i class="ml-1"><small>Made the Dean's List every semester during my 4-year study, consistently the top student.</small></i>
                                 </li>
 
                             </td>
                             <td>Makerere University</td>
                             <td>2016 - 2021</td>
+                        </tr>
+
+                        <tr>
+                            <td>National Merit List
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for emerging as one of the top students in the national high school examinations.</small></i>
+                                </li>
+
+                            </td>
+                            <td>Makerere University</td>
+                            <td>2016 - 2021</td>
+                        </tr>
+
+                        <tr>
+                            <td>Outstanding service as Minister for Constitutional & Justice Affairs 
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of
+                                            justice and constitutional affairs at the School of Computing</small></i></li>
+
+                            </td>
+                            <td>Makerere University</td>
+                            <td>2017</td>
                         </tr>
 
                         <tr>
@@ -233,16 +255,7 @@
                             <td>Makerere University</td>
                             <td>2018</td>
                         </tr>
-                        <tr>
-                            <td>Outstanding service as Minister for Justice Affairs at the School of Computing
-                                <br />
-                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of
-                                            justice and constitutional affairs</small></i></li>
-
-                            </td>
-                            <td>Makerere University</td>
-                            <td>2017</td>
-                        </tr>
+                      
                         <tr>
                             <td>The Goverment of Uganda Academic merit
                                 <br />
