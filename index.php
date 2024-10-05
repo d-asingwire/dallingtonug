@@ -78,10 +78,8 @@
             <hr />
             <h5>Introduction</h5>
             <p>
-                I am a professional software engineer and computer science instructor.
-                and the founder of <a href="https://agrixinnovations.com" class="text-info" target="_blank">AgriX</a> and <a href="https://pivosoft.com" class="text-info" target="_blank">Pivosoft</a>.
-
-                I graduated with First Class Honors as the top student in Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University through the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
+            I am a professional software engineer and computer science instructor with four years of experience. I am the founder of <a href="https://agrixinnovations.com" class="text-info" target="_blank">AgriX</a>, a platform empowering farmers in remote areas of Uganda, and I am the director of <a href="https://pivosoft.com" class="text-info" target="_blank">Pivosoft</a>, a startup digitizing small and medium-sized businesses (SMEs). Additionally, I established <a href="https://x.com/codingacad" class="text-info" target="_blank">Pivosoft Coding Academy</a>, offering free mentorship to young people in software development.
+            I graduated with First Class Honors as the top student in my cohort with a Bachelor of Science in Software Engineering from Makerere University in Kampala, Uganda. Previously, I volunteered as a visiting lecturer at Makerere University with the support of my former professors. Currently, I am a lecturer at the International Business, Science, and Technology University, where I teach students from diverse social and cultural backgrounds.
             </p>
 
             <p>
@@ -164,22 +162,20 @@
                 Chemistry, Mathematics, and Computer Studies) and obtained <span class="text-info">18</span> out of
                 <span class="text-info">20</span> possible points, with an A in Mathematics, Bs in Physics and
                 Chemistry, and 2 points for the auxiliary disciplines (General paper and computer studies).
-                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, the entire district, and among the top
-                    students in the country.</i>
+                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, the entire district, and ranked among the top students in the country.</i>
             </p>
 
             <p>
                 From 2010 to 2013, Dallington attended Bugarama High School for Ordinary Level Education on a full
                 scholarship, where he earned <span class="text-info">14</span> aggregates out of <span class="text-info">8</span> and was the top student in terms of overall school O-level achievement.
-                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, second best in the entire district, and among the top
-                    students in the country.</i>
+                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school, the second best in the entire district, and among the top students in the country.</i>
             </p>
 
             <p>
                 At Rweibaare Primary School, where he spent eight years, Dallington Asingwire began his academic career.
                 He received an overall score of <span class="text-info">7</span> out of <span class="text-info">4</span>, with a D1 in mathematics and D2s in science, English, and social
                 studies. He was the best student and received a Primary Leaving Examination (PLE) Certificate.
-                <br><i class="text-info">Achievement</i>: Emerged as the best student in the school, and among the best students in the country.</i>
+                <br><i class="text-info">Achievement</i>:<i> Emerged as the best student in the school and among the best students in the country.</i>
             </p>
             <hr>
 
@@ -192,7 +188,7 @@
                 <table class="table table-striped">
                     <thead>
                         <tr>
-                            <th style="width: 70%">AWARD</th>
+                            <th style="width: 70%">AWARD/HONOR</th>
                             <th style="width: 20%">INSTITUTION</th>
                             <th style="width: 10%">YEAR</th>
                         </tr>
@@ -201,7 +197,7 @@
                         <tr>
                             <td>First Class Honors
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to students who have achieved a high level of academic excellence in their studies</small></i>
+                                <li><i class="ml-1"><small>Awarded to the top students who graduate with a CGPA of 4.4 or higher out of 5.</small></i>
                                 </li>
 
                             </td>
@@ -212,7 +208,7 @@
                         <tr>
                             <td>Dean's List
                                 <br />
-                                <li><i class="ml-1"><small>Made the Dean's List every semester during my 4-year study, consistently the top student.</small></i>
+                                <li><i class="ml-1"><small>This honor recognizes the top students in each university program each semester.</small></i>
                                 </li>
 
                             </td>
@@ -221,9 +217,9 @@
                         </tr>
 
                         <tr>
-                            <td>National Merit List
+                            <td>National Merit Scholarship
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for emerging as one of the top students in the national high school examinations.</small></i>
+                                <li><i class="ml-1"><small>Awarded to the top-ranking performers in the national high school examinations.</small></i>
                                 </li>
 
                             </td>
@@ -234,8 +230,7 @@
                         <tr>
                             <td>Outstanding service as Minister for Constitutional & Justice Affairs 
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for exceptional leadership as minister in charge of
-                                            justice and constitutional affairs at the School of Computing</small></i></li>
+                                <li><i class="ml-1"><small>Awarded for exceptional leadership as the Minister of Justice and Constitutional Affairs at the School of Computing.</small></i></li>
 
                             </td>
                             <td>Makerere University</td>
@@ -243,41 +238,17 @@
                         </tr>
 
                         <tr>
-                            <td>Leadership Training Certificate
-                                <br />
-                                <li><i class="ml-1"><small>Awarded for having participated in the inaugural leadership
-                                            seminar</small></i></li>
-
-                            </td>
-                            <td>Makerere University</td>
-                            <td>2018</td>
-                        </tr>
-                      
-                        <tr>
-                            <td>The Goverment of Uganda Academic merit
-                                <br />
-                                <li><i class="ml-1"><small>Awarded by the Goverment of Uganda for emerging the best
-                                            student in the dictrict and ranking among top students in the national
-                                            high school examinations to pursue my undergraduate studies at Makerere
-                                            University</small></i></li>
-                            </td>
-                            <td>Goverment of Uganda</td>
-                            <td>2016 - 2020</td>
-                        </tr>
-                        <tr>
                             <td>Best Student Overall Award
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for emerging the best student in the Uganda Advanced
-                                            Certificate of Examinations (UACE) in the entire school</small></i></li>
+                                <li><i class="ml-1"><small>Awarded for being the best student in the Uganda Advanced Certificate of Education (UACE) examinations in the entire school.</small></i></li>
                             </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2016</td>
                         </tr>
                         <tr>
-                            <td>Outstanding Student Award
+                            <td>Outstanding Discipline Award
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for exemplary behaviour or conduct in the entire
-                                            school</small></i></li>
+                                <li><i class="ml-1"><small>Awarded for exemplary behaviour or conduct in the advanced level (A'level)</small></i></li>
                             </td>
                             <td>St.John's S.S Nyabwina</td>
                             <td>2014, 2015</td>
@@ -285,32 +256,30 @@
                         <tr>
                             <td>Best Student Overall Award
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for emerging the top student in the Uganda Ordinary
-                                            Certificate of Examinations (UCE) in the entire school</small></i></li>
+                                <li><i class="ml-1"><small>Awarded for being the best student in the Uganda Certificate of Education (UCE) examinations in the entire school.</small></i></li>
                             </td>
                             <td>Bugarama High School</td>
                             <td>2014</td>
                         </tr>
-                        <tr>
-                            <td>Outstanding Service Award for information prefect
-                                <br />
-                                <li><i class="ml-1"><small>Awarded for outstanding leadership as prefect incharge of
-                                            information</small></i></li>
-
-                            </td>
-                            <td>Bugarama High School</td>
-                            <td>2011, 2012</td>
-                        </tr>
                         <tr id="Experience">
-                            <td>Outstanding Service Award for prefect in charge of Academics
+                            <td>Academic Excellence & Service Award
                                 <br />
-                                <li><i class="ml-1"><small>Awarded for outstanding leadership as academics
-                                            prefect</small></i></li>
+                                <li><i class="ml-1"><small>Awarded to the student who shows outstanding leadership, excelling both academically and in service to the school community.</small></i></li>
 
                             </td>
                             <td>Bugarama High School</td>
                             <td>2012</td>
                         </tr>
+                        <tr>
+                            <td>Outstanding Service Award (Information prefect)
+                                <br />
+                                <li><i class="ml-1"><small>Awarded for outstanding leadership as prefect in charge of information</small></i></li>
+
+                            </td>
+                            <td>Bugarama High School</td>
+                            <td>2011, 2012</td>
+                        </tr>
+                      
                     </tbody>
                 </table>
             </div>
@@ -393,9 +362,9 @@
             <p><a href="https://www.pegasus.co.ug/" target="_blank">Pegasus Technologies</a> | Full-Stack Software
                 Engineer | June 2020 - January 2021
             <ul>
-                <li>I designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML
+                <li>Designed an ASP.NET C# online API system that allowed users to transact via USSD. I created UML
                     design diagrams using software like Lucidchart.</li>
-                <li> I developed RESTful API systems for financial transactions, such as mobile money payments, using
+                <li> Developed RESTful API systems for financial transactions, such as mobile money payments, using
                     the C# programming language.</li>
             </ul>
             </p>
