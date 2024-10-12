@@ -197,7 +197,7 @@
                         <tr>
                             <td>First Class Honors
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to the top students who graduate with a CGPA of 4.4 or higher out of 5.</small></i>
+                                <li><i class="ml-1"><small>Graduated with a CGPA of 4.53 out of 5.</small></i>
                                 </li>
 
                             </td>
@@ -208,7 +208,7 @@
                         <tr>
                             <td>Dean's List
                                 <br />
-                                <li><i class="ml-1"><small>This honor recognizes the top students in each university program each semester.</small></i>
+                                <li><i class="ml-1"><small>Ranked at the top of the class each semester in the Software Engineering program.</small></i>
                                 </li>
 
                             </td>
@@ -219,7 +219,7 @@
                         <tr>
                             <td>National Merit Scholarship
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to the top-ranking performers in the national high school examinations.</small></i>
+                                <li><i class="ml-1"><small>Awarded for ranking in the top 1% of performers in the national high school examinations.</small></i>
                                 </li>
 
                             </td>
@@ -264,7 +264,7 @@
                         <tr id="Experience">
                             <td>Academic Excellence & Service Award
                                 <br />
-                                <li><i class="ml-1"><small>Awarded to the student who shows outstanding leadership, excelling both academically and in service to the school community.</small></i></li>
+                                <li><i class="ml-1"><small>I demonstrated outstanding leadership, excelling both academically and in service to the school community.</small></i></li>
 
                             </td>
                             <td>Bugarama High School</td>
@@ -389,233 +389,132 @@
         </div>
 
 
-        <div class="container">
-            <h5>Technical Competence</h5>
-            <div class="row">
-                <div class="col-md-12">
-                    <table class="table table-bordered mt-2">
-                        <thead>
-                            <tr>
-                                <th>Language</th>
-                                <th>Framework</th>
-                            </tr>
-                        </thead>
-                        <tbody>
-
-                            <tr>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Web
-                                        Application Development</i></th>
-                            </tr>
-
-                            <tr>
-                                <td>Javascript/Typescript</td>
-                                <td>React, Next.js, and Angular.Js</td>
-                            </tr>
-                            <tr>
-                                <td>PHP</td>
-                                <td>Laravel, CakePHP</td>
-                            </tr>
-
-                            <tr>
-                                <td>C#</td>
-                                <td>ASP.NET MVC</td>
-                            </tr>
-
-                            <tr colspan='2'>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Mobile
-                                        Application Development</i></th>
-                            </tr>
-
-                            <tr>
-                                <td>Javascript/Typescript</td>
-                                <td>React Native</td>
-                            </tr>
-
-                            <tr>
-                                <td>Android</td>
-                                <td>Kotlin</td>
-                            </tr>
-
-                            <tr colspan='2'>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'>
-                                    <i>Microservice/API Application Development</i>
-                                </th>
-                            </tr>
-
-                            <tr>
-                                <td>PHP</td>
-                                <td>Laravel</td>
-                            </tr>
-
-                            <tr>
-                                <td>C#</td>
-                                <td>ASP.NET</td>
-                            </tr>
-                            <tr>
-                                <td>Javascript</td>
-                                <td>Node.js</td>
-                            </tr>
-
-                            <tr>
-                                <td>Python</td>
-                                <td>Django</td>
-                            </tr>
-
-                            <tr>
-                                <th class='font-weight-bold text-left bg-secondary text-white' colspan='2'><i>Database
-                                        Management</i></th>
-                            </tr>
-
-                            <tr>
-                                <td>SQL</td>
-                                <td>Using Microsoft Server Management Studio (MSMS)</td>
-                            </tr>
-                            <tr>
-                                <td>MySQL</td>
-                                <td>Using PhpMyAdmin </td>
-                            </tr>
-
-                            <td>MongoDB</td>
-                            <td>Using MongoDB Compass </td>
-                            </tr>
-
-                            <td>PostgreSQL</td>
-                            <td>Using PgAdmin </td>
-                            </tr>
-
-                            <tr>
-                                <th class='font-weight-bold bg-secondary text-white' colspan='2'><i> Code Hosting & Software Deployment</i></th>
-                            </tr>
-
-                            <tr>
-                                <td>Amazon Web Services (AWS)</td>
-                                <td>Using EC2, RDS etc.</td>
-                            </tr>
-
-                            <tr>
-                                <td>SSH access</td>
-                                <td>Using Secure Socket Shell</td>
-                            </tr>
-
-                            <tr>
-                                <td>Deployment Tools</td>
-                                <td>Docker, FileZilla</td>
-                            </tr>
-
-                            <tr>
-                                <td>Git</td>
-                                <td>Github</td>
-                            </tr>
-
-                        </tbody>
-                    </table>
-                </div>
-            </div>
+        <div class="container my-5">
+            <h5 id="Skills">Skills</h5>
+            <table class="table table-bordered table-striped">
+            <tbody>
+                <tr>
+                <td><strong>Programming Languages</strong></td>
+                <td>C, C++, C#, Java, PHP, JavaScript, Python</td>
+                </tr>
+                <tr>
+                <td><strong>Frameworks & Libraries</strong></td>
+                <td>React, Next.js, Angular, Node.js, React Native, Laravel</td>
+                </tr>
+                <tr>
+                <td><strong>Database Management</strong></td>
+                <td>PostgreSQL, MySQL, SQL</td>
+                </tr>
+                <tr>
+                <td><strong>Cloud Platforms</strong></td>
+                <td>AWS, Digital Ocean</td>
+                </tr>
+                <tr>
+                <td><strong>Software Development Methodologies</strong></td>
+                <td>Agile, Scrum, Waterfall</td>
+                </tr>
+                <tr>
+                <td><strong>Leadership</strong></td>
+                <td>Mentorship, Team Management, Decision Making, Effective Communication</td>
+                </tr>
+            </tbody>
+            </table>
         </div>
 
-        <div class="container" id="projects">
-            <h5>Software Projects</h5>
-            I have worked on or developed the following software projects and/or products:
-            <div class="table-responsive">
-                <table class="table">
-                    <thead>
-                        <tr>
-                            <th style="width: 20%">Project</th>
-                            <th style="width: 80%">Description</th>
-                        </tr>
-                    </thead>
+    <div class="container my-5" id="projects">
+    <h5 id="Projects">Projects</h5>
+    <div class="table-responsive">
+        <table class="table table-striped table-bordered">
+            <tbody>
+                <tr>
+                    <td><a href="https://www.experienceeducate.org" target="_blank">Educate! CMS</a> 
+                        <small>(Node.js, Next.js, PostgreSQL, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</small>
+                    </td>
+                    <td>Educate! Contractor Management System is a cloud-based software application that enables Educate! to manage contractor data, including profiles, contracts, and payments, as well as vendors and staff information.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://www.agrixinnovations.com" target="_blank">AgriX</a> 
+                        <small>(Node.js, PostgreSQL, REST API Development, Next.js, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</small>
+                    </td>
+                    <td>AgriX is a platform that enables farmers to access markets for their agricultural produce, purchase agro-inputs, get valuable farming tips, and obtain weather information, empowering them to make informed decisions and maximize their yields.</td>
+                </tr>
+                <tr>
+                    <td><a href="/projects/health/apks/e-docta.apk" target="_blank">Vastel</a> 
+                        <small>(React Native, Javascript, Laravel)</small>
+                    </td>
+                    <td>A mobile application that enables patients to seek medical services through virtual consultations with medical professionals.</td>
+                </tr>
+                <tr>
+                    <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A Secure Layer for a Desktop Weather Data Repository</a> 
+                        <small>(Angular, CodeIgniter)</small>
+                    </td>
+                    <td>Conducted research, designed, and implemented a secure layer for a desktop repository of weather data, addressing the need for protection against inappropriate manipulation in a distributed environment.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://kakongorirostores.com" target="_blank">Kakongoriro Stores</a> 
+                        <small>(Laravel, Bootstrap, jQuery, AJAX)</small>
+                    </td>
+                    <td>A point of sale web system that efficiently handles procurement, inventory management, damaged stock, supplier relationships, and expenditure tracking.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://collectionug.com" target="_blank">Collection Hub</a> 
+                        <small>(Laravel, Bootstrap, jQuery, AJAX)</small>
+                    </td>
+                    <td>A web-based point of sale system for effectively overseeing inventory, sales, supplier transactions, expenditure, customers, and report generation.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://hotel.pivosoft.com/" target="_blank">Hotel Management System</a> 
+                        <small>(PHP, Laravel)</small>
+                    </td>
+                    <td>A software solution for hotel owners to manage accommodation, restaurant and bar services, point of sale, procurement, housekeeping, human resources, finances, and more, integrated with EFRIS for tax compliance.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://officems.pivosoft.com/" target="_blank">Office Solution</a> 
+                        <small>(PHP, Laravel)</small>
+                    </td>
+                    <td>Used by organizations to manage project tasks, staff roles, expenditures, attendance, and reporting.</td>
+                </tr>
+                <tr>
+                    <td><a href="http://schoolms.pivosoft.com/" target="_blank">School Management System</a> 
+                        <small>(PHP, Laravel)</small>
+                    </td>
+                    <td>A system that helps school administrators manage students, subjects, examinations, class timetables, and payment information.</td>
+                </tr>
+                <tr>
+                    <td><a href="http://e-exam.pivosoft.com/" target="_blank">Online Examination System</a></td>
+                    <td>Enables students to log in and access online examinations, with immediate evaluation following submission.</td>
+                </tr>
+                <tr>
+                    <td><a href="http://posv2.pivosoft.com" target="_blank">Simple Unit Converter</a> 
+                        <small>(PHP)</small>
+                    </td>
+                    <td>A software tool for performing basic math operations.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a> 
+                        <small>(C#, HTML, Bootstrap)</small>
+                    </td>
+                    <td>Allows a Telecom (UTL) agent to register customers, manage account transactions, and view customer information.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a> 
+                        <small>(C#)</small>
+                    </td>
+                    <td>A C# ASP.NET API that processes requests from the UTLAgent web portal.</td>
+                </tr>
+                <tr>
+                    <td><a href="https://dashboard.pivosoft.com/" target="_blank">ParkPro</a> 
+                        <small>(React Native, Typescript, Laravel) *ongoing</small>
+                    </td>
+                    <td>A mobile application that helps drivers find affordable parking in cities, reducing the time spent searching for spots.</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
 
-                    <tbody>
-
-                    <tr>
-                            <td><a href="https://www.experienceeducate.org" target="_blank">Educate! CMS</a> (Node.js, Next.js, PostgreSQL, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</td>
-                            <td>Educate! Contractor Management System is a cloud-based software application that enables Educate! to manage contractor data including their profiles, contracts, and payments. It also allows the team to manage vendors and staff information.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://www.agrixinnovations.com" target="_blank">AgriX</a> (Node.js, PostgreSQL, REST API Development, Next.js, Tailwind CSS, RabbitMQ, Typescript, Knex.js)</td>
-                            <td>AgriX is a platform that enables farmers to easily access the market for their agricultural produce, purchase agro-inputs, access valuable farming tips, and obtain weather information. This empowers farmers to make informed decisions, maximize their yields, and offers consumers the opportunity to buy high-quality fresh produce.</td>
-                        </tr>
-
-
-                        <tr>
-                            <td><a href="/projects/health/apks/e-docta.apk" target="_blank">Vastel</a> (React Native, Javascript, Laravel)</td>
-                            <td>a mobile application that enables patients seek medical services through virtual consultations with medical professionals.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="http://dissertations.mak.ac.ug/handle/20.500.12281/9790?show=full" target="_blank">A secure layer for a desktop weather data repository</a> (Angular, CodeIgniter)</td>
-                            <td>As security becomes an increasing concern, data in a distributed environment is
-                                susceptible to inappropriate manipulation. Due to the significance of
-                                weather data, there was a need for mechanisms to protect this
-                                information from the time it is collected until it is used for forecasting
-                                and prediction. conducted research, designed, and implemented a secure layer for a desktop repository of
-                                weather data.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://kakongorirostores.com" target="_blank">Kakongoriro Stores</a> (Laravel, Bootstrap, Jquery, AJax)</td>
-                            <td>Kakongoriro Stores leverages a point of sale web system to efficiently handle their procurement, inventory management, handling of damaged stock, supplier relationships, expenditure tracking and audit trail.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://collectionug.com" target="_blank">Collection Hub</a> (Laravel, Bootstrap, Jquery, AJax)</td>
-                            <td>Collection Hub uses a point of sale web based system for effectively overseeing inventory, sales, supplier and their transactions, expenditure, customers, and report generation.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://hotel.pivosoft.com/" target="_blank"> Hotel Management System</a> PHP (Laravel)</td>
-                            <td>In addition to being integrated with EFRIS, which makes it tax compliant in Uganda, hotel owners use this software to manage accomodation (guests and rooms), restaurant and bar, point of sale, store and procurement, housekeeping, human resource (staff, staff salaries, and other payments), expenses, finances, accounting, revenue reports, system audit, and so on.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://officems.pivosoft.com/" target="_blank">Office Solution</a> PHP (Laravel)</td>
-                            <td>Used by organizations to manage their project tasks, staff roles and departments, organizational expenditures, record staff attendance and generate reports on expenditures and staff attendance.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="http://schoolms.pivosoft.com/" target="_blank"> School Management System</a> PHP (Laravel)</td>
-                            <td>School Management System (SMS) helps school administrators to manage students, subjects and examinations, class timetables, student payment information, and users that include teachers, accountants, among others.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="http://e-exam.pivosoft.com/" target="_blank"> Online examination system</a></td>
-                            <td>The system allows students to log in and access their online examinations. They are
-                                evaluated immediately following exam submission.</td>
-
-                        </tr>
-
-                        <tr>
-                            <td><a href="http://posv2.pivosoft.com" target="_blank">simple unit converter</a> (PHP)</td>
-                            <td>a software that the user can use in performing basic math operations.</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://github.com/DallingtonAsin/UTLAgent.git" target="_blank">UTLAgent</a> (C#, HTML, Bootstrap)
-                            </td>
-                            <td>allows a Telecom (UTL) agent to register a customer, deposit and withdraw
-                                money from the customer's account, view customer information including customer account balance, view a list of
-                                transactions, among others</td>
-                        </tr>
-
-                        <tr>
-                            <td id="Services"><a href="https://github.com/DallingtonAsin/UTLAgentAPI.git" target="_blank">UTLAgent API</a> (C#)</td>
-                            <td>C# ASP.NET application programming interface (API) that processes requests from the
-                                UTLAgent web portal</td>
-                        </tr>
-
-                        <tr>
-                            <td><a href="https://dashboard.pivosoft.com/" target="_blank">ParkPro</a> (React Native, Typescript, Laravel) *ongoing</td>
-                            <td>Parkpro is a mobile application that enables drivers to find affordable parking in the cities. The app will enable drivers to quickly locate available parking places which reduces the time spent in search of parking.</td>
-                        </tr>
-
-                    </tbody>
-                </table>
-            </div>
-        </div>
 
         <div class="container" id="dev-posts">
-            <hr>
             <h5>Articles published on Dev Community</h5>
             <div class="row">
                 <div class="col-md-12">
@@ -647,19 +546,6 @@
             </div>
         </div>
 
-
-        <div class="container">
-            <hr>
-            <h5>Strategic Vision</h5>
-            <ul>
-                <li>
-                    My ultimate goal is to become a distinguished computer science professor, researcher, and entreprenuer.
-                    I intend to use my postgraduate research knowledge and skills to transform our software company,
-                    <a href="https://pivosoft.com/" class="text-info" target="_blank">Pivosoft</a> into one of Africa's preeminent research entities.
-                </li>
-            </ul>
-            <hr />
-        </div>
 
         <div class="container" id="Contact">
             <br>
@@ -733,22 +619,23 @@
             <span class="text-muted nunito text-green">
                 <p>Follow Dallington on the following socials</p>
             </span>
+            <span class="pl-1">
+                <a href="https://dev.to/dallington256" target="_blank">
+                    <img src="img/dev_com.png" width="60px" height="60px">
+                </a>
+            </span>
+       
+            <span class="pl-1">
+                <a href="https://www.x.com/thepatchedbug/" target="_blank">
+                    <img src="img/x.png" width="50px" height="50px"></a>
+            </span>
             <span class="pl-3">
                 <a href="https://www.linkedin.com/in/dallington-asingwire-0468a414a/" target="_blank">
-                    <img src="img/linkedin.svg" width="40px" height="40px">
-                    LinkedIn
+                    <img src="img/linkedin.png" width="50px" height="50px">
+                    
                 </a>
             </span>
-            <span class="pl-1">
-                <a href="https://www.twitter.com/sofexception/" target="_blank">
-                    <img src="img/twitter.png" width="40px" height="40px"> Twitter</a>
-            </span>
-            <span class="pl-1">
-                <a href="https://www.facebook.com/dallington.asingwire" target="_blank">
-                    <img src="img/fb.png" width="40px" height="40px">
-                    Facebook
-                </a>
-            </span>
+           
 
             <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
         </div>
