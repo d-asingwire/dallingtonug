@@ -388,38 +388,39 @@
             <hr>
         </div>
 
-
         <div class="container my-5">
-            <h5 id="Skills">Skills</h5>
-            <table class="table table-bordered table-striped">
-            <tbody>
-                <tr>
-                <td><strong>Programming Languages</strong></td>
-                <td>C, C++, C#, Java, PHP, JavaScript, Python</td>
-                </tr>
-                <tr>
-                <td><strong>Frameworks & Libraries</strong></td>
-                <td>React, Next.js, Angular, Node.js, React Native, Laravel</td>
-                </tr>
-                <tr>
-                <td><strong>Database Management</strong></td>
-                <td>PostgreSQL, MySQL, SQL</td>
-                </tr>
-                <tr>
-                <td><strong>Cloud Platforms</strong></td>
-                <td>AWS, Digital Ocean</td>
-                </tr>
-                <tr>
-                <td><strong>Software Development Methodologies</strong></td>
-                <td>Agile, Scrum, Waterfall</td>
-                </tr>
-                <tr>
-                <td><strong>Leadership</strong></td>
-                <td>Mentorship, Team Management, Decision Making, Effective Communication</td>
-                </tr>
-            </tbody>
-            </table>
-        </div>
+    <h5 id="Skills">Skills</h5>
+    <table class="table table-bordered table-striped">
+        <tbody>
+            <tr>
+                <td>Programming Languages</td>
+                <td><small>C, C++, C#, Java, PHP, JavaScript, Python</small></td>
+            </tr>
+            <tr>
+                <td>Frameworks & Libraries</td>
+                <td><small>React, Next.js, Angular, Node.js, React Native, Laravel</small></td>
+            </tr>
+            <tr>
+                <td>Database Management</td>
+                <td><small>PostgreSQL, MySQL, SQL</small></td>
+            </tr>
+            <tr>
+                <td>Cloud Platforms</td>
+                <td><small>AWS, Digital Ocean</small></td>
+            </tr>
+            <tr>
+                <td>Software Development Methodologies</td>
+                <td><small>Agile, Scrum, Waterfall</small></td>
+            </tr>
+            <tr>
+                <td>Leadership</td>
+                <td><small>Mentorship, Team Management, Decision Making, Effective Communication</small></td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+       
 
     <div class="container my-5" id="projects">
     <h5 id="Projects">Projects</h5>
