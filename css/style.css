@@ -27,8 +27,14 @@
         .container{
           margin-top: 25px;
         }
+        
+        @media (min-width:320px)  { 
+          .name{
+            margin-top: 5px;
+          }
+        }
 
-        @media (min-width:767px)  {
+        @media (min-width:1025px)  {
           body{
             background-color: #ccc !important;
             font-size: 15px !important
@@ -50,7 +56,6 @@
             max-width:225px;
              max-height:250px;
           }
-
         }
 
       .nav-link{
