@@ -1,8 +1,26 @@
 
       body{
-          background-color: #FF0000 !important;
-          font-size: 11px !important
+          font-size: 15px !important
         }
+     
+
+        @media (min-width:767px)  {
+          body{
+            background-color: #ccc !important;
+            font-size: 15px !important
+          }
+          nav{
+            margin-left: 10%;
+            margin-right: 10%;
+          }
+          main{
+            background-color: white;
+            margin-left: 10%;
+            margin-right: 10%;
+          }
+
+        }
+
       .nav-link{
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: 700;
@@ -30,10 +48,12 @@
         font-weight: bold;
       }
       .footer{
-      background: #343a40;
-        
+        background: #343a40;
         text-align: center;
         color: #f4f4f4;
+        margin-left: 10%;
+        margin-right: 10%;
+        height: 120px
       }
       .footer a{
         color: #f1f1f1;
@@ -127,6 +147,9 @@ h2,h3,h5,h4{
      object-fit: contain; /* Covers the card without stretching */
 }
 
+.articles ul li {
+  font-size: 14px;
+}
 
 
 @media (min-width:320px)  {  .card { width: 100%  }  .card > img { height: 350px;}/* smartphones, iPhone, portrait 480x320 phones */ }

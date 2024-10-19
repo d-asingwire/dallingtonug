@@ -509,7 +509,7 @@
         <div class="container" id="dev-posts">
             <h5>Articles published on Dev Community</h5>
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-12 articles">
                     <ul>
                         <li>
                             <article><a class="text-decoration-none" href="https://dev.to/dallington256/using-guzzle-http-in-laravel-to-send-http-requests-4po6" target="_blank">Using Guzzle Http Client to send Http Requests to the API in
@@ -531,7 +531,7 @@
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/connecting-to-mysql-database-in-java-3lej" target="_blank">Connecting to MySQL database in java</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/improving-your-reasoning-with-arrays-in-java-5b1j" target="_blank">Improving your reasoning with Arrays in java</a></li>
                         <li><a class="text-decoration-none" href="https://dev.to/dallington256/inner-classes-or-nested-classes-in-java-4m8d" target="_blank">Inner classes or nested classes in java</a></li>
-                        <li>Additional posts can be found at<a href="https://dev.to/dallington256" target="_blank"> 👉 here</a>
+                        <li><a href="https://dev.to/dallington256" target="_blank"> Additional posts can be found at 👉 here</a>
                         </li>
                     </ul>
                 </div>
@@ -540,7 +540,7 @@
     </main>
 
     <footer class="footer mt-auto py-3">
-        <div class="container-fluid nunito">
+        <div class="">
             <span class="pl-1">
                 <a href="https://dev.to/dallington256" target="_blank">
                     <img src="img/dev_com.png" width="48" height="48">
@@ -557,9 +557,9 @@
                     
                 </a>
             </span>
-           
-
-            <p class="lead" id="copyright">Copyright&copy;<?php date('Y') ?> Dallington Asingwire <?= date('Y') ?></p>
+        </div>
+        <div class="mt-2">
+        <span id="copyright">Copyright &copy; Dallington Asingwire</span>
         </div>
     </footer>
 
