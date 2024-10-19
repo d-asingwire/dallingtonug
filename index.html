@@ -9,9 +9,9 @@
     <meta http-equiv="content-type" content="text/html;charset=utf-8" />
     <title>Dallington Asingwire</title>
     <link rel="shortcut icon" type="image/x-icon" href="img/dallington.jpg" />
-    <link rel="stylesheet" type="text/css" href="./css/nunito.css" />
     <link rel="stylesheet" href="./vendors/bootstrap/dist/css/bootstrap.min.css" />
     <link rel="stylesheet" href="./css/style.css" />
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 </head>
 
 <body>
@@ -518,5 +518,12 @@
     <script src="vendors/jquery/dist/jquery.min.js"></script>
     <script src="vendors/bootstrap/dist/js/bootstrap.min.js"></script>
 </body>
-
+<script>
+    $(document).ready(function () {
+        $('.navbar-nav a').on('click', function () {
+            $('.navbar-collapse').collapse('hide');
+        });
+    });
+    </script>
+    
 </html>
