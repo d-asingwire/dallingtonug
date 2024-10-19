@@ -8,7 +8,7 @@
         .title {
             display: inline-block;
             border-bottom: 7px solid #17a2b8;
-            padding-bottom: 0px;
+            padding-bottom: 0;
          }
      
          .card{
@@ -16,7 +16,6 @@
           max-height:250px;
           justify-content: center;
           display: flex;
-          justify-content: center;
           align-items: center;
         }
 
@@ -74,9 +73,7 @@
         justify-content:center;
         align-items:center;
        }
-      .nunito{
-        font-family: 'Nunito' !important;
-      }
+
       .warning{
         background: #B5EAAA !important;
       }
@@ -109,33 +106,7 @@
       .table_headers{
         color: green;
       }
-     
-      .jumbotron{
-      background-image: url("img/try.png");
-      background-repeat: no-repeat;
-      background-size: cover;
-      z-index: -2;
-      opacity: 0.8;
-      display: block;    
-      }
-      #learnmore{
-        margin-top: 45px;
-        font-size: 15px;
-        margin-left: 13px;
-         background: #343a40;
-              color: #f4f4f4;
-      }
-      #dall{ 
-        font-weight: italic; 
-         font-family:Times New Roman;
-         font-size: 25px;
-         text-shadow: 3px;
-         color: black;
-         opacity: 100;
-      }
-      #dallington2018{
-        height:360px !important; 
-      }
+
       #connect{
       color: #6CC417;
       font-family:sans-serif !important;
@@ -156,11 +127,8 @@
 .custom-img {
   width: 200px;
   height: 70%; /* Ensures the image fills the card vertically */
-  margin-top: 5%;
-  margin-bottom: 5%;
-  margin-left: 5%;
-  margin-right: 10%;
-  object-fit: contain; /* Covers the card without stretching */
+    margin: 5% 10% 5% 5%;
+    object-fit: contain; /* Covers the card without stretching */
 }
 
 .articles ul li {
