@@ -24,17 +24,14 @@
 
     <title>Dallington Asingwire</title>
 
-    <link rel="icon" href="img/dallingtons.ico">
-    <link rel="stylesheet" type="text/css" href="css/nunito.css" />
-    <link rel="stylesheet" href="vendors/bootstrap/dist/css/bootstrap.min.css" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" type="text/css" href="vendors/fontawesome/css/all.min.css" />
-    <link rel="shortcut icon" type="image/x-icon" href="img/stFdallington.ico" />
+    <link rel="shortcut icon" type="image/x-icon" href="img/dallington.jpg" />
+    <link rel="stylesheet" type="text/css" href="./css/nunito.css" />
+    <link rel="stylesheet" href="./vendors/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="./css/style.css" />
 
 </head>
 
 <body>
-
     <nav class="navbar navbar-expand-lg navbar-dark fixed-top bg-dark">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -46,7 +43,7 @@
                     <a class="nav-link" href="#Home">Home <span class="sr-only">(current)</span></a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#Education">Education</a>
+                    <a class="nav-link" href="#education">Education</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#skills">Skills</a>
@@ -59,12 +56,6 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="#projects">Projects</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#Contact">Contact</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#quotes">Favorite Quotes</a>
                 </li>
             </ul>
         </div>
@@ -146,7 +137,7 @@
             <hr>
         </div>
 
-        <div class="container">
+        <div class="container" id="education">
             <h5>Education</h5>
 
             <p>
@@ -388,8 +379,8 @@
             <hr>
         </div>
 
-        <div class="container my-5">
-    <h5 id="Skills">Skills</h5>
+        <div class="container my-5" id="skills">
+    <h5 >Skills</h5>
     <table class="table table-bordered table-striped">
         <tbody>
             <tr>
@@ -546,80 +537,10 @@
                 </div>
             </div>
         </div>
-
-
-        <div class="container" id="Contact">
-            <br>
-            <h5>Contact</h5>
-            <span></span>
-            <div class="table-responsive">
-                <table class="table table-borderless">
-                    <tr>
-                        <td>Phone Number</td>
-                        <td>+256 700 477421</td>
-                    </tr>
-                    <tr>
-                        <td>Email</td>
-                        <td>asingwire50dallington@gmail.com</td>
-                    </tr>
-                </table>
-            </div>
-        </div>
-
-        <div class="container quotes" id="quotes">
-            <hr>
-            <h5>Favorite Quotes</h5><br>
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Martin_Luther_King%2C_Jr..jpg/220px-Martin_Luther_King%2C_Jr..jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text">
-                                "We must develop and maintain the capacity to forgive.He who is devoid of the power to
-                                forgive is devoid of the power to love." Martin Luther King
-                            </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/martin_luther_king_jr" role="button" target="_blank">Read more</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/456px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text">
-                                "Everybody is a genius.But if you judge a fish by its ability to climb a tree, it will
-                                live its whole life believing that it is stupid." Albert Einstein
-                            </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/albert_einstein" role="button" target="_blank">Read more</a>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-4">
-                    <div class="card">
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/800px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg" class="card-img-top" alt="...">
-                        <div class="card-body">
-                            <p class="card-text">
-                                "I do not feel obliged to believe that the same God who has endowed us with sense,
-                                reason,
-                                and intellect has intended us to forgo their use." Galileo
-                            </p>
-                            <a class="btn btn-secondary" href="https://www.brainyquote.com/authors/galileo_galilei" role="button" target="_blank">Read more</a>
-                        </div>
-                    </div>
-                </div>
-                <br><br>
-
-            </div>
-        </div>
     </main>
 
     <footer class="footer mt-auto py-3">
         <div class="container-fluid nunito">
-            <span class="text-muted nunito text-green">
-                <p>Follow Dallington on the following socials</p>
-            </span>
             <span class="pl-1">
                 <a href="https://dev.to/dallington256" target="_blank">
                     <img src="img/dev_com.png" width="48" height="48">

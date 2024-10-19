@@ -1,9 +1,8 @@
 
-    body{
-        background: #f4f4f4;
-        text-align: justify;
-        
-      }
+      body{
+          background-color: #FF0000 !important;
+          font-size: 11px !important
+        }
       .nav-link{
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: 700;
@@ -31,7 +30,7 @@
         font-weight: bold;
       }
       .footer{
-        background: #343a40;
+      background: #343a40;
         
         text-align: center;
         color: #f4f4f4;
@@ -124,7 +123,8 @@ h2,h3,h5,h4{
   margin-bottom: 5%;
   margin-left: 5%;
   margin-right: 10%;
-  object-fit: contain; /* Covers the card without stretching */
+  -o-object-fit: contain;
+     object-fit: contain; /* Covers the card without stretching */
 }
 
 
