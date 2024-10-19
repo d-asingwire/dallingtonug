@@ -1,7 +1,8 @@
 
-      body{
+        body {
           font-size: 15px !important
         }
+
 
         .title {
             display: inline-block;
@@ -9,6 +10,23 @@
             padding-bottom: 0px;
          }
      
+         .card{
+          max-width:225px;
+          max-height:250px;
+          justify-content: center;
+          display: flex;
+          justify-content: center;
+          align-items: center;
+        }
+
+        .card{
+          max-width:225px;
+          max-height:250px;
+        }
+
+        .container{
+          margin-top: 25px;
+        }
 
         @media (min-width:767px)  {
           body{
@@ -27,6 +45,10 @@
           footer{
             margin-left: 10%;
             margin-right: 10%;
+          }
+          .card{
+            max-width:225px;
+             max-height:250px;
           }
 
         }
@@ -114,57 +136,27 @@
       font-size: 16px;
       }
 
-      .card {
-          margin: 0 0 10px!important;
-      }
-    
-     .card > img {
-         height: auto;
-         
-         /* width: auto; */
-      }
+     
       .navbar-nav > li{
          padding-left: 15px;
          padding-right: 15px;
          font-size: 19px;
       }
-      .co-image{
-        width: 1050px;
-        height: 750px;
-        opacity: 0.9;
+     
+      h2,h3,h5,h4{
+        font-weight: bold;
       }
 
-  
-footer > .container > span {
-     font-size: 15px;
-     text-indent: 5em;
-
-}
-h2,h3,h5,h4{
-  font-weight: bold;
-}
-
 .custom-img {
-  width: 300px;
-  height: 100%; /* Ensures the image fills the card vertically */
+  width: 200px;
+  height: 70%; /* Ensures the image fills the card vertically */
   margin-top: 5%;
   margin-bottom: 5%;
   margin-left: 5%;
   margin-right: 10%;
-  -o-object-fit: contain;
-     object-fit: contain; /* Covers the card without stretching */
+  object-fit: contain; /* Covers the card without stretching */
 }
 
 .articles ul li {
   font-size: 14px;
 }
-
-
-@media (min-width:320px)  {  .card { width: 100%  }  .card > img { height: 350px;}/* smartphones, iPhone, portrait 480x320 phones */ }
-@media (min-width:481px)  {  .card { width: 100%  } .card > img { height: 350px;}/* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
-@media (min-width:641px)  { .card { width: 100%   } .card > img { height: 350px;}/* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
-@media (min-width:961px)  { .card { width: 100%   } .card > img { height: 350px;}/* tablet, landscape iPad, lo-res laptops ands desktops */ }
-@media (min-width:1025px) { .card { width: 100%   } .card > img { height: 350px;}/* big landscape tablets, laptops, and desktops */ }
-@media (min-width:1281px) { .card { width: 100%   } .card > img { height: 350px;}/* hi-res laptops and desktops */ }
-
-     
