@@ -14,7 +14,7 @@
         .intro a,
         .background span,
         .education span {
-            font-weight: bolder;
+            /*font-weight: bold;*/
         }
 
         .text-info{
