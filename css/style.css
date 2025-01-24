@@ -1,7 +1,6 @@
 
         body {
           font-size: 15px !important;
-            background-color: #f1eee5;
           text-align: justify;
             padding: 0;
             margin: 0;
@@ -9,12 +8,6 @@
 
         a{
             text-decoration: none !important;
-        }
-
-        .intro a,
-        .background span,
-        .education span {
-            /*font-weight: bold;*/
         }
 
         .text-info{
@@ -52,29 +45,22 @@
 
         @media (min-width:1025px)  {
           body{
-            /*background-color: #ccc !important;*/
-            font-size: 15px !important;
-              /*background: repeating-linear-gradient(*/
-              /*        45deg,*/
-              /*        gray 0px,*/
-              /*        gray 2px,*/
-              /*        transparent 2px,*/
-              /*        transparent 9px*/
-              /*);*/
+              background-color: #f1eee5;
+              font-size: 15px !important;
           }
-          /*nav{*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
-          /*main{*/
-          /*  background-color: white;*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
-          /*footer{*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
+          nav{
+            margin-left: 10%;
+            margin-right: 10%;
+          }
+          main{
+            background-color: white;
+            margin-left: 10%;
+            margin-right: 10%;
+          }
+          footer{
+            margin-left: 10%;
+            margin-right: 10%;
+          }
           .card{
             max-width:225px;
              max-height:250px;
