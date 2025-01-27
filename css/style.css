@@ -44,23 +44,23 @@
         }
 
         @media (min-width:1025px)  {
-          body{
-              background-color: #f1eee5;
-              font-size: 15px !important;
-          }
-          nav{
-            margin-left: 10%;
-            margin-right: 10%;
-          }
-          main{
-            background-color: white;
-            margin-left: 10%;
-            margin-right: 10%;
-          }
-          footer{
-            margin-left: 10%;
-            margin-right: 10%;
-          }
+          /*body{*/
+          /*    background-color: #f1eee5;*/
+          /*    font-size: 15px !important;*/
+          /*}*/
+          /*nav{*/
+          /*  margin-left: 10%;*/
+          /*  margin-right: 10%;*/
+          /*}*/
+          /*main{*/
+          /*  background-color: white;*/
+          /*  margin-left: 10%;*/
+          /*  margin-right: 10%;*/
+          /*}*/
+          /*footer{*/
+          /*  margin-left: 10%;*/
+          /*  margin-right: 10%;*/
+          /*}*/
           .card{
             max-width:225px;
              max-height:250px;
