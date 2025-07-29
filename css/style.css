@@ -134,9 +134,9 @@
       }
 
 .custom-img {
-  width: 200px;
-  height: 70%; /* Ensures the image fills the card vertically */
-    margin: 5% 10% 5% 5%;
+  width: 100% !important;
+  height: 100% !important; /* Ensures the image fills the card vertically */
+    margin: 2% !important;
     object-fit: contain; /* Covers the card without stretching */
 }
 
