@@ -1,149 +1,152 @@
+* {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
 
-        body {
-          font-size: 15px !important;
-          text-align: justify;
-            padding: 0;
-            margin: 0;
-        }
+body {
+    font-size: 14px !important;
+    text-align: justify;
+    padding: 0;
+    margin: 0;
+}
 
-        a{
-            text-decoration: none !important;
-        }
+a {
+    text-decoration: none !important;
+}
 
-        .text-info{
-            color: green !important;
-        }
+.title {
+    display: inline-block;
+    border-bottom: 7px solid #17a2b8;
+    padding-bottom: 0;
+}
 
-        .title {
-            display: inline-block;
-            border-bottom: 7px solid #17a2b8;
-            padding-bottom: 0;
-         }
+.card {
+    max-width: 225px;
+    max-height: 250px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
 
-         .card{
-          max-width:225px;
-          max-height:250px;
-          justify-content: center;
-          display: flex;
-          align-items: center;
-        }
+.card {
+    max-width: 225px;
+    max-height: 250px;
+}
 
-        .card{
-          max-width:225px;
-          max-height:250px;
-        }
+.container {
+    margin-top: 25px;
+}
 
-        .container{
-          margin-top: 25px;
-        }
+@media (min-width: 320px) {
+    .name {
+        margin-top: 5px;
+    }
+}
 
-        @media (min-width:320px)  {
-          .name{
-            margin-top: 5px;
-          }
-        }
+@media (min-width: 1025px) {
+    /*body{*/
+    /*    background-color: #f1eee5;*/
+    /*    font-size: 15px !important;*/
+    /*}*/
+    /*nav{*/
+    /*  margin-left: 10%;*/
+    /*  margin-right: 10%;*/
+    /*}*/
+    /*main{*/
+    /*  background-color: white;*/
+    /*  margin-left: 10%;*/
+    /*  margin-right: 10%;*/
+    /*}*/
+    /*footer{*/
+    /*  margin-left: 10%;*/
+    /*  margin-right: 10%;*/
+    /*}*/
+    .card {
+        max-width: 225px;
+        max-height: 250px;
+    }
+}
 
-        @media (min-width:1025px)  {
-          /*body{*/
-          /*    background-color: #f1eee5;*/
-          /*    font-size: 15px !important;*/
-          /*}*/
-          /*nav{*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
-          /*main{*/
-          /*  background-color: white;*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
-          /*footer{*/
-          /*  margin-left: 10%;*/
-          /*  margin-right: 10%;*/
-          /*}*/
-          .card{
-            max-width:225px;
-             max-height:250px;
-          }
-        }
+.nav-link {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #8b8d8f;
+    font-style: normal;
+}
 
-      .nav-link{
-        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-        font-weight: 700;
-        font-size: 16px;
-        line-height: 20px;
-        color: #8b8d8f;
-        font-style: normal;
-      }
-      .bio-content {
-        flex-direction: column;
-        height:100%;
-        width:100%;
-        justify-content:center;
-        align-items:center;
-       }
+.bio-content {
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
 
-      .warning{
-        background: #B5EAAA !important;
-      }
-      #dall2018{
-        font-size: 14px;
-        text-align: center;
-        font-weight: bold;
-      }
-      .footer{
-        background: #343a40;
-        text-align: center;
-        color: #f4f4f4;
-        height: 120px
-      }
-      .footer a{
-        color: #f1f1f1;
-        text-decoration: none;
-      }
-      .footer a:hover{
-        color: green;
-        text-decoration: none;
-      }
+.warning {
+    background: #B5EAAA !important;
+}
 
-      #copyright{
-        color: #fff;
-        text-align: center;
-        margin-top: 110px;
-        font-size: 11px;
-      }
-      .table_headers{
-        color: green;
-      }
+#dall2018 {
+    font-size: 14px;
+    text-align: center;
+    font-weight: bold;
+}
 
-      #connect{
-      color: #6CC417;
-      font-family:sans-serif !important;
-      font-size: 16px;
-      }
+.footer {
+    background: #343a40;
+    text-align: center;
+    color: #f4f4f4;
+    height: 120px
+}
+
+.footer a {
+    color: #f1f1f1;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: green;
+    text-decoration: none;
+}
+
+#copyright {
+    color: #fff;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 11px;
+}
+
+.table_headers {
+    color: green;
+}
+
+#connect {
+    color: #6CC417;
+    font-size: 16px;
+}
 
 
-      .navbar-nav > li{
-         padding-left: 15px;
-         padding-right: 15px;
-         font-size: 19px;
-      }
+.navbar-nav > li {
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 19px;
+}
 
-      h2,h3,h5,h4{
-        font-weight: bold;
-      }
+h2, h3, h5, h4 {
+    font-weight: bold;
+}
 
 .custom-img {
-  width: 100% !important;
-  height: 100% !important; /* Ensures the image fills the card vertically */
+    width: 100% !important;
+    height: 100% !important; /* Ensures the image fills the card vertically */
     margin: 2% !important;
     object-fit: contain; /* Covers the card without stretching */
 }
 
 .articles ul li {
-  font-size: 14px;
+    font-size: 14px;
 }
 
-.github-icon, .dev-com-icon, .x-icon{
+.github-icon, .dev-com-icon, .x-icon {
     filter: opacity(0.5) drop-shadow(0 0 0 #ffffff);
 }
