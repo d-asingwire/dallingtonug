@@ -148,13 +148,12 @@ h4 {
 .custom-img {
     width: 80%;
     height: auto;
-    /* Let height adjust naturally */
-    margin-left: 2%;
     object-fit: cover;
-    /* or use 'contain' based on your preference */
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-top: 10px;
 }
-
-
 
 .articles ul li {
     font-size: 14px;
