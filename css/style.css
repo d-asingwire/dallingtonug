@@ -143,14 +143,18 @@ h4 {
     font-weight: bold;
 }
 
+
+
 .custom-img {
-    width: 100%;
-    /* Make image fill the card width */
+    width: 80%;
     height: auto;
-    /* Keep aspect ratio */
+    /* Let height adjust naturally */
+    margin-left: 2%;
     object-fit: cover;
-    /* Or 'contain', depending on cropping preference */
+    /* or use 'contain' based on your preference */
 }
+
+
 
 .articles ul li {
     font-size: 14px;
