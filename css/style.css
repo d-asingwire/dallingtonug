@@ -144,12 +144,12 @@ h4 {
 }
 
 .custom-img {
-    width: 80%;
-    height: 80% !important;
-    /* Ensures the image fills the card vertically */
-    margin-left: 2% !important;
-    object-fit: contain;
-    /* Covers the card without stretching */
+    width: 100%;
+    /* Make image fill the card width */
+    height: auto;
+    /* Keep aspect ratio */
+    object-fit: cover;
+    /* Or 'contain', depending on cropping preference */
 }
 
 .articles ul li {
