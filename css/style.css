@@ -143,17 +143,25 @@ h4 {
     font-weight: bold;
 }
 
-
-
-.custom-img {
-    width: 80%;
-    height: auto;
-    object-fit: cover;
+.image-container {
+    height: 0;
+    padding-bottom: 100%;
+    /* Creates a square container, adjust percentage as needed */
     position: relative;
-    left: 50%;
-    transform: translateX(-50%);
-    margin-top: 10px;
+    overflow: hidden;
 }
+
+.image-container img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    /* This won't crop now because container controls aspect ratio */
+}
+
+
 
 .articles ul li {
     font-size: 14px;
