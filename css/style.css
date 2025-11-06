@@ -168,7 +168,7 @@ h4 {
     }
 }
 
-.education hr {
+.education>hr {
     margin-top: 15px;
 }
 
