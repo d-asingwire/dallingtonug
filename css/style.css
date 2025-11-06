@@ -46,6 +46,7 @@ a {
 }
 
 @media (min-width: 1025px) {
+
     /*body{*/
     /*    background-color: #f1eee5;*/
     /*    font-size: 15px !important;*/
@@ -129,27 +130,34 @@ a {
 }
 
 
-.navbar-nav > li {
+.navbar-nav>li {
     padding-left: 15px;
     padding-right: 15px;
     font-size: 19px;
 }
 
-h2, h3, h5, h4 {
+h2,
+h3,
+h5,
+h4 {
     font-weight: bold;
 }
 
 .custom-img {
-    width: 100%;
-    height: 100% !important; /* Ensures the image fills the card vertically */
+    width: 80%;
+    height: 80% !important;
+    /* Ensures the image fills the card vertically */
     margin-left: 2% !important;
-    object-fit: contain; /* Covers the card without stretching */
+    object-fit: contain;
+    /* Covers the card without stretching */
 }
 
 .articles ul li {
     font-size: 14px;
 }
 
-.github-icon, .dev-com-icon, .x-icon {
+.github-icon,
+.dev-com-icon,
+.x-icon {
     filter: opacity(0.5) drop-shadow(0 0 0 #ffffff);
 }
